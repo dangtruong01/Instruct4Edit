@@ -1,0 +1,1 @@
+Reduce the amount of text in the company description.

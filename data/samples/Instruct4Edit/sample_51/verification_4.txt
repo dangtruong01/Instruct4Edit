@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to decrease the vertical space surrounding the "Blog by" text in the blog post previews.
+2. Comparing the "before" and "after" images, the space above and below "Blog by" appears reduced in the "after" image.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

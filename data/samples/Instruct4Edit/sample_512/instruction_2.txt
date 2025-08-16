@@ -1,0 +1,1 @@
+Add a subtle border around each of the images in the "このようなもの" section.

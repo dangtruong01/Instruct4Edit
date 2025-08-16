@@ -1,0 +1,1 @@
+Slightly increase the spacing between the lines of text in the main article.

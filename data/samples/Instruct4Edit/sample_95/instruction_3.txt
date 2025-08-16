@@ -1,0 +1,1 @@
+The large blank banner area below the main header should display a clear, prominent heading that describes the page, and also feature a relevant background image.

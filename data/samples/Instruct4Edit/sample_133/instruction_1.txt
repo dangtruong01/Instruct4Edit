@@ -1,0 +1,1 @@
+Adjust the colors of the top navigation bar and its text so the words are much clearer and stand out better against the background.

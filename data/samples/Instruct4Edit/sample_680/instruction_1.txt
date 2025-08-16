@@ -1,0 +1,1 @@
+Make the top header area more compact by arranging the site logo, accessibility options, and search bar in a more streamlined layout.

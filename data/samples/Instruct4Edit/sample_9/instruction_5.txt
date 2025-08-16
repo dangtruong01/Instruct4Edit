@@ -1,0 +1,1 @@
+5. On smaller screens, stack the images in the main content area vertically instead of horizontally.

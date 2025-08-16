@@ -1,0 +1,1 @@
+Realign the main navigation links in the header so they spread out and fill the available space more evenly.

@@ -1,0 +1,1 @@
+Add a subtle border to the user avatars/profile images to visually separate them.

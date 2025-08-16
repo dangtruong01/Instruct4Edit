@@ -1,0 +1,1 @@
+Make the date text underneath each blog post a little smaller and a lighter shade of gray, so it's less prominent.

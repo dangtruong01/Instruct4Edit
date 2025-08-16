@@ -1,0 +1,1 @@
+Increase the size of the "Back to Top" button at the very bottom of the page, and center it.

@@ -1,0 +1,1 @@
+Make the advertisement area on the right side of the main content adjust its height automatically to fit its content, rather than being a fixed, tall box.

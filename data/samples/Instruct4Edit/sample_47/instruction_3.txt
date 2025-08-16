@@ -1,0 +1,1 @@
+Add a subtle border around the image placeholder, and make it more visually distinct.

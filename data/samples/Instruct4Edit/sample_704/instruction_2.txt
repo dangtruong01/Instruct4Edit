@@ -1,0 +1,1 @@
+Increase the font size and boldness of the month names in the year navigation section.

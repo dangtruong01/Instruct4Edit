@@ -1,0 +1,1 @@
+Make the "Continue Reading" buttons a brighter, more noticeable color.

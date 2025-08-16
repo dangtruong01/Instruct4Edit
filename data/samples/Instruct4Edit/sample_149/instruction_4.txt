@@ -1,0 +1,1 @@
+Remove the solid border or frame around the entire main content section, allowing the content to flow more openly on the page and creating a less boxy feel.

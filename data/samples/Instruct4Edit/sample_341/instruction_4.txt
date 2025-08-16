@@ -1,0 +1,1 @@
+Reduce the width of the large image in the footer section, and ensure it is perfectly centered below the article content.

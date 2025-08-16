@@ -1,0 +1,1 @@
+Add a subtle border around each of the ad boxes in the right-hand column to visually separate them.

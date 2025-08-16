@@ -1,0 +1,1 @@
+Increase the visual spacing around distinct content blocks, like between the product description and the "Similar Items" section, to give the page more breathing room and improve readability.

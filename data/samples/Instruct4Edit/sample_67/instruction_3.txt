@@ -1,0 +1,1 @@
+The three dark boxes under "Core Features" should be a consistent height, ensuring the text doesn't overflow.

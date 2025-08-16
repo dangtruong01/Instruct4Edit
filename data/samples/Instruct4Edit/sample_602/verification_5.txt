@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the copyright text in the footer. This means visually shifting the text so that it appears in the middle of the footer area.
+2. Comparing the two images, the copyright text appears to be in the same position in both. It is aligned to the left in both images.
+3. There is no visible change in the alignment of the copyright text.
+
+Final verdict:
+❌ Not Applied

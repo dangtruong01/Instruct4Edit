@@ -1,0 +1,1 @@
+Center the navigation menu items horizontally in the header.

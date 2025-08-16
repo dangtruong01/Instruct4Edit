@@ -1,0 +1,1 @@
+In the footer, change the copyright text to a smaller font size and a lighter gray color.

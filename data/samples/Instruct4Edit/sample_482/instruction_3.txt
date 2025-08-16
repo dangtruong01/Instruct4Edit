@@ -1,0 +1,1 @@
+Add a subtle border around each image in the main content area.

@@ -1,0 +1,1 @@
+Align the main navigation items, like "Katja de Man" and "Schrijver", to the right side of the page header.

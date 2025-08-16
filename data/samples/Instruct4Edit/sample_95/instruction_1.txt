@@ -1,0 +1,1 @@
+All rectangular buttons on the page, especially the prominent "Give Now" button, should have softly rounded corners.

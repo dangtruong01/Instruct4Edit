@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The visual change should be that the labels of the comment form, such as "Bình luận", "Tên", "Email", and "Trang web", should be bolded.
+2.  The labels in the "after" image do not appear to be bolded.
+3.  The change is not visible.
+
+Final verdict:
+❌ Not Applied

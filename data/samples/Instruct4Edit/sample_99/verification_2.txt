@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intention is to add a subtle shadow to the profile images.
+2. I cannot see any shadows added to the profile images in the "after" image.
+3. There are no shadows added to the profile images.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to increase the font size and make the question titles bold.
+2. Comparing the "before" and "after" images, it appears the question titles in the "Related Questions" section are now larger and bolder.
+3. There are no immediate doubts or ambiguities. The change seems clearly visible.
+
+Final verdict:
+✅ Fully Applied

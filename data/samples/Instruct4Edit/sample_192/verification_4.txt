@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intention is to reduce the width of the main content area so that it appears less stretched. This means making the text block narrower.
+2. Comparing the two images, the content in the "after" image appears narrower than in the "before" image. The text block is noticeably smaller, and the overall layout feels less stretched.
+3. I can clearly see that the width has been reduced.
+
+Final verdict:
+✅ Fully Applied

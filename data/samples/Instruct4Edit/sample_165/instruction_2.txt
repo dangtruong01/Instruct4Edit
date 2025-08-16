@@ -1,0 +1,1 @@
+Change the background color of the main content area to a slightly lighter shade.

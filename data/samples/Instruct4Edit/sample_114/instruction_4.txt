@@ -1,0 +1,1 @@
+The background color of the sidebar should be a lighter shade of blue.

@@ -1,0 +1,1 @@
+Make all call-to-action buttons, like "Read More" and "Load More posts," have gently rounded corners and a very subtle drop shadow to make them feel more clickable.

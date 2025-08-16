@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background of the navigation menu at the bottom of the screen to dark red with rounded corners.
+2. There is no visible navigation menu at the bottom of the screen in either the before or after images.
+3. The instruction cannot be applied because there is no navigation menu at the bottom of the screen.
+
+Final verdict:
+❌ Not Applied

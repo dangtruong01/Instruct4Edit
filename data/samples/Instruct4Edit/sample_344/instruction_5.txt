@@ -1,0 +1,1 @@
+Ensure the footer sticks to the bottom of the page, even when there are few search results.

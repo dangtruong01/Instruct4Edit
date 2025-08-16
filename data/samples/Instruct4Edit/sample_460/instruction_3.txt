@@ -1,0 +1,1 @@
+Change the "Search" button in the sidebar to a more visually prominent color.

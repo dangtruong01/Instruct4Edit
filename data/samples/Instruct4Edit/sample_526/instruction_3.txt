@@ -1,0 +1,1 @@
+The date and location information in the title section ("广州•广交会展馆") needs more visual emphasis; maybe use a background color or a different font.

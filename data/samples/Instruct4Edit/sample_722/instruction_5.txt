@@ -1,0 +1,1 @@
+The "Principal," "Series," "Información:" titles in the bottom section are too close to the top of their boxes. Add some space above them.

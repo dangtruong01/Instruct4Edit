@@ -1,0 +1,1 @@
+Refine the appearance of the 'Newer Post' and 'Older Post' navigation buttons at the bottom of the article, making them appear softer and more integrated with the page style, perhaps with rounded corners or a less prominent border.

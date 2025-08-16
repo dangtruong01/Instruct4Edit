@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the navigation links (Submit Ticket, Login, Listings, Homepage) in the header more visually distinct. This can be achieved by adding a background color to each link or adding a dividing line between them.
+2. Comparing the "before" and "after" images, there is no visual difference in the header's navigation links. They appear identical in both images.
+3. There's no background color or dividing line added to visually distinguish the navigation links in the "after" image.
+
+Final verdict:
+❌ Not Applied

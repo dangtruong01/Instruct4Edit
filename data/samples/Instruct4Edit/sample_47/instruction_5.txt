@@ -1,0 +1,1 @@
+Change the color of the "Все новости" link to a darker shade of orange.

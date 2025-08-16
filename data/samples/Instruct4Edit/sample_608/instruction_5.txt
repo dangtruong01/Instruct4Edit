@@ -1,0 +1,1 @@
+Make the newsletter signup input field and button full width on the footer.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the color of the sidebar titles to a darker shade.
+2. In the "after" image, the color of the sidebar titles (e.g., "Total Pageview," "Cuouth," "Arsip Cerita Cha") appears the same as in the "before" image, thus no changes can be seen.
+3. There are no visible changes in the color of the sidebar titles.
+
+Final verdict:
+❌ Not Applied

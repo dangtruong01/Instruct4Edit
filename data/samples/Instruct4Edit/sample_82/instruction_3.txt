@@ -1,0 +1,1 @@
+Increase the vertical spacing between the paragraphs within the main article content to improve readability and reduce text density.

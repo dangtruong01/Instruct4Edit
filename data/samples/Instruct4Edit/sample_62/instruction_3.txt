@@ -1,0 +1,1 @@
+Highlight the personal introduction section in the sidebar (with Theresa's photo and text) by giving it a soft, contrasting background color and some padding.

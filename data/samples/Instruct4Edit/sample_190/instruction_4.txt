@@ -1,0 +1,1 @@
+The sidebar "Exchange News" list needs a visual separator between each item, like a subtle horizontal line.

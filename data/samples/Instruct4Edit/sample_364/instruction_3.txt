@@ -1,0 +1,1 @@
+Change the "Posting Lebih Baru" and "Posting Lama" buttons to a more visually prominent color.

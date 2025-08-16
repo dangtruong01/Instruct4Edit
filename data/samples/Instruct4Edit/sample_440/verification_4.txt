@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to add a small icon next to each link in the footer menu.
+2. In the after image, there are small icons next to the "DMCA", "Terms of Use" and "Privacy Policy" links in the footer menu, where no icons were present in the before image.
+3. The change is clear and consistent with the instruction.
+
+Final verdict:
+✅ Fully Applied

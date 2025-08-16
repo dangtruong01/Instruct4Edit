@@ -1,0 +1,1 @@
+Widen the main content area of the article on the page, so that the text and image take up more horizontal space.

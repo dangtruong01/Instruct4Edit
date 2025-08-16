@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the text links in the top header more prominent by changing their color to something that stands out more against the background.
+2. Looking at the images, specifically the text links in the top header such as "Thyrocare Couple Offer 116 Tests @ 2800", the color appears unchanged between the before and after images.
+3. There is no apparent change in the color of the text links in the top header.
+
+Final verdict:
+❌ Not Applied

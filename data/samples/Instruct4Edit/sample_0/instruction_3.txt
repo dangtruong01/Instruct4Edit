@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the table on the page.

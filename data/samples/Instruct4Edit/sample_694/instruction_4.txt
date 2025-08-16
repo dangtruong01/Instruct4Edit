@@ -1,0 +1,1 @@
+Redesign the "Previous article" and "Next article" links at the bottom to align better with the main content and be easier to find.

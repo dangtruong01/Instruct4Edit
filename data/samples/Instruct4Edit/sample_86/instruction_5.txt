@@ -1,0 +1,1 @@
+Increase the size of the website's logo in the top left corner and ensure it aligns better vertically with the main navigation menu items.

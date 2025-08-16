@@ -1,0 +1,1 @@
+Add a border around the image in the main content area to visually separate it from the text.

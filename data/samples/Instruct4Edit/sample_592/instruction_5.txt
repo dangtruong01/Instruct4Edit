@@ -1,0 +1,1 @@
+Add a small amount of space between the menu items in the sidebar.

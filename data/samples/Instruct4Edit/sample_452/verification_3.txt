@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the sidebar widgets to white.
+2. Looking at the image, the sidebar widgets (Berita Populer, Jurusan) in the after image now have a white background, which was not the case in the before image.
+3. There are no doubts or missing elements.
+
+Final verdict:
+✅ Fully Applied

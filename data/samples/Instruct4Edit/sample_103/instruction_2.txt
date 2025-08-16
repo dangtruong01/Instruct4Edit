@@ -1,0 +1,1 @@
+Make the search input box in the banner wider, so it takes up more horizontal space.

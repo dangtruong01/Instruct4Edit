@@ -1,0 +1,1 @@
+On the left sidebar, make the links more visually distinct, perhaps by using a different font, color, or adding a subtle background color on hover.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow effect to the header. The header is the top-most section of the website, where the title "SEKITAR MUSIK" is located.
+2. Comparing the two images, there appears to be no shadow effect added to the header in the after image. Both images appear identical in this section.
+3. There is no visible change.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Center the footer content and remove the border at the top of the footer.

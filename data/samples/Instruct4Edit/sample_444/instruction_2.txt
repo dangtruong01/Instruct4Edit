@@ -1,0 +1,1 @@
+Adjust the logo so that it aligns vertically within the blue header area.

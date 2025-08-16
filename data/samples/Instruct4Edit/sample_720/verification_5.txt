@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the copyright information in the footer. This means the text at the bottom of the page, specifically the lines starting with "© 2021" and "Non-profit web design by Boxcar Studio", should be visually centered horizontally on the page.
+2. In the "after" image, the copyright information is visibly centered compared to the "before" image where it was left-aligned.
+3. There are no apparent ambiguities or missing elements. The text is clearly centered.
+
+Final verdict:
+✅ Fully Applied

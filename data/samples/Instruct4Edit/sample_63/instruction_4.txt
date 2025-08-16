@@ -1,0 +1,1 @@
+Increase the font size and boldness of the current price displayed on each product card.

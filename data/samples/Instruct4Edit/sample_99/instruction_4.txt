@@ -1,0 +1,1 @@
+Change the "Follow" buttons to say "Following" and have a checkmark icon after they've been clicked.

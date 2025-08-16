@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to lighten the background color of the header. The header is the "Privacy Policy" section at the top of the page.
+2. Comparing the two images, the background color of the header appears to be slightly lighter in the "after" image than in the "before" image.
+3. There are no apparent ambiguities or missing elements. The change is subtle but visible.
+
+Final verdict:
+✅ Fully Applied

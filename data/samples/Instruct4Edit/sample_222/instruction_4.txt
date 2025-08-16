@@ -1,0 +1,1 @@
+Increase the amount of vertical space separating each individual quote block to make the content feel less dense and easier to scan.

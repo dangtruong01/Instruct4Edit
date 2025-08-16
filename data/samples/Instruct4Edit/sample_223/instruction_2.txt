@@ -1,0 +1,1 @@
+Redesign the main navigation links at the top so they appear as a single, cohesive row, and give them a more modern look, perhaps by removing the small icons next to each link.

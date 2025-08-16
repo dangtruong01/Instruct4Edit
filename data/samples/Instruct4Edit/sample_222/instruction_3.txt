@@ -1,0 +1,1 @@
+Adjust the sizing and spacing of the main title and all subheadings so they each occupy their own line and clearly stand out with appropriate emphasis relative to the content.

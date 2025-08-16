@@ -1,0 +1,1 @@
+Increase the spacing between the main horizontal navigation items and add a subtle visual change when you hover over them.

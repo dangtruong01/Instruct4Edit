@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main title "Ghost OG Strain".
+2. Comparing the two images, I cannot see any visible shadow added to the main title in the "after" image.
+3. The instruction was not implemented.
+
+Final verdict:
+❌ Not Applied

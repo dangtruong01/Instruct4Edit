@@ -1,0 +1,1 @@
+Change the list of product specifications (like Brand, MPN) so that each item appears on its own line, like a standard list, instead of all running together.

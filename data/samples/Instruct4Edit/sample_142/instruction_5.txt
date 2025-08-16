@@ -1,0 +1,1 @@
+Currently, the overall content width is fixed. Make the main content area of the page stretch to fill more of the available browser width, especially on larger screens, rather than staying contained in a narrow column.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the color of the "KFCの記事一覧" heading to a shade of red to make it stand out.
+2. In the 'after' image, the "KFCの記事一覧" heading is visibly red, while it wasn't in the 'before' image. The red color makes it stand out more.
+3. There are no doubts or ambiguities.
+
+Final verdict:
+✅ Fully Applied

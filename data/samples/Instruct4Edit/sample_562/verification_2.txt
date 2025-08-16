@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests that the text in the navigation menu be bigger and bolder.
+2. Comparing the "before" and "after" images, the navigation menu text ("Projdi na obsah", "Saturnova obývací loď", "Saturnova obývací loď", "Menu", "NOVINKY NA PALUBĚ", "Menu") is not bigger or bolder. The font and weight appear the same in both images.
+3. There are no visible changes, ambiguities, or missing elements other than the absence of the instructed design changes.
+
+Final verdict:
+❌ Not Applied

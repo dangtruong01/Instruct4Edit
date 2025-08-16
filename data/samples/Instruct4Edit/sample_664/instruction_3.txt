@@ -1,0 +1,1 @@
+Ensure the comments count and the share icon are clearly separated at the bottom, perhaps by adding a small gap between them.

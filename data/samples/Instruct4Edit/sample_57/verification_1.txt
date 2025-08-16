@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is for the navigation bar's background to turn a light gray color.
+2. The navigation bar, in this case, is the area containing "New website" and the "Sample Page" button. There is no visible change in the color of this area.
+3. The instruction is clear, but the implementation is not visible.
+
+Final verdict:
+❌ Not Applied

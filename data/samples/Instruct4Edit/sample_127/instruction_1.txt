@@ -1,0 +1,1 @@
+Make the selected item in the main left navigation list more clearly highlighted, perhaps with a filled background color and bolder text.

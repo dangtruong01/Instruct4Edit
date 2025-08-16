@@ -1,0 +1,1 @@
+Increase the vertical spacing between each person listed in the main follower list to give them more breathing room.

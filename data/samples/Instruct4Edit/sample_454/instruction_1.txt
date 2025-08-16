@@ -1,0 +1,1 @@
+Make the header area at the top of the page a solid color, instead of a gradient.

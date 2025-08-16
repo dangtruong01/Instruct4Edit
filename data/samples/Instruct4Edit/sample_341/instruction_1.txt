@@ -1,0 +1,1 @@
+Shrink the overall height of the very top header area, especially by reducing the size of the main logo, to give the page a more compact feel.

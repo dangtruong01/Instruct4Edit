@@ -1,0 +1,1 @@
+Transform the "multi7" and "multi9" navigation text below the large image into distinct, clickable buttons with a clear background and slightly rounded corners.

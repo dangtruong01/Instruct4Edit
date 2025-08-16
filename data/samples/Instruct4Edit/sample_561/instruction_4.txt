@@ -1,0 +1,1 @@
+Tidy up the sidebar widgets - add some visual separation between each section.

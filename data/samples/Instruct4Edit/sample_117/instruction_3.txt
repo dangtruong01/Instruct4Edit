@@ -1,0 +1,1 @@
+Turn the "Войти для представителей" text in the header into a prominent button with a contrasting background color.

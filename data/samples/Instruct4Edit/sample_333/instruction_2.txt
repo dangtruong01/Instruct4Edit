@@ -1,0 +1,1 @@
+Make the main heading of the article larger and bolder, and give the sub-headings within the article text a distinct color.

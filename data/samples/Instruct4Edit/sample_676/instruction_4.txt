@@ -1,0 +1,1 @@
+Increase the horizontal spacing between the left-hand section menu and the main article content for better visual separation and flow.

@@ -1,0 +1,1 @@
+Center the footer content vertically within the blue footer background.

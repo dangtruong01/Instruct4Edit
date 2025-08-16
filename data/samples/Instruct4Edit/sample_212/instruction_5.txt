@@ -1,0 +1,1 @@
+Place the footer links side-by-side instead of stacking them.

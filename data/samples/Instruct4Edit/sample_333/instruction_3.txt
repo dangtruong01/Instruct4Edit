@@ -1,0 +1,1 @@
+Style the search button in the sidebar to have a more noticeable background color and slightly rounded edges.

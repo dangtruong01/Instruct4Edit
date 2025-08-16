@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to make the text in the article headers bolder. The article header is the title of the forum thread.
+2.  The "after" image appears to have the same level of boldness as the "before" image.
+3.  The text appears unchanged.
+
+Final verdict:
+❌ Not Applied

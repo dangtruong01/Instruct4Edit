@@ -1,0 +1,1 @@
+The list of contact email addresses at the bottom of the page is currently just a long block of text. Reorganize these emails into a clearly structured list, perhaps using bullet points or clearer line breaks, to improve readability and make it easier for users to find specific contact information.

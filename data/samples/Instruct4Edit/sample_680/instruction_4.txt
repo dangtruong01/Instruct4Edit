@@ -1,0 +1,1 @@
+Redesign the page numbering and navigation links at the bottom of the document list to appear more distinct and clickable, perhaps with a subtle border or background, and clearly indicate the current page.

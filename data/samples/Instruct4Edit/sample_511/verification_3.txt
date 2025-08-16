@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the spacing between the job listing cards located in the "D’autres offres en cours chez Adapt RH..." section.
+2. Visually, the spacing between the cards at the bottom of the images appears unchanged. The cards are still close together.
+3. There is no visible difference in spacing between the cards.
+
+Final verdict:
+❌ Not Applied

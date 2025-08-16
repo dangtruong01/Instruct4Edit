@@ -1,0 +1,1 @@
+Make the "Mrs California America" brand text in the very top navigation bar more prominent by increasing its font size and making it bolder.

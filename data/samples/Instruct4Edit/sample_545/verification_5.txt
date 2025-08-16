@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle border around the main article content.
+2. Comparing the before and after images, there is no visible border around the main article content.
+3. There are no ambiguities in the instruction, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

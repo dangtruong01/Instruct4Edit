@@ -1,0 +1,1 @@
+Increase the spacing between the category links in the navigation menu.

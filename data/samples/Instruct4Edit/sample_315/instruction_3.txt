@@ -1,0 +1,1 @@
+In the image details section, make the titles of the metadata (e.g., "Title," "Source") a bolder and slightly larger font.

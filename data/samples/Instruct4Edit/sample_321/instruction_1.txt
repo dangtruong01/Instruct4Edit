@@ -1,0 +1,1 @@
+Give the main descriptive text at the very top of the page a distinct background color to make it visually separate from the images around it.

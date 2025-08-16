@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the sidebar. The sidebar appears to be on the left-hand side of the images.
+2. Looking at the two images, I cannot see any visible border added to the sidebar in the second (after) image, when compared to the first (before) image.
+3. There are no visible changes that indicate a border has been added around the sidebar.
+
+Final verdict:
+❌ Not Applied

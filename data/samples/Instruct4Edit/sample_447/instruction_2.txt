@@ -1,0 +1,1 @@
+Make the submenu dropdowns appear instantly on hover, instead of fading in.

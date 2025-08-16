@@ -1,0 +1,1 @@
+Give the logo more breathing room by increasing the space around it.

@@ -1,0 +1,1 @@
+Make the very top section, with the red "жулики из Маркетс Ком" text, a bit shorter vertically. There's too much empty space above and below the text.

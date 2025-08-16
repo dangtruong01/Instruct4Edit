@@ -1,0 +1,1 @@
+Center the copyright and powered-by text at the very bottom of the page, and ensure there's generous vertical spacing around it.

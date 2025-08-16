@@ -1,0 +1,1 @@
+Make the 'News' link in the main navigation bar appear more distinctly selected, perhaps with a bolder color or a subtle background highlight.

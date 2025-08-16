@@ -1,0 +1,1 @@
+Ensure that both the 'Contactez nous' link and the 'Allez à MonTix' button in the lower sections of the page use the same vibrant action color for their background and have a consistent amount of padding.

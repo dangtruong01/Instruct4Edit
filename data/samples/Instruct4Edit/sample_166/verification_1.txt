@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The instruction is to increase the size of the main heading text. The main heading appears to be "West Ham batte la Fiorentina e vince la Conference League!".
+2.  Visually comparing the two images, the main heading text in the "after" image appears slightly larger than in the "before" image.
+3. There's a clear, albeit subtle, increase in size in the after image.
+
+Final verdict:
+✅ Fully Applied

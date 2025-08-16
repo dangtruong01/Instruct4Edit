@@ -1,0 +1,1 @@
+Make the entire top navigation bar a solid, darker color so it stands out more prominently against the page.

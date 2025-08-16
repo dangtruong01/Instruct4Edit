@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to darken the background of the "Contact Us" button.
+2. Comparing the two images, I see NO visual change, the background of the "Contact Us" button remains the same color.
+3. The change is not visible.
+
+Final verdict:
+❌ Not Applied

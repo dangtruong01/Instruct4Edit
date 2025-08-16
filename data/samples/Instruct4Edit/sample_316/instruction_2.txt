@@ -1,0 +1,1 @@
+Replace the corner images on the tables with cleaner, more modern-looking rounded corners.

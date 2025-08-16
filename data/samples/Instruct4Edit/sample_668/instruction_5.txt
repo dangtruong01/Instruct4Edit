@@ -1,0 +1,1 @@
+Increase the amount of empty space above and below the content in the footer section at the bottom of the page.

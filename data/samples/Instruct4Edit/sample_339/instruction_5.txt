@@ -1,0 +1,1 @@
+Make the 'back to top' arrow icon appear inside a solid, dark circular button floating on the screen.

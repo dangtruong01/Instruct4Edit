@@ -1,0 +1,1 @@
+5.  Make the navigation menu items' text a bit larger.

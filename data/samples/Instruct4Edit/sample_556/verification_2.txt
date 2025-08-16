@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the padding around the main heading. The main heading is "class 6-8 best coaching in Sindari India". Padding refers to the space between the text and the surrounding elements (in this case, the top, bottom, left, and right edges of the heading's container, assuming it has one).
+2. By comparing the two images, there is no visible difference in the padding around the heading.
+3. There is no visual change.
+
+Final verdict:
+❌ Not Applied

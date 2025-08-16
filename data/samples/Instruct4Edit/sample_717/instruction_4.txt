@@ -1,0 +1,1 @@
+Make the navigation links in the footer a bit larger and easier to read.

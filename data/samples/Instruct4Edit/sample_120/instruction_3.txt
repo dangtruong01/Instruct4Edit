@@ -1,0 +1,1 @@
+Give the top navigation links (Home, About, Contact) more visual presence, perhaps by increasing their size and adding space between them.

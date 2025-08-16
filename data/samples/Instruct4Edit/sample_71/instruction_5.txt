@@ -1,0 +1,1 @@
+Add a small amount of padding to the left and right of the main article content.

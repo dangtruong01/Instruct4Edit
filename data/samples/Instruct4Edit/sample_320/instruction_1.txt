@@ -1,0 +1,1 @@
+Make the main title stand out more by increasing its font size and changing its color to a darker shade of blue.

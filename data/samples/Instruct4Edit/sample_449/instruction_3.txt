@@ -1,0 +1,1 @@
+Add a subtle gray border to the search box in the header.

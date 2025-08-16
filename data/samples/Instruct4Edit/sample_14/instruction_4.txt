@@ -1,0 +1,1 @@
+Make the "Деятельность" heading have a slightly darker background color to visually separate it.

@@ -1,0 +1,5 @@
+❌ Not Applied
+
+1.  The instruction is to add a thin border around the profile image.
+2.  There is no profile image visible in either image.
+3.  Because there is no profile image, a border cannot be added to it.

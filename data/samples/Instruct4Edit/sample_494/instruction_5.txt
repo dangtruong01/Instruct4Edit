@@ -1,0 +1,1 @@
+Adjust the spacing in the "Services" list on the left so that each item is easier to read.

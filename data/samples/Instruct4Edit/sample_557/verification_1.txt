@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main navigation links. These links are located at the top of the page.
+2. Looking at the before and after images, I cannot see any difference in the shadowing around the main navigation links.
+3. There is no visible shadow added to the main navigation links in the "after" image.
+
+Final verdict:
+❌ Not Applied

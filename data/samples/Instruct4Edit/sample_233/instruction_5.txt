@@ -1,0 +1,1 @@
+Change the background color of the very bottom section of the page (the footer) to a darker shade to provide a clear visual break.

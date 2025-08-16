@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests adding a subtle shadow to the "LASH EXTENSIONS" title in the service promo image.
+2. Comparing the before and after images, a subtle shadow effect is visible behind the "LASH EXTENSIONS" text in the after image.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

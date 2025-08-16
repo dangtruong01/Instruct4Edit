@@ -1,0 +1,1 @@
+The text input box for adding comments looks very plain. Give it a slightly darker background color or a subtle inner shadow to make it appear more integrated with the overall page design, and ensure the 'send' button is clearly distinguishable.

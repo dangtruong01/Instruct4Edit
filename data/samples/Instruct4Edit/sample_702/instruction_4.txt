@@ -1,0 +1,1 @@
+In the sidebar, make the "プロフィール" widget's image circular.

@@ -1,0 +1,1 @@
+Increase the vertical spacing between the website logo area and the main navigation bar.

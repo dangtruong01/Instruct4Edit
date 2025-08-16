@@ -1,0 +1,1 @@
+The entire page content is slightly off to the left; center the main content area horizontally on the screen.

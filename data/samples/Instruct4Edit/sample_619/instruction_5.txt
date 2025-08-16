@@ -1,0 +1,1 @@
+5.  On smaller screens, make the navigation menu items stack vertically instead of horizontally.

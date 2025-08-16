@@ -1,0 +1,1 @@
+The search result summaries should have a lighter background color to improve readability and separation from the rest of the content.

@@ -1,0 +1,1 @@
+Give the "Configuració" and "Guardar configuració" buttons within the cookie settings pop-up a softer, more rounded shape, like pill-style buttons.

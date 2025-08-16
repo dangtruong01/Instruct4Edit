@@ -1,0 +1,1 @@
+Slightly lighten the gray background color behind the "ABOUT MONEY MORNING" heading in the footer.

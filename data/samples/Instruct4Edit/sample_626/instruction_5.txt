@@ -1,0 +1,1 @@
+Adjust the alignment and spacing of the elements in the footer section, ensuring the copyright, navigation links, and branding text are evenly distributed and clearly separated.

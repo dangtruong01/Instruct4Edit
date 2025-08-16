@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the navigation bar. In this case, the navigation bar is the vertical menu on the left side of the images.
+2. Comparing the two images, there is no visible difference in the appearance of the navigation bar. There is no shadow added in the second image.
+3. There are no ambiguities, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

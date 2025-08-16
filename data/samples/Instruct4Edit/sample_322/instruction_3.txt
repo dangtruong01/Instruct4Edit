@@ -1,0 +1,1 @@
+Increase the empty space both above and below each major content block on the page for better visual separation.

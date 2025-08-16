@@ -1,0 +1,1 @@
+The "Scroll to Top" arrow is too close to the edge of the screen. Move it further inward so it's more visually balanced.

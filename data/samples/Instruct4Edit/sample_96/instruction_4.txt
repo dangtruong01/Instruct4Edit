@@ -1,0 +1,1 @@
+Condense the long list of news archives in the sidebar so it takes up less vertical space, perhaps by making it expandable or scrollable.

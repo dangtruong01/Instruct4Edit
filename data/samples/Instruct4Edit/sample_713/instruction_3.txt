@@ -1,0 +1,1 @@
+Style the table so it's easier to read, perhaps with alternating row colors or borders.

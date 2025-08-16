@@ -1,0 +1,8 @@
+**Step-by-step justification:**
+
+1.  **Intended visual change:** The instruction asks to shift the social media icons from the right side of the footer to the left side.
+2.  **Change visibility:** The images do not include any footers with social media icons to review for alignment.
+3.  **Doubts and missing elements:** There's no footer visible in either image, so it's impossible to assess if the change was applied or not.
+
+**Final verdict:**
+❌ Not Applied

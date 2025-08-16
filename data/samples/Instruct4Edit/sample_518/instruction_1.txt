@@ -1,0 +1,1 @@
+Make the main navigation background a gradient, transitioning from dark blue to a slightly lighter blue.

@@ -1,0 +1,1 @@
+Shrink the overall width of the article text column and center it on the page, leaving more empty space on the sides for a cleaner look.

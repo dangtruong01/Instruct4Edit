@@ -1,0 +1,1 @@
+Make the main content area wider, so the text isn't so cramped.

@@ -1,0 +1,1 @@
+Add more visual separation and a slightly softer, rounded look to the input fields where users type "Search for" and "near" in the main search bar.

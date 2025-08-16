@@ -1,0 +1,1 @@
+Let's make those menu buttons on the right look less like separate images and more like a cohesive navigation menu. Maybe remove the borders or give them a more modern, integrated appearance.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the footer background color to a darker shade and lighten the text color in the footer.
+2. By comparing the two images, I can see that the background color of the footer is now darker in the second image. The color of the text in the footer has also been changed to a lighter shade.
+3. There are no ambiguities or missing elements, the changes are visible in the image.
+
+Final verdict:
+✅ Fully Applied

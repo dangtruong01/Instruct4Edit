@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the titles above each column of links in the footer brighter and more noticeable.
+2. In the "after" image, the titles "Company", "News", "Dev", and "Et cetera" in the footer are clearly more visible and brighter compared to the "before" image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

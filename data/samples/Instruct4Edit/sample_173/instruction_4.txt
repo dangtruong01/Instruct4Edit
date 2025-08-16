@@ -1,0 +1,1 @@
+Add some space between the table rows containing the content sections to visually separate them.

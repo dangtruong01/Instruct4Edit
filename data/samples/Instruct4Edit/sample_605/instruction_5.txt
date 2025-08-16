@@ -1,0 +1,1 @@
+Center the "Is this article helpful for you?" text above the thumbs up/down buttons.

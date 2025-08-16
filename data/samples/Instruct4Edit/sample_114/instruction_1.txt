@@ -1,0 +1,1 @@
+Make the main page content wider, so it takes up more of the screen.

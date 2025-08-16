@@ -1,0 +1,1 @@
+In the "Recommended" section in the sidebar, make the article titles wrap to multiple lines if they are too long.

@@ -1,0 +1,1 @@
+Change the color of the links in the footer to be slightly lighter than the current color.

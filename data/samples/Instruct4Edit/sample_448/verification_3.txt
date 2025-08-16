@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests a subtle shadow be added to the header to make it stand out from the background image when the user scrolls.
+2. Comparing the two images, there's no visible change in the header. It looks the same in both images, with no added shadow effect.
+3. There's no ambiguity in the instruction itself. However, the change is not visually evident in the "after" image.
+
+Final verdict:
+❌ Not Applied

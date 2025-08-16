@@ -1,0 +1,1 @@
+Style all interactive buttons, such as the 'Search' button and the 'Submit Comment' button, with a solid background color and slightly rounded edges to make them stand out more.

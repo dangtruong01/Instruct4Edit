@@ -1,0 +1,1 @@
+Make the submit button on the information request form more prominent with a brighter background color and rounded edges.

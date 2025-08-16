@@ -1,0 +1,1 @@
+The sidebar "Our Story..." section needs more visual separation from the other elements. Add a light gray background to that whole section.

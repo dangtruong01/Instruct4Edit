@@ -1,0 +1,1 @@
+Change the background color of the very top strip of the page, where the social media icons and contact details are, to a slightly darker shade.

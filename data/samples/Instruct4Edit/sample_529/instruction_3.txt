@@ -1,0 +1,1 @@
+Add a light gray border to the tag elements to help them stand out.

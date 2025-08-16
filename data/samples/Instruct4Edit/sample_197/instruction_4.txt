@@ -1,0 +1,1 @@
+Style the headings (h2, h3, etc.) with a different, more prominent font.

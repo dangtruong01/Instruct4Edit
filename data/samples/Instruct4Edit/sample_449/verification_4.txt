@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the "Recent Software" widget title a brighter, more eye-catching color. This means changing the text color of "Recent Software".
+2. Comparing the two images, the color of "Recent Software" is visibly brighter in the second image. It has changed from a darker shade to a lighter, more vibrant blue.
+3. There are no ambiguities, and the change is clear.
+
+Final verdict:
+✅ Fully Applied

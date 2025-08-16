@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle grey background to blog post entries that only contain the title and the "Read More" link. This is to visually match the style of other blog post entries that have a description under the title.
+2. In the "after" image, blog post entries such as "Nick Thompson (GBR) on Coaching", "Andrew Lewis (TTO)’s Comeback Regatta", and "Justin Norton (CAN) on Laser Worlds Preparation" now have a subtle grey background behind the entry. This matches the appearance of "Qualifying for Rio Olympic Games with Yanic Gentry (MEX)".
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+When a user hovers their mouse over a primary navigation link, make the background of that link subtly change color.

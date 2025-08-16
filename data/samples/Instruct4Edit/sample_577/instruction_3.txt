@@ -1,0 +1,1 @@
+Change the color of the tags at the end of the article to a brighter, more noticeable blue.

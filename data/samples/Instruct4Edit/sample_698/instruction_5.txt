@@ -1,0 +1,1 @@
+Make the navigation links at the top of the page more prominent and easier to read. Consider increasing their font size and adding a subtle background highlight on hover.

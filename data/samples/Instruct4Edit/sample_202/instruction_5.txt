@@ -1,0 +1,1 @@
+Add a small logo to the left of the website name in the header.

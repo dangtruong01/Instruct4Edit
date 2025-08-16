@@ -1,0 +1,1 @@
+Give the entire top section of the page, including the main site logo and the search bar, a unifying background color to create a clear header area.

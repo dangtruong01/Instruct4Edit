@@ -1,0 +1,1 @@
+Increase the spacing and visual separation between the different sections and fields within the search form to make it feel less cluttered.

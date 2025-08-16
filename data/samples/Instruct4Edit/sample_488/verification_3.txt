@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to align social media icons to the left in the footer on mobile devices.
+2. There are no social media icons present in either image. Therefore, the instruction cannot be verified.
+3. There is no indication of mobile view in either image.
+
+Final verdict:
+❌ Not Applied

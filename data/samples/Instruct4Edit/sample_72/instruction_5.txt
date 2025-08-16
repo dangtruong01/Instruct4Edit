@@ -1,0 +1,1 @@
+Make the footer text more visible by increasing the font size and lightening the color.

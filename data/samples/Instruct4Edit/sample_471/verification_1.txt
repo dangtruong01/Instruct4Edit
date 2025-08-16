@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a light gray background to the main navigation menu.
+2. The main navigation menu is located at the bottom of the page (where the "Menu", "Services" and "Be Social" sections are). In the after image, these sections still have the same blue background as the rest of the page, therefore the instruction was not applied.
+3. There are no ambiguities in the instruction.
+
+Final verdict:
+❌ Not Applied

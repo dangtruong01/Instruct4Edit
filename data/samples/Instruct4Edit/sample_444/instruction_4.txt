@@ -1,0 +1,1 @@
+Remove the extra line breaks above the "Sign In" form.

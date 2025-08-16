@@ -1,0 +1,1 @@
+Adjust the spacing around images within the blog post to ensure text wraps more cleanly and the images have distinct visual breathing room.

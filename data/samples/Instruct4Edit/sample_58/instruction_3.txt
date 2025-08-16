@@ -1,0 +1,1 @@
+Give the search button in the sidebar a more noticeable appearance by adding a subtle background color and slightly softening its corners.

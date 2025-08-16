@@ -1,0 +1,1 @@
+Reduce the visual prominence of the horizontal lines separating the event's date, ticket information, and credits, relying more on spacing to distinguish these sections.

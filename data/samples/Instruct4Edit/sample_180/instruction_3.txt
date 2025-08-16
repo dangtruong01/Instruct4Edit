@@ -1,0 +1,1 @@
+3.  Change the font size of the post content to be slightly larger.

@@ -1,0 +1,1 @@
+Replace the animated logo in the main header with a clear, static image, and visually integrate the search box next to it more smoothly.

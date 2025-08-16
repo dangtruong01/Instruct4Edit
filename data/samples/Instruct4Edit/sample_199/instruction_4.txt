@@ -1,0 +1,1 @@
+The footer widgets are all crammed together. Give them more horizontal space so they don't feel so cluttered.

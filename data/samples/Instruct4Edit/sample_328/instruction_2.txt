@@ -1,0 +1,1 @@
+Replace the current text in the navigation bar with actual menu items, such as "Home," "About Us," "Events," and "Contact."

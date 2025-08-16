@@ -1,0 +1,1 @@
+Increase the font size of the text beneath the main article image and add a small amount of extra space above it.

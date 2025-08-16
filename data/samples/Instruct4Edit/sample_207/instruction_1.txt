@@ -1,0 +1,1 @@
+Give the main navigation links at the top a hover effect, perhaps by underlining them or changing their color when the mouse is over them.

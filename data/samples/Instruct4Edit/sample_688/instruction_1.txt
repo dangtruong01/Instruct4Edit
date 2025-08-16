@@ -1,0 +1,1 @@
+Make the logo image in the main navigation bar appear round.

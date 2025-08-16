@@ -1,0 +1,1 @@
+For the blog post entries that only show the title and "Read More" link, add a subtle gray background to these to match the style of the other blog post entries.

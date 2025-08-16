@@ -1,0 +1,1 @@
+Make the top navigation bar, where you see "Open in app" and "Sign up", slightly taller to give it more presence.

@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the forum category titles (like "Castle of Dracula") to make them stand out a bit more from their backgrounds.

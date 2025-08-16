@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the borders around the thumbnail images thicker and change their color to a shade of red that's easier on the eyes.
+2. Comparing the images, the borders around the thumbnails appear to be slightly thicker in the second image. The color has also changed to a red that is arguably easier on the eyes.
+3. The change is visible and seems to match the intent of the instruction.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main title of the event, which is "Castle Combe – Summer Race Day".
+2. Comparing the two images, I cannot see any noticeable shadow added to the title "Castle Combe – Summer Race Day" in the second image.
+3. The shadow might be too subtle to detect, or it might not have been added at all. I am unable to see any visual differences in this element between the two images.
+
+Final verdict:
+❌ Not Applied

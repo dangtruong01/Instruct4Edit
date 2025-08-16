@@ -1,0 +1,1 @@
+The blue bar behind the "HINWEIS" text at the top should extend the full width of the page, visually connecting it to the image below.

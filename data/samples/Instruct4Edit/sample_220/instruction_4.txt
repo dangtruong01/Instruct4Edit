@@ -1,0 +1,1 @@
+The main event description and its associated details (like location, price, and contact information) feel a bit squished together; add more vertical space between these different sections for better readability.

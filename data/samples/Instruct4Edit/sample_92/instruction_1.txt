@@ -1,0 +1,1 @@
+Make the main navigation links appear slightly larger and add a clear visual indicator, like a different background color, when a user hovers over them.

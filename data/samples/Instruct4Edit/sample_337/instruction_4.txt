@@ -1,0 +1,1 @@
+Make the borders around all the text input boxes and the comment area a much lighter, softer grey color.

@@ -1,0 +1,1 @@
+Make the current page number in the pagination list significantly more prominent, perhaps with a bolder color and larger text, to easily identify which page the user is on.

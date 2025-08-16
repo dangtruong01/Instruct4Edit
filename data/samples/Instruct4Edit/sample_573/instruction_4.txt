@@ -1,0 +1,1 @@
+Give the article excerpts on the main page a subtle gray background.

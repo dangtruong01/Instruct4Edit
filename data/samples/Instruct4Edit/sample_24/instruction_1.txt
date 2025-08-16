@@ -1,0 +1,1 @@
+Make the navigation bar's background slightly transparent.

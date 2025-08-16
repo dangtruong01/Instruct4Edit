@@ -1,0 +1,1 @@
+Add a subtle, light border or a very faint background color to the entire central content area where the main article and game levels are displayed, to better define its boundaries on the page.

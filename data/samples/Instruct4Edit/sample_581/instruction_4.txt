@@ -1,0 +1,1 @@
+Center the category list in the sidebar and make the text a little bit smaller.

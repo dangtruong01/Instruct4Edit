@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to left-align the heading "Extension of Time". This means the heading should be aligned with the left edge of the surrounding elements instead of being centered.
+2. Comparing the two images, the heading "Extension of Time" is centered in the original image and left-aligned in the modified image.
+3. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

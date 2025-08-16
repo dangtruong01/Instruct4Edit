@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a more modern and readable font for the main heading and all body text. This means the font used for titles, headings, and the general body text should be changed.
+2. Comparing the two images, there is a slight change in the font. It looks like the headings and body text have been changed to a different font. It appears more readable than the original image.
+3. There are no immediate doubts or ambiguities. The change is visible and consistent across the relevant text elements.
+
+Final verdict:
+✅ Fully Applied

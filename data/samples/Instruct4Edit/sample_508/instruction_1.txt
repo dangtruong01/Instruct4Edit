@@ -1,0 +1,1 @@
+The main forum table should have slightly rounded corners.

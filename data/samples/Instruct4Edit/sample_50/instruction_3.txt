@@ -1,0 +1,1 @@
+Make the "Get Free Inspection" button more prominent by increasing its size and adding a shadow.

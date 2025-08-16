@@ -1,0 +1,1 @@
+Add a subtle gray border around the book cover image.

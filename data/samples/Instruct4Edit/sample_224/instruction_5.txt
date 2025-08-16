@@ -1,0 +1,1 @@
+Reduce the size of the contact icons in the footer and ensure all associated text uses the same color as the email link.

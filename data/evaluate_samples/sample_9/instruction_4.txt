@@ -1,0 +1,1 @@
+4. Make the text in the footer a slightly smaller size.

@@ -1,0 +1,1 @@
+Make the currently selected item and its parent category in the left-hand menu visually stand out with a clear background color or bolder text.

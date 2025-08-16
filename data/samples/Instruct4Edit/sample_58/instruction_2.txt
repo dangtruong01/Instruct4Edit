@@ -1,0 +1,1 @@
+Increase the vertical spacing between the article's main heading, its featured image, and the introductory paragraph to give the content more visual breathing room.

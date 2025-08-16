@@ -1,0 +1,1 @@
+Adjust the spacing in the footer so the "Nosotros", "Publicar", and "Valores" sections have equal spacing between them.

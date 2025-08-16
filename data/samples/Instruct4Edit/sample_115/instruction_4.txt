@@ -1,0 +1,1 @@
+Introduce more vertical space above and below the main content area to improve the layout's flow.

@@ -1,0 +1,1 @@
+Increase the font size and darken the color of the links in the footer.

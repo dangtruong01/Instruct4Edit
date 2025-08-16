@@ -1,0 +1,1 @@
+Change the "Sign In" and "Create Account" links in the top right to buttons with a more prominent, consistent style.

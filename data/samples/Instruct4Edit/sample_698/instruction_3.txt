@@ -1,0 +1,1 @@
+Increase the spacing around the friend thumbnails to make the layout feel less cramped.

@@ -1,0 +1,1 @@
+Add a small amount of padding around the main content area to give it some breathing room.

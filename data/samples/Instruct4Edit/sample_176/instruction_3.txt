@@ -1,0 +1,1 @@
+Make the text in the footer smaller and align it to the center.

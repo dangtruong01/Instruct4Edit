@@ -1,0 +1,1 @@
+Apply a subtle background color and a soft shadow effect to the main profile section in the right sidebar, making it appear as a contained card.

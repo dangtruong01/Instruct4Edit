@@ -1,0 +1,1 @@
+Make the main table borders a bit lighter and less harsh.

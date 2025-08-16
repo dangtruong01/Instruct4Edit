@@ -1,0 +1,1 @@
+Add some space between the product category list and the contact information on the left sidebar.

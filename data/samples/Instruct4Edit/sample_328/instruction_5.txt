@@ -1,0 +1,1 @@
+Change the dashed lines separating the images to solid, slightly thicker lines or add more vertical spacing to provide clearer visual separation.

@@ -1,0 +1,1 @@
+Make the main "Please wait..." message and the action buttons that appear (like "Click If You're Human" and "Source Link") look like actual, distinct buttons, with clear styling and a clickable appearance, instead of just text or plain images.

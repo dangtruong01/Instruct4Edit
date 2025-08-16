@@ -1,0 +1,1 @@
+Make the navigation links on the left side a bit bigger and give them a subtle background color on hover to make them more interactive.

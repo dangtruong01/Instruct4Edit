@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a divider line between each item in the "New Posts" list located in the right sidebar.
+2. Comparing the "before" and "after" images, it is clear that divider lines have been added between each item in the "New Posts" list in the right sidebar of the "after" image.
+3. There are no doubts, ambiguities, or missing elements. The dividers are clearly visible and consistently applied between all list items.
+
+Final verdict:
+✅ Fully Applied

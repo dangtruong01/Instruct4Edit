@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the boxes in the footer. The footer contains four boxes: "Program de lucru", "Link-uri utile", "Ultimele articole pe blog" and "Urmăriți-ne pe social media".
+2. I examined the before and after images closely, focusing on the area around the footer boxes. The after image shows a very slight shadow effect on the boxes, particularly noticeable at the bottom of the boxes.
+3. The change is very subtle, but it is there.
+
+Final verdict:
+✅ Fully Applied

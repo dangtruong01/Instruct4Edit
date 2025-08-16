@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for the date and location information ("广州•广交会展馆") to have more visual emphasis, using either a background color or a different font.
+2. The "after" image shows the date and location information ("广州•广交会展馆") with a background color and a slightly different font.
+3. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

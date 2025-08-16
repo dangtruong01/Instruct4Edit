@@ -1,0 +1,1 @@
+Add a visual separator, like a line, between the main content area and the "You May Also Like" section.

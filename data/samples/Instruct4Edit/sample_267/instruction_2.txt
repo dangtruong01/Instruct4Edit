@@ -1,0 +1,1 @@
+Increase the padding around the text in the main content area.

@@ -1,0 +1,1 @@
+Change the "rideshare app Tag Archive" heading to a larger, bolder font and center it.

@@ -1,0 +1,1 @@
+Let's make the search bar in the header a bit more prominent by giving it a background color that contrasts with the header.

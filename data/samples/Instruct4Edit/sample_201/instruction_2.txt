@@ -1,0 +1,1 @@
+Give the search input in the header a light gray background and make the search icon a darker gray. Also, make the input box wider when it's focused.

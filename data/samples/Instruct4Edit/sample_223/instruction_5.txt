@@ -1,0 +1,1 @@
+Increase the visual prominence of all major section titles, like "User Information" and "Contact," by making them bolder or slightly larger, and ensure the text throughout the page is easy to read.

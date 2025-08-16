@@ -1,0 +1,1 @@
+Make the search input field and its button appear as one continuous element in the header, without any gaps between them.

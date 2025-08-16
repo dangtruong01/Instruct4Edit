@@ -1,0 +1,1 @@
+Increase the size of the logo in the header so it takes up more space, and ensure it's vertically centered with the navigation elements.

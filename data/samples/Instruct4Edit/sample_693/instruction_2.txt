@@ -1,0 +1,1 @@
+Ensure the main heading "Papier Herstellung" appears more prominent, perhaps by increasing its size and making it bold.

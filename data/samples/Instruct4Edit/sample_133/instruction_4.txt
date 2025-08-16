@@ -1,0 +1,1 @@
+Change the color of the text in the very bottom section of the page (the footer) to a more neutral and easily readable shade.

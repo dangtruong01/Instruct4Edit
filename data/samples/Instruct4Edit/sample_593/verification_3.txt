@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a subtle shadow to be added to the main navigation menu. This is meant to visually separate the navigation menu from the content below it.
+2. Comparing the two images, I can't see any shadow added to the main navigation menu.
+3. I don't see any change between the two images in regards to the instruction.
+
+Final verdict:
+❌ Not Applied

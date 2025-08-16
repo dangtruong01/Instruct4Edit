@@ -1,0 +1,1 @@
+The main heading ("WoLf DoY") is a bit close to the reputation icon. Give it a little breathing room with increased spacing.

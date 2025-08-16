@@ -1,0 +1,1 @@
+Apply a light background color to the entire top section of the page, encompassing the site name and the main navigation links, to visually define it.

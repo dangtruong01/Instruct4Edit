@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main title "Jawatan Kosong Terkini" bigger and bolder.
+2. Comparing the two images, it seems that the main title "Jawatan Kosong Terkini" has not been modified. It looks the same in both images.
+3. There are no ambiguities, but the requested change is missing.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Increase the spacing between the filter options (e.g., "Activités courtes", "Hors classe") in the "search-results" section so they don't appear so crowded.

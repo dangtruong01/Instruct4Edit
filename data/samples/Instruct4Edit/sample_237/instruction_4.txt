@@ -1,0 +1,1 @@
+Add a clear visual separation, such as a border or a subtle background, around each distinct block in the sidebar, like "Машина дня" and "Свежие записи", to make them stand out.

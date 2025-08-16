@@ -1,0 +1,1 @@
+Refresh the main accent color, currently a bright blue, to a more muted or contemporary shade to give the page a fresher feel.

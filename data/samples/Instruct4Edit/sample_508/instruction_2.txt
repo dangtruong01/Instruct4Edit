@@ -1,0 +1,1 @@
+Increase the spacing between forum categories, such as "Admin" and "FTN95", to visually separate them more clearly.

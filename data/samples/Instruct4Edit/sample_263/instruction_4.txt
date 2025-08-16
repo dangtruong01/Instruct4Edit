@@ -1,0 +1,1 @@
+4.  Apply a subtle shadow effect to the boxes containing the article text to give them more depth.

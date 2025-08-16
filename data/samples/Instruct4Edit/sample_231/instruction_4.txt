@@ -1,0 +1,1 @@
+Give the text input fields in the comment form a subtle border so they look more clearly like interactive elements.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a visual change to the "Posting Lebih Baru" and "Posting Lama" buttons, specifically making them a more visually prominent color. This implies changing the background or text color of the buttons to draw more attention to them.
+2. Comparing the two images, the background color of both buttons, "Posting Lebih Baru" and "Posting Lama", has been changed from white to a light green color. This makes them more prominent.
+3. There are no doubts or ambiguities. The color change is visible and consistent with the instruction.
+
+Final verdict:
+✅ Fully Applied

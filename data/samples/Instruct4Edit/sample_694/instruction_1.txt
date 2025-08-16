@@ -1,0 +1,1 @@
+Widen the main article text area, reducing the large empty spaces on the left and right sides.

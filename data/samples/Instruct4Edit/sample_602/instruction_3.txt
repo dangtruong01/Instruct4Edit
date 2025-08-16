@@ -1,0 +1,1 @@
+Make the search box in the header wider and less tall, so it's more of a subtle search bar.

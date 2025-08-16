@@ -1,0 +1,1 @@
+Change the color of the "Read more" buttons to be a brighter, more attention-grabbing color.

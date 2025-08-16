@@ -1,0 +1,1 @@
+Make the main page title, "Via Ferrata Skalka", more visually distinct and larger to immediately draw attention as the primary heading.

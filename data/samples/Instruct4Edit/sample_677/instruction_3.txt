@@ -1,0 +1,1 @@
+Add more space inside each item in the left-hand navigation list to make them feel less crowded and easier to click.

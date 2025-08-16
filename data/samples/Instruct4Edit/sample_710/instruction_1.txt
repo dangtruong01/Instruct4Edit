@@ -1,0 +1,1 @@
+Increase the font size and darken the color of the main title to make it more prominent.

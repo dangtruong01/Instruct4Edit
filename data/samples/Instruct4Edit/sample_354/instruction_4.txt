@@ -1,0 +1,1 @@
+Make the sidebar a bit narrower and move it closer to the main content.

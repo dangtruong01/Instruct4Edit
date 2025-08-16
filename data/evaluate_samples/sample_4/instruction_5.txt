@@ -1,0 +1,1 @@
+Make the Chrome extension button more visually prominent by increasing its size.

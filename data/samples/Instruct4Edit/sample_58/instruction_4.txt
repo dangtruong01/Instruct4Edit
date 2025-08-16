@@ -1,0 +1,1 @@
+Add a subtle visual change, like a gentle color shift or a thin underline, when a user hovers their mouse over the main navigation menu items.

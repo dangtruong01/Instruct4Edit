@@ -1,0 +1,1 @@
+Increase the font size of the site description in the header to make it more prominent.

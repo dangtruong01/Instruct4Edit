@@ -1,0 +1,1 @@
+Remove the blank side panels on either side of the main product details to give the central content more room and make it span the full width.

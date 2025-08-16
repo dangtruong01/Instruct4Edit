@@ -1,0 +1,1 @@
+The audio player needs more visual separation from the text below it. Add some padding or a subtle border to make it stand out.

@@ -1,0 +1,1 @@
+Improve the image quality of the smaller linked images at the bottom of each profile. They look pixelated.

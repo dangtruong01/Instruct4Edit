@@ -1,0 +1,1 @@
+Ensure the image within the article automatically adjusts its size to fit the width of the page, without being fixed at 400 pixels.

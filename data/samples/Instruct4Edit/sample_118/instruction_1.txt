@@ -1,0 +1,1 @@
+Make the currently selected item in the main menu bar at the top of the page have a distinct background color to highlight it.

@@ -1,0 +1,1 @@
+Increase the vertical spacing between lines of text within the main content area to make it easier to read and less dense.

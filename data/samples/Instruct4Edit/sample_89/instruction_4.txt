@@ -1,0 +1,1 @@
+Add a subtle, light background color to the section that displays the post date and author information, helping it stand out.

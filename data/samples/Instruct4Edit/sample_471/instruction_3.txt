@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the box containing "Scott A. Smith, M.D." in the sidebar to make it stand out more.

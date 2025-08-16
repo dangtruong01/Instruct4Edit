@@ -1,0 +1,1 @@
+Make the information banners about product availability and delivery consistent in appearance across all screen sizes.

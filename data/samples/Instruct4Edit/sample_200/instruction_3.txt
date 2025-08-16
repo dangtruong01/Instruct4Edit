@@ -1,0 +1,1 @@
+Make the navigation menu items use the same font as the main title, and give them a bit more spacing between each item.

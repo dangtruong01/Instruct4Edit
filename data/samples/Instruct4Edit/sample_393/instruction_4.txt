@@ -1,0 +1,1 @@
+Add a visual separation, like a background color or a subtle border, to distinguish the footer more clearly from the main content.

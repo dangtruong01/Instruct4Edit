@@ -1,0 +1,1 @@
+Increase the spacing between the table rows to improve readability.

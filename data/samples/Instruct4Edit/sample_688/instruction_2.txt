@@ -1,0 +1,1 @@
+Increase the horizontal space between the items in the main navigation menu.

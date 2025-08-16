@@ -1,0 +1,1 @@
+The small calendar on the left side looks very dated with the corner images and tiny numbers; give it a clean, modern border instead of the corner images, and make the day numbers easier to read.

@@ -1,0 +1,1 @@
+In the header, make the website title and the logo align perfectly to the vertical center of the header area.

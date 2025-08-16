@@ -1,0 +1,1 @@
+Style the "Descarga el Archivo" link to appear as a prominent, rectangular button with white text.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the main article content. This should create a clear visual separation.
+2. Comparing the two images, a very faint, light grey border is indeed visible around the main article content area in the AFTER image, which was not present in the BEFORE image.
+3. The border is subtle, as specified in the instruction.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Adjust the text color in the main navigation menu to be darker, improving its contrast against the background.

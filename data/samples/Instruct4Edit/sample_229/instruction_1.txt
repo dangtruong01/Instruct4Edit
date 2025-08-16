@@ -1,0 +1,1 @@
+The main title "Suite101 e-Books, Entertainment" is currently invisible against the page background. Please make it clearly visible, perhaps by changing its text color or giving it a contrasting background shade.

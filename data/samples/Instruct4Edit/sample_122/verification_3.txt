@@ -1,0 +1,21 @@
+Here's the detailed UI/UX review:
+
+**Instruction:** Change the active tab in the top banner so its background color is a light, contrasting shade, making it clear which section is currently selected.
+
+---
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction intends to visually highlight the active navigation tab within the top banner. This is to be achieved by changing its background color to a light, contrasting shade, making it explicitly clear which section of the website the user is currently viewing. Based on the page content ("How to renew a domain name"), the "RENEW A DOMAIN" tab is the logical candidate for the active state.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible. In the "before" image, the "RENEW A DOMAIN" tab has a transparent background, making it blend with the white page background. In the "after" image, the "RENEW A DOMAIN" tab now features a light yellow/cream background. This new background color is distinctly different from the original and provides a clear contrast with the surrounding white space and the blue "SERVICES" tab.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No. The "RENEW A DOMAIN" tab, which is contextually the active tab for this page, has been given a background color that is both light and contrasting. This effectively fulfills the instruction's goal of making the selected section clear.
+
+---
+
+**Final verdict:**
+✅ Fully Applied

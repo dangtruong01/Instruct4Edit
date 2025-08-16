@@ -1,0 +1,1 @@
+Ensure there's more consistent and comfortable vertical spacing between text paragraphs and headings throughout the main content section.

@@ -1,0 +1,1 @@
+Display the customer support link in the gray bar at the very top of the page.

@@ -1,0 +1,1 @@
+Add a bit more vertical space between each individual follower entry in the main list, making them feel less cramped.

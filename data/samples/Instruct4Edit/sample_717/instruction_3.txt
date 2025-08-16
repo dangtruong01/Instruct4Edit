@@ -1,0 +1,1 @@
+Add a subtle shadow to the product name to make it stand out more against the background.

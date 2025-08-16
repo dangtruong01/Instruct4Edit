@@ -1,0 +1,8 @@
+❌ Not Applied
+
+Justification:
+1. The instruction says "The cookie banner should be at the very bottom of the screen". We need to identify if there is a cookie banner in the original picture, and if it is repositioned to the bottom of the screen in the after picture.
+2. There is no cookie banner in either image (before or after), so the instruction cannot be verified or applied.
+3. Since there is no cookie banner visible in either image, the instruction has not been applied.
+
+Final verdict: ❌ Not Applied

@@ -1,0 +1,1 @@
+Add a subtle border around the logos in the bottom section of the footer to visually separate them.

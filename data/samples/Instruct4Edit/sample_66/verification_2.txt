@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main heading font bolder and more prominent. This means the font weight should increase, making the text appear thicker and visually stand out more.
+2. Comparing the two images, the "after" image does appear to have a bolder font for the "Omg !!!!" heading. The letters are thicker and have a greater visual presence compared to the "before" image.
+3. There are no apparent ambiguities or missing elements. The instruction was straightforward and the change is visible.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Many sections, like where categories and models are listed, and individual comments, blend into the overall page background. Add a light border or a very subtle background shade to these content blocks to visually separate them more clearly.

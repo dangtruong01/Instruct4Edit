@@ -1,0 +1,15 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to increase the whitespace/margins around the main content blocks, with a specific emphasis on the horizontal space *between* the two primary text columns. The ultimate goal is to make the layout feel more open and improve readability.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, this change is clearly visible.
+    -   **Between the two primary columns:** In the "after" image, there is a noticeably wider gap (increased horizontal spacing) between the left text column (e.g., "Základí na nápá podobu hodnocení...") and the right text column (e.g., "Na VOD by mohl film dorazit..."). The content of the right column has been shifted further to the right, creating a much clearer visual separation between the two. This directly addresses the "especially between the two primary columns" part of the instruction.
+    -   **Around main content blocks:** While the most dramatic change is between the columns, the increased separation also contributes to a general sense of more openness in that large textual area.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    There are no significant doubts or ambiguities regarding the core instruction. The most emphasized part ("especially between the two primary columns") has been clearly and effectively implemented. The overall effect in that region is indeed improved openness and readability. The instruction was not to re-layout the entire page, but to focus on "spacing around the main content blocks," and the most prominent "main content blocks" here are indeed these two columns of text.
+
+**Final verdict:**
+✅ Fully Applied

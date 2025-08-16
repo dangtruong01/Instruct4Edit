@@ -1,0 +1,1 @@
+Make the blog post titles a darker shade of gray for better readability.

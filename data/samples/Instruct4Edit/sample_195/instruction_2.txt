@@ -1,0 +1,1 @@
+Change the color of the navigation bar to a lighter shade, and ensure the text has sufficient contrast for readability.

@@ -1,0 +1,1 @@
+Increase the horizontal space on both the left and right sides of the main content area that holds the text and the image.

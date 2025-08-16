@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main navigation bar at the top a lighter shade of blue.
+2. Comparing the two images, the blue navigation bar at the very top of the page appears to be the same shade of blue in both images.
+3. There are no apparent changes to the color of the navigation bar.
+
+Final verdict:
+❌ Not Applied

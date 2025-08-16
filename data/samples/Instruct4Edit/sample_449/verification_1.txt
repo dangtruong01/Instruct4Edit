@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the size of the logos present in the header and footer.
+2. Visually comparing the two images, there is no logo visible in either the header or the footer.
+3. Therefore, the instruction cannot be verified.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Make the border around the mini-calendar's "Today is:" section more prominent.

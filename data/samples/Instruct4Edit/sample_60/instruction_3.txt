@@ -1,0 +1,1 @@
+Increase the vertical spacing between each main category heading, such as "Cinéma" or "Graffiti & Hip-Hop", and the list of items that follows it.

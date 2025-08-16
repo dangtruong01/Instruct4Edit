@@ -1,0 +1,1 @@
+Make the "Rechercher" titles in the left sidebar filters (e.g., "Déroulement de l'activité", "Durée de l'activité") a bit smaller, so they don't visually overpower the filter options.

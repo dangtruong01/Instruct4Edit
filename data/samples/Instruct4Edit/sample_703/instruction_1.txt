@@ -1,0 +1,1 @@
+Give the main title at the top of the page a shadow to make it stand out more.

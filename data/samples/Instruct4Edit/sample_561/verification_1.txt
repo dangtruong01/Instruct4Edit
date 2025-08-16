@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size and weight (make it bolder) of the main title.
+2. The title "质量保证，使您的封边制作更加高效" appears to be slightly larger and bolder in the after image compared to the before image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

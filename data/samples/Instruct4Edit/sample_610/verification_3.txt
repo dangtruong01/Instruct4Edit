@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to highlight the "News" link in the top navigation bar. This means visually differentiating the "News" link from the other links in the navigation bar.
+2. Comparing the after image to the before image, I cannot see any change in the appearance of the "News" link. It looks identical to the other links.
+3. There is no highlighting, different color, or any other visual cue that indicates the "News" link is currently selected.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Add a dividing line between each item in the "Change History" section.

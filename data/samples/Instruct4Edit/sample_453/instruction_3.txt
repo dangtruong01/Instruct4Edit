@@ -1,0 +1,1 @@
+Add a subtle shadow to the image beside the movie details.

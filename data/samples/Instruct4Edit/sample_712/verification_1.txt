@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests the main title of the page to be visually larger and bolder.
+2. Comparing the two images, the main title "Pro Loco Castiglione Asti - La Castiglionese" appears to be larger and bolder in the "after" image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

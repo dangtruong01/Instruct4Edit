@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to reduce the size and lighten the color of the website name in the footer.
+2. Looking at the images, the website name in the footer ("romanpekolo.eu") appears to have a lighter color and is slightly smaller in the after image compared to the before image.
+3. There is no ambiguity, and the changes are visible.
+
+Final verdict:
+✅ Fully Applied

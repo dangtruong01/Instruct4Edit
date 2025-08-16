@@ -1,0 +1,1 @@
+Add a small margin around the footer section to create more visual separation from the main content.

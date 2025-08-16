@@ -1,0 +1,1 @@
+Make the main website logo in the header smaller so it doesn't take up so much space.

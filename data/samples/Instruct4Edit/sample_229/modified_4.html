@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Suite101 e-Books, Entertainment at The North46 MarketPlace</title>
+    <style>
+        body, p, h1, h2, h3, td, div, ol, ul, dl, input {
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+        }
+        body {
+            color: #003;
+            background-color: #FFF;
+            font-size: 9pt;
+            margin: 0; /* Remove default body margin */
+            padding: 0;
+        }
+
+        /* Main container for the page, replacing the outermost table */
+        .container {
+            max-width: 1200px;
+            margin: 20px auto; /* Ample top/bottom margin, auto for horizontal centering */
+            padding: 20px; /* Ample padding around the main content */
+            box-sizing: border-box; /* Include padding in the width calculation */
+        }
+
+        /* Header section layout */
+        .site-header {
+            display: flex;
+            justify-content: space-between; /* Space logo and market text */
+            align-items: center;
+            padding-bottom: 20px; /* Ample space below header */
+        }
+
+        .site-header .market-text {
+            /* This div replaced the original <div class="header"><center><table><tr><td><font>... */
+            text-align: center; /* Keep original center alignment */
+            font-weight: bold; /* Transferred from original <font><b> */
+            color: #333; /* Adjusted for readability on white background */
+            padding: 5px 0; /* Transferred from original <td> in the removed table */
+        }
+
+        h1 {
+            font-size: 16pt;
+            text-align: center;
+            margin: 30px 0; /* Ample vertical margin for the main title */
+            color: #003; /* Adjusted from #FFF for visibility on white background */
+        }
+
+        /* Main content area: Navigation and Product List */
+        .main-content {
+            display: grid;
+            grid-template-columns: 180px 1fr; /* Fixed width for navigation, remaining for content */
+            gap: 40px; /* Ample space between navigation and main content */
+            margin-bottom: 30px; /* Ample space above footer */
+        }
+
+        /* Navigation styling, replacing table.pagelink and td.pagelink */
+        .main-nav {
+            background-color: #003366; /* Dark blue background for navigation, consistent with original implicit theme */
+            padding: 20px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* Subtle shadow for depth */
+            border-radius: 5px;
+            /* height: 400px; - Removed fixed height for fluidity */
+        }
+        .main-nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .main-nav ul li {
+            margin-bottom: 10px; /* Ample space between nav items */
+        }
+        .main-nav ul li a {
+            color: #FFF; /* White text for contrast on dark background */
+            text-decoration: none;
+            display: block; /* Make the whole area clickable */
+            padding: 5px 0;
+            transition: background-color 0.3s ease;
+        }
+        .main-nav ul li a:hover {
+            background-color: #004488;
+        }
+        .main-nav .nav-img-link {
+            display: block;
+            margin-bottom: 10px;
+        }
+        .main-nav .nav-img-link img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* Remove extra space below image */
+        }
+
+        /* Search styling, replacing td.search and input.search */
+        .main-nav .search-form {
+            padding-top: 20px; /* Ample space above search form */
+            color: #FFF;
+            text-align: left;
+        }
+        .main-nav .search-form input[type="text"] {
+            font-size: 9pt;
+            width: calc(100% - 10px); /* Adjust width for padding */
+            padding: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        .main-nav .search-form input[type="submit"] {
+            font-size: 9pt;
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background-color: #f0f0f0;
+            cursor: pointer;
+        }
+        .main-nav .search-form .nobr {
+            display: block; /* Ensure 'Search' and inputs stack */
+            margin-top: 5px;
+        }
+
+        /* Product grid styling, replacing main table.Products's spacing */
+        table.Products {
+            width: 100%;
+            border-collapse: separate; /* Allow border-spacing */
+            border-spacing: 20px; /* Ample space between product columns/rows */
+            margin: 0; /* Override existing margin */
+        }
+        table.Products tr td {
+            vertical-align: top;
+            padding: 0; /* Remove default padding for product cells from browser stylesheet */
+        }
+
+        /* Individual Product styling, augmenting table.Product */
+        table.Product {
+            width: 100%; /* Ensure product table takes full width of its cell */
+            border: 1px solid #eee; /* Subtle border for each product */
+            padding: 15px; /* Ample internal padding for each product */
+            box-shadow: 1px 1px 3px rgba(0,0,0,0.1); /* Subtle shadow */
+            box-sizing: border-box; /* Include padding in width */
+            border-radius: 5px;
+            margin-bottom: 20px; /* Space between products if they stack (e.g. on smaller screens) */
+        }
+        td.ProductGraphicLeft {
+            padding-right: 15px; /* Ample space between image and text */
+            width: 120px; /* Fixed width for graphic column */
+            text-align: center;
+        }
+        td.ProductGraphicLeft img {
+            max-width: 100%; /* Ensure images are responsive */
+            height: auto;
+            display: block; /* Remove extra space below images */
+            margin: 0 auto; /* Center image if cell is wider */
+        }
+        td.ProductText {
+            padding-left: 0; /* Adjust padding */
+        }
+        td.ProductText small {
+            display: block; /* Make small tags block for better spacing control */
+            margin-bottom: 5px;
+        }
+        td.ProductText small a {
+            font-weight: bold;
+            color: #0066CC; /* Link color */
+            text-decoration: none;
+        }
+        td.ProductText p {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            line-height: 1.5;
+            color: #555;
+        }
+        td.ProductText input {
+            margin-right: 5px; /* Space between input fields */
+            vertical-align: middle;
+        }
+        td.ProductText input.addimage {
+            float: right; /* Align add to cart button to the right */
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        /* Footer styling, augmenting div.footer */
+        div.footer {
+            text-align: center;
+            margin-top: 20px; /* Ample space above footer */
+            padding-top: 10px;
+            border-top: 1px solid #eee; /* Separator for footer */
+            color: #666;
+        }
+
+        /* General link styling */
+        a {
+            color: #0066CC;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Specific element adjustments */
+        a.pa_img img {
+            max-width: 300px;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="site-header">
+            <a class="pa_img" style="max-width: 300px;" href="#"><img src="https://www.north46.com/media/logonorths.jpg" alt="North46 Marketplace Logo"/></a>
+            <div class="header market-text">
+                <span><b>M A R K E T &nbsp; &nbsp; D I G I T A L &nbsp; &nbsp; B O O K S &nbsp; &nbsp; P R I N T S &nbsp; &nbsp; W O R D S &nbsp; &nbsp; I M A G E S</b></span>
+            </div>
+        </header>
+
+        <h1>Suite101 e-Books, Entertainment</h1>
+
+        <!-- Main Content Area: Navigation and Products -->
+        <div class="main-content">
+            <!-- Navigation -->
+            <nav class="main-nav">
+                <ul>
+                    <li><a class="nav-img-link" href="#"><img height="25" src="https://www.north46.com/media/bhome.gif" width="150" alt="Home"/></a></li>
+                    <li><a class="nav-img-link" href="#"><img height="25" src="https://www.north46.com/media/bmarkgraf.gif" width="150" alt="Markgraf"/></a></li>
+                    <li><a class="nav-img-link" href="#"><img height="25" src="https://www.north46.com/media/bclassic.gif" width="150" alt="Classic"/></a></li>
+                    <li><a class="nav-img-link" href="#"><img height="25" src="https://www.north46.com/media/bother.gif" width="150" alt="Other"/></a></li>
+                    <li><a class="nav-img-link" href="#"><img height="22" src="https://www.north46.com/media/blank.gif" width="150" alt="Blank Spacer"/></a></li>
+                    <li><a href="#">Arts and Crafts</a></li>
+                    <li><a href="#">Business and Economics</a></li>
+                    <li><a href="#">Computers &amp; Technology</a></li>
+                    <li><a href="#">Education</a></li>
+                    <li><a href="#">Environment</a></li>
+                    <li><a href="#">Food and Drink</a></li>
+                    <li><a href="#">Gardening</a></li>
+                    <li><a href="#">Health</a></li>
+                    <li><a href="#">History and Government</a></li>
+                    <li><a href="#">Home and Family</a></li>
+                    <li><a href="#">Kids' Corner</a></li>
+                    <li><a href="#">Pets and Animals</a></li>
+                    <li><a href="#">Reading and Literature</a></li>
+                    <li><a href="#">Religion and Spirituality</a></li>
+                    <li><a href="#">Society and Culture</a></li>
+                    <li><a href="#">Sports and Recreation</a></li>
+                    <li><a href="#">Travel</a></li>
+                    <li><a href="#">Wellness and New Age</a></li>
+                    <li><a href="#">Writing and Publishing</a></li>
+                    <li><a href="#">Youth Corner</a></li>
+                    <li><a class="viewcart" href="#">Your North46 Shopping Cart</a></li>
+                </ul>
+                <div class="search-form">
+                    <form>
+                        <input type="text" placeholder="Enter keyword"/>
+                        <br/>
+                        <span class="nobr">Search<br/>
+                            <input type="text" class="search" placeholder="Refine search"/>
+                            <input type="submit" value="Go"/>
+                        </span>
+                    </form>
+                </div>
+            </nav>
+
+            <!-- Product List -->
+            <div class="product-list-wrapper">
+                <table class="Products">
+                    <tr>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Worldsoffantasym.jpg" alt="The Many Worlds of Fantasy"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>The Many Worlds of Fantasy</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by Debbie Ledesma
+                                            <p>Many different kinds and works of fantasy.</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Bestofhumourm.jpg" alt="The Best of Humor"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>The Best of Humor</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by Greg Holbrook
+                                            <p>Share the author's ability to laugh at almost anything.</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Internationalfilmsm.jpg" alt="International Films"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>International Films</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by John Nesbit<br/>compiled by<br/>Jennifer A. Wickes
+                                            <p>An international journey through foreign movies.</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Frenchcinemam.jpg" alt="French Cinema"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>French Cinema</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by John Nesbit<br/>compiled by<br/>Jennifer A. Wickes
+                                            <p>Old classics, new hits...</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Strangerthanfictionm.jpg" alt="Stranger Than Fiction"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>Stranger Than Fiction</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by Paul Armentano
+                                            <p>The 99 Cent Video Review Guide<br/>to The Most Bizarre and Intriguing Documentary Films Ever Made.</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                        <td>
+                            <a href="#"></a>
+                            <form>
+                                <table class="Product">
+                                    <tr>
+                                        <td class="ProductGraphicLeft">
+                                            <a class="product_img" href="#"><img src="https://www.north46.com/media/101books/Europeanfilmsm.jpg" alt="European Films"/></a>
+                                        </td>
+                                        <td class="ProductText">
+                                            <small><a href="#">Suite101 e-Book <br/>European Films</a></small><br/>
+                                            <small>$<span class="prccalc-prc">9.95</span></small><br/>
+                                            <small>by John Nesbit<br/>compiled by<br/>Jennifer A Wickes
+                                            <p>Almodovar, Bergman, Fellini, Rosellini...</p></small><br/>
+                                            <input type="hidden"/><input type="hidden"/><input type="hidden"/><input type="hidden"/>
+                                            <input type="image" class="clear addimage" height="20" src="https://www.north46.com/media/add_to_cart.gif" width="83" alt="Add to Cart"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+                <p></p>
+            </div>
+        </div>
+
+        <!-- Footer Section -->
+        <footer class="footer">
+            <!-- Content for footer if any, or just spacing -->
+        </footer>
+    </div>
+</body>
+</html>

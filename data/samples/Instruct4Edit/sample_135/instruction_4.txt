@@ -1,0 +1,1 @@
+Refine the "shorten w/ nwspprs" button by softening its corners and applying a slight visual depth, making it look more like a clickable element.

@@ -1,0 +1,1 @@
+Make the main title stand out more by giving it a background color that matches the header's blue and use white text for contrast.

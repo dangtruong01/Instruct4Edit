@@ -1,0 +1,1 @@
+Change the color of the navigation bar's text to a darker shade.

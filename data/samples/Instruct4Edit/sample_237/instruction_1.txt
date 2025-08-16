@@ -1,0 +1,1 @@
+Make the main website name, "Автосалон MyCityCar", at the top left more prominent by increasing its size and making it bolder.

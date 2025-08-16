@@ -1,0 +1,1 @@
+Give the navigation links at the top a subtle glow effect.

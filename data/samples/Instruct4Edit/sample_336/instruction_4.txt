@@ -1,0 +1,1 @@
+Introduce more generous vertical spacing between major sections of the page, such as between the header image and the navigation, and between the main content and the footer, to create a cleaner and less cluttered appearance.

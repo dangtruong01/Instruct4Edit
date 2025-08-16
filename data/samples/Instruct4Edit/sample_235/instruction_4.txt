@@ -1,0 +1,1 @@
+Change the look of the social media links in the footer to show their respective brand icons (like the Facebook 'f' or Twitter bird) instead of just text.

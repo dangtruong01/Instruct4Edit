@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the font size and add a subtle shadow to the main title. The main title is "Viewing Web pages using only an email account".
+2. In the after image, the font size of the main title seems to be the same as in the before image. I don't see a shadow either.
+3. The instruction is clear, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

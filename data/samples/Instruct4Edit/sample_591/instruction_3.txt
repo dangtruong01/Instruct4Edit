@@ -1,0 +1,1 @@
+Add a thin, light gray border around the share buttons.

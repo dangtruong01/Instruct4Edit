@@ -1,0 +1,1 @@
+Add a subtle border around the main content area.

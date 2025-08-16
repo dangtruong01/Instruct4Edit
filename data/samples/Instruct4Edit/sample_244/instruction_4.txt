@@ -1,0 +1,1 @@
+Increase the vertical spacing between the main article content and the sections in the sidebar, as well as the main article and the elements directly above and below it, to provide more visual breathing room.

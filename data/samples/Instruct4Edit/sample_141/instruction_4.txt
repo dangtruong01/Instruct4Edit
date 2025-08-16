@@ -1,0 +1,1 @@
+Enhance the "Show" links for "Classification" and "Parent Term(s)" in the main content table. Make them more visually intuitive, perhaps by using an arrow icon or a small button that clearly indicates expandable content.

@@ -1,0 +1,1 @@
+In the footer, make the "Contacteer ons" heading stand out more, perhaps by making it a larger font size or a bolder weight.

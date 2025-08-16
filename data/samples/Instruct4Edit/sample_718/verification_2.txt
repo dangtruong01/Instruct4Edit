@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a background color to the footer section.
+2. I can see the footer section, which contains the copyright notice. However, I do not see any change in the background color in the 'after' image compared to the 'before' image.
+3. The background color is not visible.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the "Donatie" button visually prominent by using a bright, contrasting color.
+2. In the after image, the "Donatie" button is now orange, which contrasts with the white background and the other header links. This clearly implements the instruction.
+3. There are no ambiguities or missing elements; the color change is evident and serves to draw attention to the button.
+
+Final verdict:
+✅ Fully Applied

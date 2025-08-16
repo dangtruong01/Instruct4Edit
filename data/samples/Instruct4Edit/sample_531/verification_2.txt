@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main title "Burger Delivery in Churwell" in the header area.
+2. Comparing the two images, I cannot see any noticeable shadow added to the specified text in the header area. The text appears visually identical in both images.
+3. There are no ambiguities in the instruction itself, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

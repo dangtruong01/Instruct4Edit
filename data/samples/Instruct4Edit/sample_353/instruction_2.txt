@@ -1,0 +1,1 @@
+The main navigation links should be visually separated and more prominent, perhaps with a background color or distinct styling for each.

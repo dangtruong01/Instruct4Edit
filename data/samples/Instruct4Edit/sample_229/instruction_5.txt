@@ -1,0 +1,1 @@
+The very top section of the page, where the logo and the "MARKET DIGITAL BOOKS..." text are, appears disjointed. Let's unify this entire header strip with a consistent background color or subtle gradient, ensuring all elements within it are aligned and have sufficient breathing room.

@@ -1,0 +1,1 @@
+Add a subtle border to the table to better define the columns on the page.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a "subtle border" around the "main image on the right side of the page". I interpret that to mean the logo image at the top right corner of the page.
+2. I can see no border being added to the image in the after image compared to the before image.
+3. There is no ambiguity, and no visible change.
+
+Final verdict:
+❌ Not Applied

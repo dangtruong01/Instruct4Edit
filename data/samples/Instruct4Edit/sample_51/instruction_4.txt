@@ -1,0 +1,1 @@
+4.  Reduce the amount of space above and below the "Blog by" text in the blog post previews.

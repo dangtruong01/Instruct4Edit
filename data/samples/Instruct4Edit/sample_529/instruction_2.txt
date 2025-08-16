@@ -1,0 +1,1 @@
+Slightly enlarge the logo in the header and give it a subtle shadow.

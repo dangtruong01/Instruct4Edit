@@ -1,0 +1,1 @@
+Add a light background color and some spacing around the search bar, archives, and meta links in the right-hand sidebar to better distinguish it from the main article content.

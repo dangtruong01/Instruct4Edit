@@ -1,0 +1,1 @@
+Increase the spacing between each person's profile in the list of followers.

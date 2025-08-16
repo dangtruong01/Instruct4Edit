@@ -1,0 +1,1 @@
+Increase the empty space around each video thumbnail, allowing more separation between individual video entries in the main content area.

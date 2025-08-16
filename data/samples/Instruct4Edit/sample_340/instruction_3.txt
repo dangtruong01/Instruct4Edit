@@ -1,0 +1,1 @@
+Add a subtle shadow effect around the blog post summaries to make them stand out more from the page background.

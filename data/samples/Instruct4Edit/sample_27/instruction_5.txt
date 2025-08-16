@@ -1,0 +1,1 @@
+Give the main heading "Single courses" a slightly larger font size and bold font weight.

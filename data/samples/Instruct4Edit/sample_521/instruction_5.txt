@@ -1,0 +1,1 @@
+Add a light gray border around the main content area.

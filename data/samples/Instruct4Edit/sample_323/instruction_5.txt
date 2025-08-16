@@ -1,0 +1,1 @@
+Change the font style of the main product name, "Stardust Vase-Sm Blue," to be a sans-serif font.

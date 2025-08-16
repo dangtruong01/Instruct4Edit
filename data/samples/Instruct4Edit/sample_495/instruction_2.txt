@@ -1,0 +1,1 @@
+On the desktop header, give the search input box a more rounded appearance.

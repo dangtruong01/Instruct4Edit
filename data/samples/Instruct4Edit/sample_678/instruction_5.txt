@@ -1,0 +1,1 @@
+Update the styling of all clickable text, especially within the categorized lists, to make them clearly identifiable as links and to improve their legibility.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires adding a thin gray border to the bottom of each menu item in the main navigation. The main navigation is located at the top of the page.
+2. Comparing the "before" and "after" images, a thin gray border is clearly visible at the bottom of each menu item (WazaFM Live, News, Video, etc.) in the main navigation in the "after" image. The "before" image lacks this border.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

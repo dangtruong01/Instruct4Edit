@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to modify "recipe cards" to have a softer, rounded look. Recipe cards would be a card containing information and a picture of a recipe.
+2. There are no recipe cards visible in the image. The image shows a photograph of a dessert and some text below.
+3. There is nothing that could have rounded edges or softer look.
+
+Final verdict:
+❌ Not Applied

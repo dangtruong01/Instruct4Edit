@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle background color to the highlighted menu button to make it stand out more clearly. The highlighted menu button is assumed to be the one that is currently active or selected in the main navigation.
+2. Comparing the two images, the "Aktuell" menu button in the top navigation bar appears to be highlighted/selected. However, there is no visible background color change on either image.
+3. There is no apparent difference in the background color of the "Aktuell" menu button between the two images.
+
+Final verdict:
+❌ Not Applied

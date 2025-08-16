@@ -1,0 +1,19 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction required transforming the specific text "Download Formasi CPNS di Semarang" within the article into a distinct, visually appealing button. This means changing it from plain text to an interactive element that stands out visually, typically with a background, borders, and contrasting text color.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible.
+    - In the "before" image, "Download Formasi CPNS di Semarang" is presented as bolded black text with a vertical line to its left, appearing as part of the article's content flow.
+    - In the "after" image, this exact text has been replaced by a prominent blue rectangular button with white text. This new element clearly distinguishes itself from the surrounding text and draws attention, fulfilling the "distinct" and "highlight its importance" aspects of the instruction.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No doubts or ambiguities.
+    - The correct text string was identified and targeted.
+    - It was transformed into what is undeniably a button element.
+    - The button is visually distinct due to its solid background color and contrasting text.
+    - While "visually appealing" can be subjective, the button is clean, legible, and effectively highlights the call to action, fitting the general intent of making it appealing and important. The surrounding vertical line from the "before" image is also appropriately removed, as it's no longer necessary with the new button styling.
+
+**Final verdict:**
+✅ Fully Applied

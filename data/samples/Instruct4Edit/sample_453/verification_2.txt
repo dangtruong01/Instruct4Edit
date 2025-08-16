@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the font size and make the font bolder for the movie title "Железный человек".
+2. Comparing the "before" and "after" images, the font size appears slightly larger and the font looks bolder for the specified movie title.
+3. No apparent ambiguities.
+
+Final verdict:
+✅ Fully Applied

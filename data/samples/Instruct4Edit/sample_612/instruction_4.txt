@@ -1,0 +1,1 @@
+Make the button at the bottom of the FAQ section a brighter, more inviting color to encourage clicks.

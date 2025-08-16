@@ -1,0 +1,1 @@
+Make the search input field have rounded corners.

@@ -1,0 +1,1 @@
+The sidebar widgets should have a bit more spacing between them, to avoid feeling cluttered.

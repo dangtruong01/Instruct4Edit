@@ -1,0 +1,1 @@
+Change the background color of the page to a lighter shade of grey.

@@ -1,0 +1,1 @@
+Ensure the entire page layout fluidly adjusts and looks good on different screen sizes, from large monitors down to smaller devices like tablets and phones.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the links in the footer a lighter shade of gray. This means the visual appearance of the "Copyright", "Privacy Policy", and "Terms & Conditions" text should be a lighter gray in the second image compared to the first.
+2. In the after image, the "Copyright", "Privacy Policy", and "Terms & Conditions" text appears to be a lighter shade of gray than in the before image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

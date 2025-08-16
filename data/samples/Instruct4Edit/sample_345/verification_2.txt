@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the footer to a lighter shade of blue.
+2. Comparing the two images, the blue background color of the footer in the 'after' image is indeed a slightly lighter shade than the blue in the 'before' image.
+3. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Change the color of the links in the article to a more visually appealing blue.

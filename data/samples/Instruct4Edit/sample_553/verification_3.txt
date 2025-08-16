@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to vertically center the logo and the message ("This Page is Under Construction - Coming soon! Why am I seeing this 'Under Construction' page?") on the right side of the header, so they are aligned with the title "Quarkdata.com" on the left side.
+2. Comparing the two images, the logo and the message on the right side of the header appear to be moved upward slightly in the after image, making them more vertically aligned with the title "Quarkdata.com" on the left.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Realign the image within each article preview so it sits above the title, rather than floating to the side, to give the text more horizontal space.

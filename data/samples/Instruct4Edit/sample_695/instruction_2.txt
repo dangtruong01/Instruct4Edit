@@ -1,0 +1,1 @@
+Adjust the main content layout so that the prominent hero image at the top spans the full width available, and the title "Spielplatz - Klinten" along with its associated action buttons appear centered directly beneath the image.

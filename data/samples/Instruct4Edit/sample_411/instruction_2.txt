@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the header to give it a sense of depth and separation from the main content.

@@ -1,0 +1,1 @@
+Change the background color of the search bar to a light grey.

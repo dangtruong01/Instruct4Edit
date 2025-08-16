@@ -1,0 +1,1 @@
+Make the header at the top of the page stick to the top as the user scrolls.

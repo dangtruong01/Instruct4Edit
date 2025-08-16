@@ -1,0 +1,1 @@
+Ensure the smaller additional product images are displayed on a neutral background, not inside a dark box, and are clearly spaced out below the main product picture for easy viewing.

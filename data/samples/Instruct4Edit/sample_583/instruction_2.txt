@@ -1,0 +1,1 @@
+Change the background color behind the main content area to a gradient that fades upwards from a darker shade at the bottom.

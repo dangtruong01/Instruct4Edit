@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to center the main heading ("Cookie 条款") and make it larger.
+2. Visually comparing the "before" and "after" images, the main heading "Cookie 条款" is indeed centered and appears to be larger in the "after" image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

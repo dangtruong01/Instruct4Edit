@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the "Promo & News" menu item in the header to look like a button with a background color and rounded corners.
+2. Comparing the two images, the "Promo & News" menu item in the second image has a green background color and rounded corners, making it stand out more compared to the first image where it is just a text link.
+3. There are no doubts, ambiguities, or missing elements. The change is clearly visible and matches the instruction.
+
+Final verdict:
+✅ Fully Applied

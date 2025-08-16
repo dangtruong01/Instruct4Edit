@@ -1,0 +1,1 @@
+Increase the space between the heading and the body text for each of the legal areas described in the main content section.

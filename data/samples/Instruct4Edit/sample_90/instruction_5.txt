@@ -1,0 +1,1 @@
+Apply a slight circular border to the social media icons in the footer, making them look like clickable buttons rather than just images.

@@ -1,0 +1,1 @@
+The images throughout the article content, especially the ones with captions, appear very flat against the text. Give them a bit more visual prominence by adding some breathing room around them and perhaps a very subtle border or shadow effect.

@@ -1,0 +1,1 @@
+Make the main search button much larger and add clear text like "Search" or "Find".

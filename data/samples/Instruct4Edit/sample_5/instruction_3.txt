@@ -1,0 +1,1 @@
+3.  Change the font of the site title in the header to be bolder.

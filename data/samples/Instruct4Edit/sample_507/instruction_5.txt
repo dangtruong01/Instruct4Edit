@@ -1,0 +1,1 @@
+Increase the spacing between the pricing cards so they don't feel so cramped together.

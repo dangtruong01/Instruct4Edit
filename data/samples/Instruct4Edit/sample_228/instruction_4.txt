@@ -1,0 +1,1 @@
+Refine the main heading for the partner section to remove the dark shadow and any background color, making it look cleaner and more integrated with the page.

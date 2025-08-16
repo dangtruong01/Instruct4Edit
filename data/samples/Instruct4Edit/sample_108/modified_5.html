@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+
+<html><head><title>#1876 (ui.dialog.js - Dialog Positioning Improvement) - jQuery UI - Bug Tracker</title></head><body><div class="banner flex-center"><span>jQuery UI issues have moved to <a>GitHub</a>. This site is now a static archive of the old <a>Trac</a> bugs site. <br/>Some functions and pages are no longer available.</span></div><div class="container"><a class="visually-hidden">Skip to main content</a><header class="flex-column"><div class="flex-row flex-between-start"><a id="jq-siteLogo"><img src="/img/logo.svg" width="253"/></a><input class="hamburger-toggle visually-hidden" id="jq-menutoggle"/><label class="hamburger-lines flex-column flex-between-center"><span class="hamburger-line"></span><span class="hamburger-line"></span><span class="hamburger-line"></span></label><div class="flex-column" id="jq-menus"><nav id="jq-primaryNavigation"><h2 class="visually-hidden">jQuery UI sites navigation menu</h2><ul class="nav"><li class="jq-jquery"><a>jQuery</a></li><li class="jq-plugins"><a>Plugins</a></li><li class="jq-ui active"><a>UI</a></li><li class="jq-meetup"><a>Meetups</a></li><li class="jq-forum"><a>Forum</a></li><li class="jq-blog"><a>Blog</a></li><li class="jq-about"><a>About</a></li><li class="jq-donate"><a>Donate</a></li></ul></nav><nav id="jq-secondaryNavigation"><h2 class="visually-hidden">jQuery UI navigation menu</h2><ul class="nav"><li class="jq-download"><a>
+                    Download
+                  </a></li><li class="jq-documentation"><a>
+                    Demos &amp; Documentation
+                  </a></li><li class="jq-themes"><a>
+                    Themes
+                  </a></li><li class="jq-development"><a>
+                    Development
+                  </a></li><li class="jq-support"><a>
+                    Support
+                  </a></li></ul></nav></div></div></header><main class="flex-column white-box" id="skip"><h2 class="visually-hidden">Search and Top Navigation</h2><div class="flex-row flex-end-center"><div id="search"></div></div><nav class="flex-column flex-start-center" id="jq-topnav"><a>New Ticket</a><a>View Tickets</a><a>Ticket Graph</a><a>Roadmap</a><a>Recent Changes</a></nav><div class="flex-column" id="jq-content"><div class="flex-column"><nav class="content-nav"><ul class="flex-row"><li><a>← Previous Ticket</a></li><li><a>Next Ticket →</a></li></ul></nav><div class="ticket-info"><div class="flex-row flex-between-start"><h2><a class="ticket-number">#1876</a><span class="ticket-status">closed</span><span class="ticket-type">enhancement</span><span class="ticket-resolution">(fixed)</span></h2><div class="ticket-dates"><p>Opened November 01, 2007 02:29AM UTC</p><p>Closed December 08, 2007 03:46PM UTC</p><p>Last modified February 26, 2009 11:15AM UTC</p></div></div><h1 class="ticket-title">ui.dialog.js - Dialog Positioning Improvement</h1><table class="ticket-properties"><tr><th>Reported by:</th><td>
+        ALLPRO
+      </td><th>Owned by:</th><td>rdworth</td></tr><tr><th>
+        Priority:
+      </th><td>
+        minor
+      </td><th class="missing">Milestone:</th><td><a>1.5</a></td></tr><tr><th>Component:</th><td>ui.core</td><th>Version:</th><td>1.2.1</td></tr><tr><th>Keywords:</th><td>dialog</td><th class="missing">Cc:</th><td></td></tr><tr><th class="missing">
+        Blocked by:
+      </th><td></td><th class="missing">
+        Blocking:
+      </th><td></td></tr></table><div class="ticket-info-bottom"><h5 class="ticket-description-title">Description</h5><div class="ticket-description"><p>The current code for positioning a dialog window does not work if the dialog source DIV is 'hidden', which is likely to be a common way of using the dialog component. (I put my dialogs inside a hidden container div.) The problem is that you cannot 'measure' a div that is not displayed. This prevents the proper positioning of the dialog, such as 'center'.</p><p>There is a very simple solution - set... </p><pre class="wiki">
+display: block; visibility: hidden
+</pre><p> ...<strong>before</strong> measuring width and height. This allows dimensions to be taken without making the DIV visible.</p><p>Here is the modified 'open' code - only the first and last lines are new...</p><pre class="wiki">
+this.open = function() {
+  uiDialog.appendTo('body')'''.css({ visibility: 'hidden' })'''.show();
+  var wnd = $(window), top = 0, left = 0;
+  switch (options.position) {
+    case 'center':
+      top = (wnd.height() / 2) - (uiDialog.height() / 2);
+      left = (wnd.width() / 2) - (uiDialog.width() / 2);
+      break;
+    case 'left':
+      top = (wnd.height() / 2) - (uiDialog.height() / 2);
+      left = 0;
+      break;
+    case 'top':
+      top = 0;
+      left = (wnd.width() / 2) - (uiDialog.width() / 2);
+      break;
+  }
+  uiDialog.css({ top: top, left: left, visibility: 'visible'  });
+};
+</pre></div></div></div><details><summary class="ticket-details-summary">Attachments (0)</summary><ul class="ticket-attachments"></ul></details><details><summary class="ticket-details-summary">Change History (5)</summary><div class="ticket-change flex-column" id="comment:1"><h3 class="flex-row flex-between-start ticket-change-header"><span>Changed November 01, 2007 02:36AM UTC by <span class="author">ALLPRO</span></span><a class="ticket-change-link">comment:1</a></h3><div class="ticket-change-content"><table class="ticket-changes"><tbody></tbody></table><div class="ticket-comment-body"><p>NOTE: There is a typo in the code line above. I tried to <strong>bold</strong> a block of 'code', but it added the "' formatting code for bolding to the string instead. The first line should read:</p><pre class="wiki">
+uiDialog.appendTo('body').css({ visibility: 'hidden' }).show();
+</pre></div></div></div><div class="ticket-change flex-column" id="comment:2"><h3 class="flex-row flex-between-start ticket-change-header"><span>Changed November 19, 2007 02:03PM UTC by <span class="author">paul</span></span><a class="ticket-change-link">comment:2</a></h3><div class="ticket-change-content"><table class="ticket-changes"><tbody><tr><th>owner:</th><td><span class="change-field-new">→ rworth</span></td></tr></tbody></table><div class="ticket-comment-body"></div></div></div><div class="ticket-change flex-column" id="comment:3"><h3 class="flex-row flex-between-start ticket-change-header"><span>Changed December 08, 2007 03:46PM UTC by <span class="author">rdworth</span></span><a class="ticket-change-link">comment:3</a></h3><div class="ticket-change-content"><table class="ticket-changes"><tbody><tr><th>resolution:</th><td><span class="change-field-new">→ fixed</span></td></tr><tr><th>status:</th><td><span class="change-field-old">new</span> → <span class="change-field-new">closed</span></td></tr></tbody></table><div class="ticket-comment-body"><p>This seems to be working as of [4079]. Added a test to <a class="ext-link"><span class="icon"></span>http://dev.jquery.com/view/trunk/ui/current/tests/uiTest.dialog.html</a> for regressions.</p></div></div></div><div class="ticket-change flex-column" id="comment:4"><h3 class="flex-row flex-between-start ticket-change-header"><span>Changed May 24, 2008 03:39AM UTC by <span class="author"></span></span><a class="ticket-change-link">comment:4</a></h3><div class="ticket-change-content"><table class="ticket-changes"><tbody><tr><th>milestone:</th><td><span class="change-field-old strikethrough">1.2.2</span></td></tr></tbody></table><div class="ticket-comment-body"><p>Milestone 1.2.2 deleted</p></div></div></div><div class="ticket-change flex-column" id="comment:5"><h3 class="flex-row flex-between-start ticket-change-header"><span>Changed February 26, 2009 11:15AM UTC by <span class="author">paul</span></span><a class="ticket-change-link">comment:5</a></h3><div class="ticket-change-content"><table class="ticket-changes"><tbody><tr><th>milestone:</th><td><span class="change-field-new">→ 1.5</span></td></tr></tbody></table><div class="ticket-comment-body"></div></div></div></details></div></div></main><footer>
+        Copyright © 2023
+        <a style="color: var(--text-color-dark-bg);">The OpenJS Foundation</a></footer></div><style>.ticket-info {
+    position: relative;
+    background-color: var(--ticket-info-background-color);
+    border: 1px solid var(--ticket-info-border-color);
+    border-radius: var(--border-radius);
+    padding: 0.5em 0.75em;
+    margin: 0 auto 0.5em;
+    width: 100%;
+    max-width: 580px
+    }
+.ticket-number {
+    font-size: 1.45rem;
+    font-weight: 700;
+    margin-right: 0.5em;
+    text-decoration: none
+    }
+.ticket-info span {
+    font-weight: 700
+    }
+.missing {
+    color: var(--text-color-link-disabled)
+    }
+.ticket-title {
+    border-bottom: 1px solid #bbb;
+    margin-top: 1em;
+    padding-bottom: 0.25em;
+    font-weight: 700;
+    font-size: 1.1875rem
+    }
+.ticket-dates {
+    color: var(--ticket-date-text-color);
+    font-size: 0.8125rem
+    }
+.ticket-dates p {
+    margin: 0 0 0.5em
+    }
+.ticket-properties {
+    width: 100%;
+    text-align: left;
+    font-size: 0.65rem;
+    border-top: 1px solid var(--ticket-table-border-color);
+    margin: 0
+    }
+.ticket-properties th {
+    font-weight: 400;
+    width: 20%
+    }
+.ticket-properties td, .ticket-properties th {
+    padding: 0.25em 0.5em;
+    border-bottom: 1px dashed var(--ticket-table-border-color)
+    }
+.ticket-info-bottom {
+    padding: 0.5em
+    }
+.ticket-description {
+    font-size: 0.8125rem;
+    margin-top: 0.5em
+    }
+.ticket-description-title {
+    color: var(--ticket-description-title-color);
+    font-size: 0.75rem
+    }
+details {
+    padding: 0.5em 0;
+    font-size: 0.8125rem;
+    width: 100%;
+    max-width: 580px;
+    margin: 0 auto
+    }
+summary {
+    color: var(--text-color-link);
+    font-weight: 700;
+    font-size: 0.875rem;
+    text-decoration: underline;
+    cursor: pointer;
+    text-shadow: 0.04em 0.04em var(--text-shadow-color)
+    }
+.ticket-attachments {
+    font-size: 0.75em
+    }
+.ticket-comment-body {
+    width: 100%;
+    padding-top: 0.5em
+    }
+.ticket-change {
+    margin: 1em 0;
+    clear: both
+    }
+.ticket-change-header {
+    font-size: 0.875rem;
+    font-weight: 700;
+    box-shadow: 1.4px 2.8px 5.6px 0 var(--ticket-changes-box-shadow)
+    }
+.ticket-change-link {
+    font-size: 0.85em
+    }
+.ticket-change-content {
+    width: 100%
+    }
+.ticket-changes {
+    background-color: var(--ticket-info-background-color);
+    border: 1px solid var(--ticket-info-border-color);
+    border-radius: var(--border-radius);
+    color: var(--ticket-changes-text-color);
+    font-size: 0.7rem;
+    float: right;
+    clear: right;
+    margin: 2em 0 1em 1.5em
+    }
+.ticket-changes th {
+    text-align: right;
+    font-weight: 400;
+    text-transform: capitalize
+    }
+.ticket-changes td, .ticket-changes th {
+    padding: 0.25em;
+    vertical-align: baseline
+    }
+.ticket-changes .change-field-new {
+    font-weight: 700
+    }
+* {
+    box-sizing: border-box
+    }
+body, html {
+    padding: 0;
+    margin: 0 auto;
+    font-family: var(--font-family);
+    font-size: 100%;
+    color: var(--text-color);
+    line-height: 1.4
+    }
+html {
+    overflow-y: auto;
+    background-color: var(--background-color)
+    }
+.banner {
+    width: 100%;
+    height: 80px;
+    background-color: var(--banner-background-color);
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: 0.875rem;
+    padding: 0 0.25em
+    }
+th, tr {
+    font-family: var(--font-family-alternate)
+    }
+.container {
+    width: 100%;
+    max-width: 956px;
+    margin: 0 auto;
+    overflow: hidden
+    }
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-header);
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0
+    }
+h1, h2, h3, h4 {
+    letter-spacing: -0.018em
+    }
+h1 {
+    font-size: 1.25rem;
+    font-weight: 700
+    }
+h2 {
+    font-size: 1rem;
+    font-weight: 700
+    }
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px
+    }
+p {
+    line-height: 1.5;
+    margin: 0.5em 0 1em
+    }
+ul {
+    margin: 0
+    }
+li {
+    line-height: 1.5
+    }
+main {
+    padding: 1rem
+    }
+table {
+    margin: 1em 0
+    }
+table td, table th {
+    padding-right: 1em
+    }
+code, pre {
+    font-family: var(--font-family-monospace)
+    }
+.strikethrough {
+    text-decoration: line-through
+    }
+header {
+    position: relative;
+    height: 95px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 1em
+    }
+.nav {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    list-style: none
+    }
+.nav a {
+    display: flex;
+    align-items: center;
+    height: 35px;
+    font-size: 0.75rem;
+    padding: 0 1em;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    width: 100%
+    }
+.nav .active a {
+    border-bottom-color: var(--secondary-color)
+    }
+#jq-siteLogo {
+    margin-top: 1em
+    }
+#jq-primaryNavigation {
+    padding: 0 0.5em;
+    background-color: var(--nav-background-color)
+    }
+#jq-secondaryNavigation {
+    padding: 0 0.5em;
+    background: linear-gradient(to bottom, var(--secondary-nav-start-color), var(--secondary-nav-end-color));
+    box-shadow: 0 -2px 1px var(--secondary-nav-box-shadow), 0 2px 1px #000
+    }
+#jq-secondaryNavigation a {
+    font-size: 0.8125rem
+    }
+#jq-content {
+    position: relative;
+    width: 100%
+    }
+.content-nav {
+    font-size: 0.8125rem;
+    margin: 1.2em 0;
+    align-self: flex-end
+    }
+.content-nav ul {
+    list-style: none
+    }
+.content-nav li {
+    padding: 0 0.75em
+    }
+.hamburger-lines {
+    position: relative;
+    width: 18px;
+    height: 14px;
+    align-self: center
+    }
+.hamburger-line {
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out
+    }
+label {
+    font-style: italic;
+    font-size: 0.8125rem;
+    font-weight: 700
+    }
+input {
+    border: 1px solid var(--input-border-color);
+    border-radius: var(--border-radius);
+    height: 25px;
+    padding: 0 0.5em;
+    color: var(--text-color)
+    }
+main {
+    padding: 1em;
+    gap: 1em
+    }
+#jq-topnav {
+    gap: 0.25em
+    }
+#jq-topnav a {
+    width: 100%;
+    display: block;
+    font-family: var(--font-family-alternate);
+    font-size: 0.625rem;
+    padding: 0.1em 1.5em;
+    text-decoration: none;
+    border: 2px solid var(--border-color);
+    color: #000;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-radius: var(--border-radius)
+    }
+footer {
+    background-color: var(--nav-background-color);
+    background: var(--nav-background-color) linear-gradient(to bottom, var(--footer-background-start-color), var(--footer-background-end-color));
+    padding: 2em;
+    margin-bottom: 2em;
+    color: var(--text-color-dark-bg);
+    border: 2px solid transparent;
+    border-top: 0;
+    border-radius: 0 0 var(--border-radius) var(--border-radius)
+    }
+.flex-row {
+    display: flex;
+    flex-direction: row
+    }
+.flex-column {
+    display: flex;
+    flex-direction: column
+    }
+.flex-between-start {
+    justify-content: space-between;
+    align-items: flex-start
+    }
+.flex-between-center {
+    justify-content: space-between;
+    align-items: center
+    }
+.flex-start-center {
+    justify-content: flex-start;
+    align-items: center
+    }
+.flex-end-center {
+    justify-content: flex-end;
+    align-items: center
+    }
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center
+    }
+.white-box {
+    background-color: var(--content-background-color);
+    border: 1px solid var(--border-color)
+    }
+a.ext-link .icon {
+    padding-left: 15px
+    }
+#search {
+    width: 100%;
+    position: relative;
+    min-height: 25px
+    }</style></body></html>

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a brighter shade of the submit button color. We need to identify the submit button and see if its color is changed to be brighter in the after image.
+2. The "submit button" is actually the button labeled "Bir cevap yazın". The color of this button has not been changed in the after image. It is still the same shade of blue.
+3. The instruction is clear, and the element to be changed is visible, but the color change is not applied.
+
+Final verdict:
+❌ Not Applied

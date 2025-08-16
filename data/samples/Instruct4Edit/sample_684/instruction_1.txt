@@ -1,0 +1,1 @@
+Shrink the website logo at the very top so it's less dominant and allows more space for other header elements.

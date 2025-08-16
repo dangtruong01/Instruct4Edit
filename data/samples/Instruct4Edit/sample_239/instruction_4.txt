@@ -1,0 +1,1 @@
+Add a light border or a subtle background color to the "Related articles" section and the embedded content below it in the right-hand column, giving them a clear, contained look.

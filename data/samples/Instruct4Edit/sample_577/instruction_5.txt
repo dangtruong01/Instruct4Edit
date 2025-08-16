@@ -1,0 +1,1 @@
+Make the footer copyright text smaller and lighter in color.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to slightly darken the background color behind the main heading. The main heading is "CAREERS IN LUBBOCK – JOIN OUR TEAM!".
+2. Comparing the two images, it's extremely difficult to discern any change in the background color behind the main heading. The change, if present, is very subtle.
+3. Due to the subtlety of the change (if any), I cannot be certain the instruction was fully implemented.
+
+Final verdict:
+❌ Not Applied

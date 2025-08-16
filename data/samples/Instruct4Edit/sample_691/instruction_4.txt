@@ -1,0 +1,1 @@
+Make the "Sign up" and "Follow" buttons have a less rounded, more block-like appearance.

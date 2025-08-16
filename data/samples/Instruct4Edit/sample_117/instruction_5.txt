@@ -1,0 +1,1 @@
+Create more visual separation between the main article content area and the comment section below it.

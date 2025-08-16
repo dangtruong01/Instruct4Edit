@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to remove the fade-in effect when hovering over a menu item that has a submenu. The submenu should appear instantly.
+2. It's impossible to determine if the change was implemented from static images. I would need to interact with the UI to confirm this.
+3. Because I can't confirm the change visually, it is ambiguous.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Change the color of the 'Buscar' button next to the search box in the right-hand column to a more noticeable blue.

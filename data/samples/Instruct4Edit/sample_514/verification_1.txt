@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for the top navigation bar to stick to the top of the screen when the user scrolls. This means it should remain visible even when the user scrolls down. Visually, the navigation bar's position should change from static to fixed.
+2. The images are static screenshots and do not demonstrate scrolling or a fixed navigation bar. Therefore, there's no way to tell if the navigation bar is sticking to the top of the screen.
+3. The images are static and do not allow for testing the sticky navigation.
+
+Final verdict:
+❌ Not Applied

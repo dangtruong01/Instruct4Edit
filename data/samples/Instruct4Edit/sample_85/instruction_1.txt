@@ -1,0 +1,1 @@
+Make the main navigation links in the page's top section (like "Home", "Add Business") more visually distinct from the background, perhaps by giving them a subtle, light box around each one.

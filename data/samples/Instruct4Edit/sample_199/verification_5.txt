@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to move the "Scroll to Top" arrow further inward, away from the edge of the screen, to improve visual balance.
+2. There is no "Scroll to Top" arrow visible in either the before or after images.
+3. Since the element to be modified is not present, the instruction cannot be applied.
+
+Final verdict:
+❌ Not Applied

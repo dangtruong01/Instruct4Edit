@@ -1,0 +1,1 @@
+Highlight the "News" link in the top navigation bar to make it clear which section the user is currently viewing.

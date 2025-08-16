@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the highlighted text in the header a brighter, more noticeable yellow.
+2. Comparing the two images, the highlighted text in the header appears to be a brighter shade of yellow in the second image.
+3. There are no doubts, ambiguities, or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

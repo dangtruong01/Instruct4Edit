@@ -1,0 +1,1 @@
+Slightly darken the background color of the top header section where the phone and email information is displayed.

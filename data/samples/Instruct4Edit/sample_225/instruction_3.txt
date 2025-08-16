@@ -1,0 +1,1 @@
+In the left sidebar, arrange the list of county names so each item appears on its own line, rather than in two columns.

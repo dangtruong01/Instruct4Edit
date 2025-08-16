@@ -1,0 +1,1 @@
+Increase the overall width of the main content column, allowing the text and images within the article to spread out more across the page.

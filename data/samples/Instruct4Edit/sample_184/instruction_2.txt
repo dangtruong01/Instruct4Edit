@@ -1,0 +1,1 @@
+Make the navigation menu items at the top of the page stand out more, perhaps by adding a background color.

@@ -1,0 +1,1 @@
+The borders around the thumbnail images should be a bit thicker and a shade of red that's easier on the eyes.

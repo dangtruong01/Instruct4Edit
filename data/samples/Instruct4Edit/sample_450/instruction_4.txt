@@ -1,0 +1,1 @@
+Make the "Recent Posts" widget titles a bit larger and bolder.

@@ -1,0 +1,1 @@
+Reduce the height of the logo in the main header to make it less dominant.

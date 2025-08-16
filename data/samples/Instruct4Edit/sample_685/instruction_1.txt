@@ -1,0 +1,1 @@
+Relocate the advertisements so they appear as separate side elements, allowing the list of Pokémon names to flow continuously without interruption.

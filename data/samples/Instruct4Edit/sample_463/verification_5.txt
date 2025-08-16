@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the main article content area. The main article content area is the section containing the title, text, and images.
+2. Comparing the two images, there is no visible border around the main article content area in the after image.
+3. There is no border added around the area of content.
+
+Final verdict:
+❌ Not Applied

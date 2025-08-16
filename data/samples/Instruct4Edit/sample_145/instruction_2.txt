@@ -1,0 +1,1 @@
+For each blog post preview, display the post title, date, and a short snippet of text always visible directly below the image, rather than hiding them until someone hovers over the image.

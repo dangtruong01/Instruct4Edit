@@ -1,0 +1,1 @@
+Make the call-to-action button "Jetzt kontaktieren" more prominent by increasing its size and changing its color to something that stands out.

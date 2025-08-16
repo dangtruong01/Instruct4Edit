@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to reduce the vertical space between the title of the post ("Montaža samonosnih vrat in ograjnih elementov") and the image below it.
+2. Visually comparing the two images, I cannot see any change in the space between the post title and the image.
+3. There are no elements partially done, the space appears identical in both images.
+
+Final verdict:
+❌ Not Applied

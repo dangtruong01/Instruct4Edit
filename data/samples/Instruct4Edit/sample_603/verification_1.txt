@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main title font bigger and bolder. The "main title" refers to the largest heading on the page: "Unveiling Busan's Digital Gem: 펀초이스".
+2. Comparing the two images, the font size of the main title appears larger in the after image. The font also appears bolder in the after image.
+3. There are no ambiguities. The change is visible and consistent with the instructions.
+
+Final verdict:
+✅ Fully Applied

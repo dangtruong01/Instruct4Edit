@@ -1,0 +1,15 @@
+Here's my review based on your instructions:
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction intended to incorporate visual icons for all social media links. This change was specifically to be applied to links found in two distinct areas: the "very top bar" of the website and its "footer."
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    No. Upon close comparison, the "before" and "after" images are visually identical. There are no social media links present in the very top bar or the website's footer in either image. Consequently, no visual icons have been added or incorporated into these specified areas.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    The primary observation is that no visual changes have been made between the two images. The instruction was to "Incorporate visual icons," which implies a visible modification. Since the specified locations (the very top bar and the footer) do not contain social media links in the original design (and thus nothing to add icons *to*), it's possible the instruction was based on a misunderstanding of the original layout, or it implicitly required adding the links *and* then the icons. However, as a visual UI/UX reviewer, if an instruction for a visual change is given and *no visual change whatsoever* occurs in the "after" image, then the instruction has not been implemented visually. While there are social media references (like "Follow us on Facebook") in the sidebar, the instruction explicitly limited the scope to the "very top bar and in the website's footer," areas where no changes were observed.
+
+**Final verdict:**
+❌ Not Applied

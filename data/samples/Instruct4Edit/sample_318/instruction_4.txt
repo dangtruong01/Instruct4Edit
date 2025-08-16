@@ -1,0 +1,1 @@
+Left-align the copyright information in the footer.

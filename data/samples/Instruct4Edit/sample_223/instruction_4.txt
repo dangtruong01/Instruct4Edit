@@ -1,0 +1,1 @@
+Give all interactive elements, like buttons and dropdown menus, a softer, slightly rounded appearance instead of sharp corners.

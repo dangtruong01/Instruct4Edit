@@ -1,0 +1,1 @@
+Turn the "Article plus récent" and "Article plus ancien" links below the main article into distinct, pressable buttons, perhaps with a background color and some padding.

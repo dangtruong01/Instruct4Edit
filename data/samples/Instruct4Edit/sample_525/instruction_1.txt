@@ -1,0 +1,1 @@
+Increase the contrast of the text in the post filter message to make it more readable against the background.

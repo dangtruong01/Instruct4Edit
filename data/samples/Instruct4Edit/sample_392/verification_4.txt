@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color to a softer, more neutral shade. This means the "after" image should have a background color that is less harsh and more subdued compared to the original.
+2. Upon comparing the two images, the background color appears to be virtually identical. There is no discernible change to a softer or more neutral shade.
+3. There is no visible change in the background color.
+
+Final verdict:
+❌ Not Applied

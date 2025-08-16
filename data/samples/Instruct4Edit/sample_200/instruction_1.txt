@@ -1,0 +1,1 @@
+Increase the font size of the main title on the page. It looks a bit small.

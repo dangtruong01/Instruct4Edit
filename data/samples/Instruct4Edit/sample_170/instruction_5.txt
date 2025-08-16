@@ -1,0 +1,1 @@
+Adjust the padding around the text within the main content area to improve readability.

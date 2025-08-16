@@ -1,0 +1,1 @@
+In the header, make the logo smaller so it's not so prominent.

@@ -1,0 +1,1 @@
+Make the social sharing icons in the post footer a bit larger.

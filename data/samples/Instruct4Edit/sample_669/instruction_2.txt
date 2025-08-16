@@ -1,0 +1,1 @@
+Center the navigation links like "Home" and "Casino" within the top menu bar.

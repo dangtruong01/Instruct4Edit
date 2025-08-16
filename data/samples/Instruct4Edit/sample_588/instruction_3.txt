@@ -1,0 +1,1 @@
+Make the sidebar widgets visually distinct from each other, perhaps with a subtle background color or a divider line.

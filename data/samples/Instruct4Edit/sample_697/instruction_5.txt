@@ -1,0 +1,1 @@
+Center the copyright and theme information text in the very bottom section of the page footer.

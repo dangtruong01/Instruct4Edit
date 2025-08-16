@@ -1,0 +1,1 @@
+Add more vertical space between each of the individual profile entries in the main 'Following' list.

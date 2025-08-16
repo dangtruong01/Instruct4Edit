@@ -1,0 +1,1 @@
+Give the search bar input field a light background color and a thin, subtle outline so it's more clearly defined.

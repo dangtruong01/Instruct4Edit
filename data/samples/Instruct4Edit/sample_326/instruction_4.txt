@@ -1,0 +1,1 @@
+Ensure the multiple address blocks displayed in the footer are neatly aligned and have consistent spacing, so they don't appear cramped together.

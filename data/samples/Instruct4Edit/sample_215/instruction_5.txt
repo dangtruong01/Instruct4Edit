@@ -1,0 +1,1 @@
+Lighten the background color of the area surrounding the central white content box to provide a softer contrast.

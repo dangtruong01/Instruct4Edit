@@ -1,0 +1,1 @@
+Replace the text-based social media mentions in the footer with recognizable social media icons.

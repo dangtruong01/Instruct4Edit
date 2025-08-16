@@ -1,0 +1,1 @@
+Center the footer text and add a subtle border to the top of the footer to visually separate it from the main content.

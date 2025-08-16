@@ -1,0 +1,9 @@
+Step-by-step justification:
+1.  **What is the intended visual change?** The instruction is to horizontally center the main article heading, "What does it mean to live “on purpose?”", within the content area of the page.
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   In the "before" image, the heading "What does it mean to live “on purpose?”" is clearly left-aligned with the rest of the body text.
+    *   In the "after" image, the same heading has been moved to the horizontal center of the main content column. The visual change is distinct and directly corresponds to the instruction.
+3.  **Are there any doubts, ambiguities, or missing elements?** No, the heading is visibly centered. The instruction was specific to the main article heading and did not include the meta-information below it (author, date), which correctly remains left-aligned.
+
+Final verdict:
+✅ Fully Applied

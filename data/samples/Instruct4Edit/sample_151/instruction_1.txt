@@ -1,0 +1,1 @@
+Make the main site title in the header bolder and remove its italic style.

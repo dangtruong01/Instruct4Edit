@@ -1,0 +1,1 @@
+Reduce the spacing between the image and the title in each of the blog post entries.

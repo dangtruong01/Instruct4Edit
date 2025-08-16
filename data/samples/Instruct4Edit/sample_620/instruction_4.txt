@@ -1,0 +1,1 @@
+4.  Make the author bio text smaller and italicized.

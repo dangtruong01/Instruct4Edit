@@ -1,0 +1,1 @@
+Make the "NEW MEMBERS:" section in the left-hand navigation stand out with a bolder heading.

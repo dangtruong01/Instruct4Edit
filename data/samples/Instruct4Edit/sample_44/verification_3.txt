@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to add a subtle shadow effect to the main heading text.
+2. Comparing the two images, there is no discernible difference in the main heading text. There is no visible shadow effect.
+3. The change is missing.
+
+Final verdict:
+❌ Not Applied

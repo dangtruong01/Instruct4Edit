@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the titles of the metadata (e.g., "Title," "Source") in the image details section bolder and slightly larger.
+2. Looking at the "after" image, the titles such as "Title", "Source", "Years", etc. appear to be bolder and slightly larger compared to the "before" image.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

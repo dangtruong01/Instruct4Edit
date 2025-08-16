@@ -1,0 +1,1 @@
+Increase the font size and make the category tags at the bottom more visually prominent.

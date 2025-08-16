@@ -1,0 +1,1 @@
+Change the prominent green "Sign up" and "Follow" buttons to be slightly less rounded, making them more of a rectangular shape with soft corners.

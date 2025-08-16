@@ -1,0 +1,1 @@
+Enhance the visual appearance of the search bar and filter dropdowns in the blog sidebar, perhaps with a subtle border or a distinct background color, to make them stand out as interactive elements.

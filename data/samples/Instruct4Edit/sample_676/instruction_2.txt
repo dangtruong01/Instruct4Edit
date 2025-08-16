@@ -1,0 +1,1 @@
+Enhance the clarity of the main navigation's dropdown menus by making their backgrounds solid, ensuring all options are highly visible.

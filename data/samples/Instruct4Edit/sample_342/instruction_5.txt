@@ -1,0 +1,1 @@
+Move the copyright text at the very bottom of the page so it aligns to the right side instead of the left.

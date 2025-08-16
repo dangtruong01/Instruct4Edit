@@ -1,0 +1,1 @@
+3.  Add a subtle shadow to the image captions.

@@ -1,0 +1,1 @@
+Reduce the space between the navigation menu items and the search form on the right.

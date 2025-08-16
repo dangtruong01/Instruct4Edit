@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main heading on the page bigger and bolder.
+2. Visually, the heading "COOKIE POLICY" appears to be both bigger and bolder in the after image compared to the before image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

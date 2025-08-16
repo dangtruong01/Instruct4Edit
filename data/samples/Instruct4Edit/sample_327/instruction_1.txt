@@ -1,0 +1,1 @@
+Increase the overall width of the entire page content slightly to provide more breathing room horizontally.

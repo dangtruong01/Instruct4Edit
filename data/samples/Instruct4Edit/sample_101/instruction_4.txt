@@ -1,0 +1,1 @@
+Enlarge the font size of the "Popular News" titles in the sidebar.

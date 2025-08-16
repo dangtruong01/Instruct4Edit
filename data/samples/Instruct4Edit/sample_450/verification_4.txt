@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the "Recent Posts" widget titles larger and bolder.
+2. By comparing the images, the titles in the "Recent Posts" widget appear to be slightly larger and bolder in the second image.
+3. I can see a slight change in both size and font weight, making them bolder.
+
+Final verdict:
+✅ Fully Applied

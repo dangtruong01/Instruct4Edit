@@ -1,0 +1,1 @@
+Make the search bar on the top right bigger and give it rounded corners.

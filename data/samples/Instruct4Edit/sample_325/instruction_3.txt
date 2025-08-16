@@ -1,0 +1,1 @@
+Expand the width of the large explanatory paragraph about the map extracts to take up more space across the page.

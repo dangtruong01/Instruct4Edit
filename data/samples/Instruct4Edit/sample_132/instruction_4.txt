@@ -1,0 +1,1 @@
+Increase the vertical spacing between the main content blocks, like the space between the top navigation links and the central message box.

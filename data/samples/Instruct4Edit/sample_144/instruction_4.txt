@@ -1,0 +1,1 @@
+When hovering over the links in the footer, make them briefly change color or show an underline to indicate they are interactive.

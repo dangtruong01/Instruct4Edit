@@ -1,0 +1,1 @@
+Reorganize the contact information and copyright details in the footer to improve readability and give them more vertical and horizontal breathing room.

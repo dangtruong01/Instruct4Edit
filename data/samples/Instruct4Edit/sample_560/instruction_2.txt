@@ -1,0 +1,1 @@
+Center the form inputs and labels within their table cells.

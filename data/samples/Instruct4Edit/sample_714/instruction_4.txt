@@ -1,0 +1,1 @@
+Center the event details (date/time, location, categories) that appear before the event description.

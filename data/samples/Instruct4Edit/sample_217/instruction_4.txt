@@ -1,0 +1,1 @@
+Make the text for the main navigation menu items a bit larger and bolder.

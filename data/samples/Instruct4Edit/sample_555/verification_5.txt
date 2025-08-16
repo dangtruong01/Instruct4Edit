@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the line height in the main article text to enhance readability. This means the vertical space between lines of text should be greater in the "after" image.
+2. Comparing the two images, it appears the line height in the main article text has indeed been increased in the "after" image. The text seems more spaced out vertically, making it easier on the eyes.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

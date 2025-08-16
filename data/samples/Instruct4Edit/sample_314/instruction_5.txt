@@ -1,0 +1,1 @@
+5.  Change the color of the article category text ("生活｜美食") to a more subdued tone.

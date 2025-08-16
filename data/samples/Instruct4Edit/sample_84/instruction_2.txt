@@ -1,0 +1,1 @@
+Give all interactive buttons, like 'Celý seriál do cloudu' and the login/search buttons, a more modern and prominent look with a distinct background color and gently rounded corners.

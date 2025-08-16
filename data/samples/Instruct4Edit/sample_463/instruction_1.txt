@@ -1,0 +1,1 @@
+Make the main navigation menu items a bit smaller to prevent wrapping on smaller screens.

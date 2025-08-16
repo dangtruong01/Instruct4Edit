@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the vertical spacing between the breadcrumbs and the article heading.
+2. Comparing the two images, there is a slightly larger gap between the breadcrumbs ("Signos Zodiaco / Tauro / 30 de abril") and the article heading ("Qué signo es el 30 de abril") in the second image.
+3. The change is subtle but visible.
+
+Final verdict:
+✅ Fully Applied

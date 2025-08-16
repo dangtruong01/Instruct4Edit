@@ -1,0 +1,25 @@
+As a highly cautious visual UI/UX reviewer, I have meticulously compared the two images provided.
+
+**Instruction:** Change the main navigation bar's background color to a very light gray or white, ensuring the menu item text remains clearly visible against it.
+
+---
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to transform the background color of the main navigation bar (the horizontal strip containing "BERANDA," "IKUTI," "PASANG LOWONGAN," etc.) to a much lighter shade, specifically a very light gray or white. A critical secondary requirement is to maintain or improve the clarity and readability of the menu item text against this new background.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Before Image:** The main navigation bar has a dark background color (appears to be a dark gray or black). The menu item text ("BERANDA", "IKUTI", etc.) is light-colored (likely white or very light gray) against this dark background.
+    *   **After Image:** The main navigation bar's background has been distinctly changed to a very light gray, almost bordering on white. Crucially, the menu item text has also been changed from light to dark (black), providing strong contrast against the new light background.
+    *   The change is unequivocally visible and drastic, moving from a dark-on-light theme for the navigation bar to a light-on-dark theme.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    *   The background color is indeed a "very light gray or white" as instructed. It's a clear light gray.
+    *   The menu item text is "clearly visible" against the new background. In fact, by switching the text color to black, the contrast is excellent, ensuring high readability.
+    *   There are no doubts, ambiguities, or missing elements regarding the implementation of this specific instruction. The change is complete and accurately reflects the prompt.
+
+---
+
+**Final verdict:**
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Redesign the main menu navigation so that the individual links are larger, easier to distinguish, and fit on a single line.

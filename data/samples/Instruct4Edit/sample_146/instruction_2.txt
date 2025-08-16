@@ -1,0 +1,1 @@
+Add more vertical space between the very top banner and the search bar section directly below it.

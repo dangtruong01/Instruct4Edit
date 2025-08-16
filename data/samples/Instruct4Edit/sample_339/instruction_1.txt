@@ -1,0 +1,1 @@
+When a user hovers over an item in the primary navigation bar, change its background color to a lighter shade.

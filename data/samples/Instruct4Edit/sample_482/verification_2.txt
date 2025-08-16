@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires increasing the font size and darkening the color of the links in the footer.
+2. Comparing the two images, I can see that the links in the footer ("Inloggen | Zilber Website | Design by Pencilpoint | creatie in vorm & inhoud") appear to be slightly darker and possibly slightly larger in the after image compared to the before image.
+3. The change is subtle, but present.
+
+Final verdict:
+✅ Fully Applied

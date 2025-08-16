@@ -1,0 +1,1 @@
+Redesign each business listing in the search results to appear as distinct, elevated cards with more internal spacing.

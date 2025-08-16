@@ -1,0 +1,1 @@
+Give the search input field in the sidebar rounded corners.

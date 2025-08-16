@@ -1,0 +1,1 @@
+Increase the spacing between the text paragraphs within the main content area to improve readability.

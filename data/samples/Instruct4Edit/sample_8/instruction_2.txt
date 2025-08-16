@@ -1,0 +1,1 @@
+Make the section containing the navigation links, including "uazbuka.ru", a darker shade of gray.

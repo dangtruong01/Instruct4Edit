@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the header stick to the top of the page as the user scrolls. This means that when the user scrolls down, the header should remain visible at the top of the screen, rather than scrolling off the screen with the rest of the content.
+2.  Without seeing the page in action (scrolling), it is impossible to determine if the header is sticking. The images provided are static screenshots of the page, and there is no visual difference between them.
+3.  The instruction requires dynamic behavior that is not visible in a static image.
+
+Final verdict:
+❌ Not Applied

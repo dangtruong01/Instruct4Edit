@@ -1,0 +1,1 @@
+Change the main navigation background to a dark gray color to improve contrast.

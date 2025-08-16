@@ -1,0 +1,1 @@
+Change the appearance of the section titles in the left column, such as "勐腊边境之窗" and "联系我们," by giving them a solid background color so that their white text is easily readable.

@@ -1,0 +1,1 @@
+Give the main image at the top of the article, the one showing the "Cattura.png" graphic, a subtle rounded edge.

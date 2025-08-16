@@ -1,0 +1,1 @@
+On the product image thumbnails, remove the grayscale effect from the images on the left.

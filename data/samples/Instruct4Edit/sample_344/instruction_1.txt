@@ -1,0 +1,1 @@
+Make the search bar and button appear closer together, as if they are one connected element.

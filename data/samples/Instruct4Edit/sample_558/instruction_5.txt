@@ -1,0 +1,1 @@
+Style the "Total Pageview" counter in the sidebar to be more prominent and visually appealing.

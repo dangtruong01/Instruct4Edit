@@ -1,0 +1,1 @@
+Make the navigation links more visually distinct and easier to click.

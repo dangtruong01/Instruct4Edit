@@ -1,0 +1,1 @@
+Change the font for the footer text to a lighter weight to soften the look.

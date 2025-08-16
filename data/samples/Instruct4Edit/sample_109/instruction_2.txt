@@ -1,0 +1,1 @@
+Add a subtle gray border to all tables to visually separate them.

@@ -1,0 +1,1 @@
+Adjust the footer to be full width and ensure the copyright information is more visually balanced within it.

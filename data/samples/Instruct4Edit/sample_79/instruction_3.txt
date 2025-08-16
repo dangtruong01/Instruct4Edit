@@ -1,0 +1,1 @@
+Increase the vertical space between paragraphs in the main article content for easier reading.

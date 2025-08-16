@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the navigation links a brighter and more noticeable color.
+2. The navigation links are the ones at the very top of the page (e.g. "Автосалони", "Купить машину", "О компании"). In the after image, they are the same color as in the before image.
+3. There is no apparent change in the color of the navigation links between the two images.
+
+Final verdict:
+❌ Not Applied

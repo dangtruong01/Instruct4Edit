@@ -1,0 +1,21 @@
+Step-by-step justification:
+
+1.  **What is the intended visual change?**
+    The instruction mandates two primary visual changes:
+    *   Increase the visual prominence of all major section titles (e.g., "User Information," "Contact") by making them bolder or slightly larger.
+    *   Ensure the text throughout the entire page is easy to read.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Prominence of Major Section Titles:**
+        *   The title "Informace o uživateli jan232" (User Information) in the blue bar is noticeably larger and appears more prominent in the "after" image compared to the "before" image.
+        *   Similarly, "Kontakt jan232" (Contact) in its blue bar is also visibly larger and more prominent in the "after" image.
+        *   The sub-section titles within the gray boxes, such as "Obrázek postavičky" and "Vše o uživateli jan232," also appear to have increased in size and boldness, contributing to their prominence. This aligns with the "all major section titles" aspect, as these are clearly section headers.
+    *   **Text Readability:**
+        *   Comparing the general body text (e.g., "Založen:", "Příspěvků:", "E-mailová adresa:") between the "before" and "after" images, the text in the "after" image generally appears larger and clearer, which directly contributes to improved readability. The overall scaling of fonts across the page makes the content easier to consume.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    *   There are no doubts regarding the visual implementation of the instruction. The titles are clearly more prominent due to increased size, and the general text readability is visually improved.
+    *   While the detailed description provided at the top of the "after" image contains specific pixel values and CSS rule mentions that might be interpreted in a slightly confusing way regarding the classification of "Kontakt jan232" (as a sub-section title rule rather than a main header rule), this is an implementation detail. The *visual outcome* clearly satisfies the instruction's requirement for both "Informace o uživateli jan232" and "Kontakt jan232" to have increased prominence. The instruction focused on the visual result, not the underlying CSS.
+
+Final verdict:
+✅ Fully Applied

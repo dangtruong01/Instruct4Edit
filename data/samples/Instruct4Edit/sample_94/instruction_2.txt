@@ -1,0 +1,1 @@
+Add more vertical space between the main content areas, like between the top navigation and the author information, and around the large ad placements.

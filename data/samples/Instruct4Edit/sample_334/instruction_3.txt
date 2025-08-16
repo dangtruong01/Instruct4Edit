@@ -1,0 +1,1 @@
+Increase the space between lines of text in all the article paragraphs to make them easier to read.

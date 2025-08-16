@@ -1,0 +1,1 @@
+Make the "No Result" message and its accompanying text more prominent by centering it and increasing its font size.

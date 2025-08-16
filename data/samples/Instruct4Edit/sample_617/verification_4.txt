@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to center the article content and limit its width. This means the text block should be horizontally centered on the page, and its width should be smaller than the page width, creating margins on the left and right sides.
+2. In the "after" image, the text appears to be more centrally aligned and have a smaller width than in the "before" image.
+3. There are no visible issues or ambiguities with the change.
+
+Final verdict:
+✅ Fully Applied

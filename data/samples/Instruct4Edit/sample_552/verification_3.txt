@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to each of the job listing boxes. However, there are no clearly defined "job listing boxes" in either image. The job listings ("Copiloto Helicóptero AW139", "Instructores de Vuelo DA40 & DA42", etc.) are simply listed on the page without any surrounding boxes.
+2. Since there are no boxes to add shadows to, it is impossible to apply the instruction.
+3. The instruction is unclear because it assumes the existence of "job listing boxes" which are not present in the original design.
+
+Final verdict:
+❌ Not Applied

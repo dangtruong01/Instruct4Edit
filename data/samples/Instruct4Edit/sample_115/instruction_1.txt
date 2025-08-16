@@ -1,0 +1,1 @@
+Increase the size of the logo at the very top of the page and center it horizontally to make it more prominent.

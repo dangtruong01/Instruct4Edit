@@ -1,0 +1,1 @@
+Give the navigation bar a bit more vertical padding, so the text isn't so close to the top and bottom.

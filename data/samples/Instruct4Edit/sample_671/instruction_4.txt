@@ -1,0 +1,1 @@
+Redesign the very top navigation section to be more cohesive, ensuring the "home" link and other general links are visually grouped and clearly distinguishable.

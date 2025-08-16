@@ -1,0 +1,1 @@
+Introduce more vertical space between the main page title, the category buttons, the filter section, and each of the data tables to improve readability and visual flow.

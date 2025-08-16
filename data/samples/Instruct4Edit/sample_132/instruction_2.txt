@@ -1,0 +1,1 @@
+Give all interactive buttons, especially the login and register buttons, a softer, rounded-corner look.

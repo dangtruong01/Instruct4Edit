@@ -1,0 +1,1 @@
+Change the color of the active navigation item in the main navigation to be more visually distinct.

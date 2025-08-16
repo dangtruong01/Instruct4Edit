@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a subtle border around the main article content. This border should visually separate the article content from the surrounding background.
+2. Comparing the two images, there is no visible border added around the main article content in the after image. The main article section blends seamlessly with the background, just as it did in the original image.
+3. There is no visible change.
+
+Final verdict:
+❌ Not Applied

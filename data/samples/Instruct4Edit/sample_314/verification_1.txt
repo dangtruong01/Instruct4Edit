@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to increase the size and weight (boldness) of the main heading text.
+2. Comparing the two images, the main heading in the "after" image appears to be slightly larger and bolder.
+3. While an improvement, the change is minimal, and the heading is only marginally larger and bolder.
+
+Final verdict:
+❌ Not Applied

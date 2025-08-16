@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the size of the site logo in the header and footer.
+2. I can't see any site logo in the header or footer of both images. Therefore, I cannot confirm if the change was applied or not.
+3. The site logo is missing in both images, so the instruction cannot be verified.
+
+Final verdict:
+❌ Not Applied

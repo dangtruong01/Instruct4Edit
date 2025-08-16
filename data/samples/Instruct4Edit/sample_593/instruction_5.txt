@@ -1,0 +1,1 @@
+Change the Twitter feed widget's background color to white and soften the border color.

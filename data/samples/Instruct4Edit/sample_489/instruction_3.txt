@@ -1,0 +1,1 @@
+The images at the top of each staff member's bio are too large. Reduce their height so they don't dominate the page so much.

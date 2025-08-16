@@ -1,0 +1,1 @@
+Add subtle rounded corners to the boxes containing the user posts.

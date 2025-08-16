@@ -1,0 +1,1 @@
+Change the color of the subscription form background to a lighter shade of blue.

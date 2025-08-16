@@ -1,0 +1,1 @@
+Center the list of links in the left column under the large image.

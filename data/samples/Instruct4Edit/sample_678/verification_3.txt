@@ -1,0 +1,18 @@
+As a highly cautious visual UI/UX reviewer, here is my assessment:
+
+**Instruction:** Make the main page title, "Via Ferrata Skalka", more visually distinct and larger to immediately draw attention as the primary heading.
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to elevate the prominence of "Via Ferrata Skalka" by increasing its font size and making it more visually distinct (e.g., through boldness, color, or surrounding whitespace) so that it functions clearly as the main page heading and immediately captures the user's eye.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Before Image:** The text "Via Ferrata Skalka" is present, but its font size and weight are similar to the breadcrumb navigation ("Cesta: OMA"), making it blend in rather than stand out as a primary heading.
+    *   **After Image:** "Via Ferrata Skalka" has been significantly enlarged, making it the largest text element on the page. It also appears to be bolder, further increasing its visual weight and distinction. This change clearly makes it the dominant visual element at the top of the page.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No. The change is very clear and directly addresses all aspects of the instruction. The title is unequivocally larger and more visually distinct, and it immediately draws attention, fulfilling its role as the primary heading.
+
+**Final verdict:**
+✅ Fully Applied

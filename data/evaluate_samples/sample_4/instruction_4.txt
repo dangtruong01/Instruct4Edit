@@ -1,0 +1,1 @@
+Add more padding around the text within the "Recently queried sites" section.

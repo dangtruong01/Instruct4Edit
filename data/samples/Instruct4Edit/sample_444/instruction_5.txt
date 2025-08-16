@@ -1,0 +1,1 @@
+Give the input fields of the login form a more modern look, perhaps with a subtle border or shadow.

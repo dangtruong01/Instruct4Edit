@@ -1,0 +1,1 @@
+Reduce the amount of space above and below the article content within the main section.

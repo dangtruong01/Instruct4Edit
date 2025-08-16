@@ -1,0 +1,1 @@
+Make the advertisement that sticks to the bottom of the screen span the full width of the visible area, rather than only half.

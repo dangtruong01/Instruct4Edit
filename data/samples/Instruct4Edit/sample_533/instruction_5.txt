@@ -1,0 +1,1 @@
+Make the footer navigation menu visually distinct from the rest of the footer content, perhaps by giving it a background color that contrasts slightly with the footer's overall background.

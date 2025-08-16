@@ -1,0 +1,1 @@
+Change the "Arrere / Atrás / Back" button in the footer to a green color that matches the other green elements on the site, and make the text white.

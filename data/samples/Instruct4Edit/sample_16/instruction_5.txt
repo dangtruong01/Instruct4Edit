@@ -1,0 +1,1 @@
+5.  Reduce the size of the "Dernière visite" and "Nous sommes le..." text in the date bar.

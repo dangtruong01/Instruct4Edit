@@ -1,0 +1,1 @@
+Make the "Accept all" button in the cookie consent banner at the bottom of the page visually stronger, perhaps by giving it a more vibrant background color.

@@ -1,0 +1,1 @@
+Lighten the color of the copyright text at the very bottom of the page to improve readability.

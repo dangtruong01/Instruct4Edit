@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the navigation menu to a lighter and more modern shade. By navigation menu, I assume this refers to the top portion of the website with the image and the text "Sejarah Seni & Perupa Yadnya di Bali".
+2. Comparing the two images, there is NO visual change to the background color of the navigation menu. It appears to be the same in both images.
+3. There are no ambiguities in the instruction, but it clearly hasn't been implemented.
+
+Final verdict:
+❌ Not Applied

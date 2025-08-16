@@ -1,0 +1,1 @@
+On the event page, reduce the margin between the event image and the event details/description.

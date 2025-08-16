@@ -1,0 +1,1 @@
+Adjust the main product section so that the product name and description are clearly positioned next to the large product image, ensuring there's a balanced amount of space between them.

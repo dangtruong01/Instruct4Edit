@@ -1,0 +1,15 @@
+As a highly cautious visual UI/UX reviewer, I have carefully compared the two images provided.
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction is to "Gently round the corners of the large featured image that appears at the top of each article."
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    No. In both the "before" and "after" images, there is no "large featured image that appears at the top of each article" visible. There is a large empty white space where such an image might be intended to appear, but no image is rendered in either version. A smaller image of a woman is present further down the page, and while it has rounded corners, it is not "at the top of each article" nor is it clearly the "large featured image" being referred to. Moreover, its corners are rounded in *both* the before and after images, indicating no change was applied to it based on this instruction.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    Yes, there is a significant missing element: the target image itself. Since the "large featured image that appears at the top of each article" is not present in either the original or the modified image, it is impossible to verify if its corners have been gently rounded as instructed. The instruction refers to a visual element that is simply not displayed.
+
+**Final verdict:**
+❌ Not Applied

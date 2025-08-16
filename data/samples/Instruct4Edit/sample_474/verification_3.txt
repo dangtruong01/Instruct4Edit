@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the "贊助支持創作者，成為他繼續創作的動力吧！" section to a lighter shade.
+2. Comparing the two images, the background color of the specified section appears lighter in the second image (the "after" image) than in the first image (the "before" image).
+3. There are no ambiguities or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

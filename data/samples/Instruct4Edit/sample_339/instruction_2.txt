@@ -1,0 +1,1 @@
+Give the 'Nieuwsmelder' title in the breaking news ticker a distinct, darker background color and make its text white for better contrast.

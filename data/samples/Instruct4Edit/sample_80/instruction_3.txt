@@ -1,0 +1,1 @@
+Change the color of the 'Email' and 'PHONE' headings in the orange section to white.

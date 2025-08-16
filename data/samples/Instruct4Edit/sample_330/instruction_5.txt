@@ -1,0 +1,1 @@
+Transform the '매매이력' text into small, clickable buttons within the property details list, possibly with a light background or a border, so they stand out more.

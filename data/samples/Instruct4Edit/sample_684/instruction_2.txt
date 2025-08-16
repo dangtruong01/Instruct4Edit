@@ -1,0 +1,1 @@
+Make the main navigation menu items at the top of the page more distinct, perhaps by making their text a bit bolder and ensuring they clearly highlight when hovered over.

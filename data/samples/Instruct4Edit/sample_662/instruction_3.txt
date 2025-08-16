@@ -1,0 +1,1 @@
+Adjust the color of the IP addresses listed at the bottom of the main content area so they are clearly distinguishable from the page's background.

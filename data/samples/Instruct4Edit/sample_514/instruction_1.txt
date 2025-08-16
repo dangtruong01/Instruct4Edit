@@ -1,0 +1,1 @@
+Make the top navigation bar (where the course links are) stick to the top of the screen when the user scrolls down the page.

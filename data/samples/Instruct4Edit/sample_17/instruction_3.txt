@@ -1,0 +1,1 @@
+3.  Make the images in the content have a small, subtle rounded border.

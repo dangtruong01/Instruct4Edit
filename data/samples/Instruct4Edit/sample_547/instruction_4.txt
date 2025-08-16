@@ -1,0 +1,1 @@
+Move the image on the right side of the main content to the left and make it slightly transparent.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the "Na hlavnú stránku" button. This should result in a visual effect where the button appears to be slightly raised or have a sense of depth.
+2. Comparing the "before" and "after" images, the "Na hlavnú stránku" button in the "after" image appears to have a subtle shadow around it.
+3. There are no apparent ambiguities or missing elements. The shadow effect is noticeable, albeit subtle, as requested.
+
+Final verdict:
+✅ Fully Applied

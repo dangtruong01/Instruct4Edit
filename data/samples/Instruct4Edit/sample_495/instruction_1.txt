@@ -1,0 +1,1 @@
+In the top header, make the text links a more prominent color, something that stands out more against the background.

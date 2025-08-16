@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to remove the borders around the main content area. This implies removing any visible lines or shading that define the boundaries of the primary content.
+2. Comparing the two images, I don't see any borders around the main content area in both images.
+3. There are no visible borders around the main content area in either of the images.
+
+Final verdict:
+✅ Fully Applied

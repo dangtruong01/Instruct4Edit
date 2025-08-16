@@ -1,0 +1,1 @@
+Make the logo in the top left corner slightly larger and give it more breathing room around it.

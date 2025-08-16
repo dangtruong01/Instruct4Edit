@@ -1,0 +1,1 @@
+Give the main menu items a subtle hover effect, like a light background color change.

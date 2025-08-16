@@ -1,0 +1,1 @@
+Replace the current image-based navigation at the top with a clear, text-based navigation bar that spans the width of the page.

@@ -1,0 +1,1 @@
+2. Increase the spacing between the menu items in the navigation bar.

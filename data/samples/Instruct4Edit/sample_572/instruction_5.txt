@@ -1,0 +1,1 @@
+Center the social media icons in the toolbar.

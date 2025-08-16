@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the "Détails sur le poste" block on the right side of the image.
+2. Comparing the two images, there is no visible border around the "LOCALISATION" block in the after image.
+3. It is possible that "LOCALISATION" block corresponds to "Détails sur le poste", but without more context, it is not possible to say for sure. Either way, no border is visible.
+
+Final verdict:
+❌ Not Applied

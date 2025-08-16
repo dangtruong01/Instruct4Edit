@@ -1,0 +1,1 @@
+Make all the main body paragraphs align their text to the left edge instead of stretching it evenly across the width.

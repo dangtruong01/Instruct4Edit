@@ -1,0 +1,1 @@
+Make the "Related posts" section visually distinct with a border and a different background color.

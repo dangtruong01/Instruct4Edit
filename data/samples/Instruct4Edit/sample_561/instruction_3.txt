@@ -1,0 +1,1 @@
+In the article content, make the image take up the full width of its container.

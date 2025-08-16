@@ -1,0 +1,1 @@
+Give the search button next to the search box a different background color to make it stand out more.

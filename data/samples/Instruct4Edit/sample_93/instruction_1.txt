@@ -1,0 +1,1 @@
+Center the main website title and its descriptive tagline in the header area.

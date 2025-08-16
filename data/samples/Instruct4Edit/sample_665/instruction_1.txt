@@ -1,0 +1,1 @@
+Make the main title text in the page header larger and a different color to stand out more.

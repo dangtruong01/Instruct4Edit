@@ -1,0 +1,13 @@
+Step-by-step justification:
+
+1.  **What is the intended visual change?**
+    The instruction aims to ensure that a "large image shown near the bottom of the page" (which implies its existence) displays correctly by filling its available space cleanly, without any white space or cut-off sections. This would involve adjusting the image's size, aspect ratio, or container properties.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    No, this change is not visible. Both the "before" and "after" images are identical. Crucially, the "large image shown near the bottom of the page" is entirely absent in both images. There is a large grey box on the right side of the page that *could* potentially be a placeholder for an image, but no actual image content is displayed within it in either the "before" or "after" state.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    Yes, the primary missing element is the "large image" itself. Since no image is "shown" anywhere on the page (let alone "near the bottom"), it is impossible to verify whether it "fills its available space cleanly, without any awkward white space or cut-off parts." The instruction cannot be applied to an element that is not present in the design. Therefore, the instruction's premise (an image being shown) is not met, meaning the instruction itself cannot have been implemented.
+
+Final verdict:
+❌ Not Applied

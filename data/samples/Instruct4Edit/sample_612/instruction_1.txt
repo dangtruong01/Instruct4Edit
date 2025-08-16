@@ -1,0 +1,1 @@
+Make the "Preguntas frecuentes" heading bigger and bolder so it stands out more.

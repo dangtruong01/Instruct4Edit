@@ -1,0 +1,1 @@
+That "Add to Cart" button needs some breathing room; add some space around it so it doesn't feel so cramped.

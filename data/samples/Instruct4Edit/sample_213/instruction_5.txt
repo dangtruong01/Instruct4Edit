@@ -1,0 +1,1 @@
+Update the appearance of the very top banner area to give it a cleaner, more integrated look, so the logo and user login fields appear as part of a unified header.

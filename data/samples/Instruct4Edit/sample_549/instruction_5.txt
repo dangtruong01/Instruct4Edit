@@ -1,0 +1,1 @@
+Center the "BÚSQUEDA POR CATEGORÍA" heading and make the text a little bit bigger.

@@ -1,0 +1,1 @@
+Make the hotel logo in the footer smaller.

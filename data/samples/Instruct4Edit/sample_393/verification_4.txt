@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to visually separate the footer from the main content using either a background color or a subtle border.
+2. Comparing the two images, it is hard to discern any visual separation between the footer ("Fox Studio" and "WordPress gururla sunar") and the main content in both images.
+3. There is no visible background color or border added to the footer in the "after" image.
+
+Final verdict:
+❌ Not Applied

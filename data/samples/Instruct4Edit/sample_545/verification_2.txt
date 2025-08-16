@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a light gray background to the "New Posts" section. This means the area containing the title "New Posts" and the list of items below it should have a light gray background color.
+2. In the after image, compared to the before image, the "New Posts" section and the list of items below it now have a very subtle light gray background color.
+3. There are no ambiguities or missing elements. The instruction has been clearly applied.
+
+Final verdict:
+✅ Fully Applied

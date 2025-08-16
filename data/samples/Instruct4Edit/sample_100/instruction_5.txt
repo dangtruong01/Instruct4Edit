@@ -1,0 +1,1 @@
+Make the page title text larger and bolder.

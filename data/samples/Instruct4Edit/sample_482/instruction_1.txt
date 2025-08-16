@@ -1,0 +1,1 @@
+Make the background images behind the top navigation blend together more seamlessly.

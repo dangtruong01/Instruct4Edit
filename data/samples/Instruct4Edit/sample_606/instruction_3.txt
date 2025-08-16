@@ -1,0 +1,1 @@
+Make the main title at the top of the page bolder and remove the text shadow.

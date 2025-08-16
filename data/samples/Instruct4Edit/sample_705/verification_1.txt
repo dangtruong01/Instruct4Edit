@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the navigation bar remain visible at the top of the screen even when the user scrolls down the page.
+2. The two images are identical. It is impossible to say if the navigation bar sticks to the top upon scrolling, as only one static image is provided. Because the images are the same, it is not possible to see if the navigation bar is "stuck" at the top upon scrolling.
+3. The visual change is not apparent in the after image.
+
+Final verdict:
+❌ Not Applied

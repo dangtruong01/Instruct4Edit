@@ -1,0 +1,1 @@
+The two images on the right side of the header should be displayed in a single column instead of side by side.

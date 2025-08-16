@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the article titles in the article section (presumably the section with titles like "NGUYÊN NHÂN") larger and bolder.
+2. Looking at the "After" image, the titles "NGUYÊN NHÂN" and "Những con đường lây nhiễm giang mai cần tránh" appear to be slightly larger and bolder compared to the "Before" image.
+3. There are no apparent ambiguities.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the header background color to a lighter shade. The header is the top section of the page.
+2. Comparing the two images, the header background color appears to be the same in both images.
+3. There is no visible change in the header background color between the two images.
+
+Final verdict:
+❌ Not Applied

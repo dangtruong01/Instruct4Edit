@@ -1,0 +1,1 @@
+Adjust the spacing around the article image to give it more room to breathe within the article.

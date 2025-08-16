@@ -1,0 +1,1 @@
+Reduce the space between the featured image and the content below it.

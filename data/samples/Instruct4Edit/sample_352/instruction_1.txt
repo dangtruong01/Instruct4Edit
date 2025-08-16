@@ -1,0 +1,1 @@
+In the page header, reduce the transparency of the white background.

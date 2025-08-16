@@ -1,0 +1,1 @@
+Make the text links in the right-hand sidebar appear less prominent, perhaps by lightening their color or reducing their font size.

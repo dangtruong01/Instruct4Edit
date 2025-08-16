@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the author name and update date directly under the main image.
+2. Comparing the two images, the author name ("Georges Alexandre") and the update date ("Updated on: 16 Oct 2023, 07:09 AM") are not visible in the "after" image.
+3. The author and the update date are not visible in the after picture, which means that the centering was not applied.
+
+Final verdict:
+❌ Not Applied

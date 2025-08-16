@@ -1,0 +1,1 @@
+Make the "Donatie" button in the header a bright, contrasting color to draw attention to it.

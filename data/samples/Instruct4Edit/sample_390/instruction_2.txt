@@ -1,0 +1,1 @@
+Add a subtle border to each job listing to visually separate them.

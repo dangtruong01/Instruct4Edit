@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to apply a solid background color to the header section, spanning the full width of the page. In the before image, the header appears to have a transparent or very light background.
+2. The after image visually suggests a darker background color is applied to the header. This change is clearly visible.
+3. There are no obvious ambiguities.
+
+Final verdict:
+✅ Fully Applied

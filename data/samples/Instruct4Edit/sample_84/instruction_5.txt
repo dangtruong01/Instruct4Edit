@@ -1,0 +1,1 @@
+Introduce more generous spacing around the main content blocks, especially between the two primary columns, to create a sense of openness and improve overall readability.

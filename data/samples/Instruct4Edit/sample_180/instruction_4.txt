@@ -1,0 +1,1 @@
+4.  Make the "View All Posts" button more prominent by increasing its size and changing its color.

@@ -1,0 +1,1 @@
+In the login pop-up, the main action buttons like 'Log In by SMS' currently appear somewhat faded. Ensure these buttons have full, vibrant color and clear visual prominence.

@@ -1,0 +1,1 @@
+Left-align the "Extension of Time" heading instead of centering it.

@@ -1,0 +1,1 @@
+Make the sidebar items more visually distinct from each other by adding a small amount of padding around them.

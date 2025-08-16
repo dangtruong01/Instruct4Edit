@@ -1,0 +1,1 @@
+Soften the appearance of all the individual content boxes by reducing their background gradient and toning down their shadow to create a cleaner look.

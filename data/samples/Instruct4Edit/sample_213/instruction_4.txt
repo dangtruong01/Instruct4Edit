@@ -1,0 +1,1 @@
+Increase the vertical spacing between the main content blocks, such as the header, the navigation bar, the central message area, and the footer, to give elements more room to breathe.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the "Share" button more prominent and visually appealing like a call to action. This implies changing its appearance to draw more attention to it. It could involve a different background color, increased size, font change, or some other visual emphasis.
+2. In the 'after' image, the "Share" button at the bottom has been changed. It now has a green background, a lighter font color, and is slightly larger.
+3. The change is clear and there are no ambiguities. The original 'share' button was just text, and the modified one resembles a button.
+
+Final verdict:
+✅ Fully Applied

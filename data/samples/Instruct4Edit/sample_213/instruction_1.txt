@@ -1,0 +1,1 @@
+Center the main content area on the page and give it a readable maximum width, rather than letting it stretch completely across very wide screens.

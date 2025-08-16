@@ -1,0 +1,1 @@
+Increase the maximum width of the main content area where the followers are listed, allowing more space for the follower names and descriptions.

@@ -1,0 +1,1 @@
+The main site title in the header is overwhelming. Reduce its size and add a more modern, readable font.

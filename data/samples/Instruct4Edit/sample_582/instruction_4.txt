@@ -1,0 +1,1 @@
+Slightly reduce the size of the main logo image in the green navigation bar, so it takes up less vertical space.

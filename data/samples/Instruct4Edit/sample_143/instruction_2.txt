@@ -1,0 +1,1 @@
+Give the main navigation links at the top of the page a subtle background color change when the mouse hovers over them to indicate interactivity.

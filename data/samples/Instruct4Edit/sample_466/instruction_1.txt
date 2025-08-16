@@ -1,0 +1,1 @@
+Slightly reduce the size of the logo in the header.

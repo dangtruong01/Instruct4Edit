@@ -1,0 +1,1 @@
+Format the long text block in the "Symptom" section with a light gray background and a distinct, fixed-width font to visually differentiate it as code.

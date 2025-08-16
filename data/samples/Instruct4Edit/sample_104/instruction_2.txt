@@ -1,0 +1,1 @@
+Increase the spacing between the content columns to give the page a less cramped feel.

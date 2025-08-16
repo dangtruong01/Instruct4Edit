@@ -1,0 +1,1 @@
+Make the sidebar a fixed width so it doesn't stretch, and add a subtle border to visually separate it from the main content.

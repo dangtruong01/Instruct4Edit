@@ -1,0 +1,1 @@
+The links in the left-hand navigation column, both the image-based ones and the text-only ones, feel very rigid and inconsistent. Let's give all these navigation items a more modern, uniform button-like appearance with a clear hover state, and ensure consistent spacing between them.

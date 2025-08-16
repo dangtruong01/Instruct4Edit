@@ -1,0 +1,1 @@
+Increase the font size of the main content text for better readability on larger screens.

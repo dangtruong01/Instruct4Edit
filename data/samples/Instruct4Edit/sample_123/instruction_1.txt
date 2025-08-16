@@ -1,0 +1,1 @@
+Make the text color of the links in the left sidebar menu visible against their background.

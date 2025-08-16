@@ -1,0 +1,1 @@
+Give the input boxes for the username and password a light gray border.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the header section. This will visually separate the header from the rest of the content.
+2. Comparing the two images, there is no discernable shadow added to the header in the "after" image. The top section looks the same in both images.
+3. There's no visible shadow. The change was not implemented.
+
+Final verdict:
+❌ Not Applied

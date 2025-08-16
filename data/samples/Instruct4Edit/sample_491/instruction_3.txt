@@ -1,0 +1,1 @@
+Style the links within the main text content to be a brighter, more noticeable color to improve readability.

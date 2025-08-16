@@ -1,0 +1,1 @@
+The genre tags below the book description (e.g., 'научная фантастика') are currently yellow-bordered. Change these tags to have a solid background fill with slightly more rounded edges, making them appear like soft, cohesive labels.

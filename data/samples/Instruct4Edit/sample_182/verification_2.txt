@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to make the text in the navigation menu bolder and change its color to a dark grey.
+2. Comparing the two images, the color of the navigation menu text appears to be the same. The boldness of the text also does not appear to be different.
+3. The change is not visible.
+
+Final verdict:
+❌ Not Applied

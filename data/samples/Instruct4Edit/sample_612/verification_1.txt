@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the font size and boldness of the "Preguntas frecuentes" heading.
+2. Visually comparing the two images, the heading in the "after" image appears slightly larger and bolder than in the "before" image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

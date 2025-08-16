@@ -1,0 +1,1 @@
+Adjust the footer so that the sections are more evenly distributed and aligned.

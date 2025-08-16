@@ -1,0 +1,1 @@
+Increase the font size of the main article title and center it horizontally on the page.

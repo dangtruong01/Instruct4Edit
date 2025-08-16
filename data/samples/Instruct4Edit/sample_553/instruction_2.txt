@@ -1,0 +1,1 @@
+Give the "Popular Searches" list items a softer, less defined border. Make it thinner and a lighter shade of grey.

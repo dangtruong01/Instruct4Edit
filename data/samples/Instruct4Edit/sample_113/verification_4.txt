@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a border around the main content area. This means the white area where the main text, image, and title are located.
+2. By comparing the two images, there isn't a visible border added to the 'after' image. The content area remains seamless with the background.
+3. There are no visible borders.
+
+Final verdict:
+❌ Not Applied

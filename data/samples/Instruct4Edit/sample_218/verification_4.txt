@@ -1,0 +1,20 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to visually isolate and highlight the "comments section" by giving it a distinct appearance. This involves applying a light background color to this entire section and enclosing it within a thin, solid border, thereby separating it clearly from the main content.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible.
+    *   In the "before" image, the comments (starting with "Anónimo ha dicho que...") appear directly on the main white page background, with no visual distinction from the content above.
+    *   In the "after" image, a rectangular box has been introduced that encapsulates the visible comment and the "Publicar un comentario" link. This box has a very subtle, light grey background color that is distinctly different from the pure white of the page.
+    *   Additionally, this box is outlined by a thin, solid border (also light grey), which further reinforces its separation from the surrounding content. The combination of the background color and border effectively creates a clear visual block for the comments section.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No.
+    *   The "entire comments section" appears to be enclosed, including the "Publicar un comentario" link, which is part of the comments functionality.
+    *   The background color is indeed "light" and visually distinct.
+    *   The border is "thin" and "solid".
+    *   The separation from "the rest of the content" is clear and unambiguous.
+
+**Final verdict:**
+✅ Fully Applied

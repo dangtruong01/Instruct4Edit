@@ -1,0 +1,1 @@
+Arrange the various information boxes, like "Ubytovanie" and "Stravovanie", into a more organized, perhaps multi-column, layout to improve the overall flow of content.

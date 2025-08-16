@@ -1,0 +1,1 @@
+Change the background color of the selected tab to a slightly darker shade of the current background color to make it stand out more.

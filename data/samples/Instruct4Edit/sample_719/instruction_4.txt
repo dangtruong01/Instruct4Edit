@@ -1,0 +1,1 @@
+Increase the spacing between the social sharing icons and the article title to give them more visual separation.

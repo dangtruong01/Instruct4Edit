@@ -1,0 +1,1 @@
+Make the "Request Appointment" button in the header more visually prominent by giving it a solid background color and slightly rounded corners.

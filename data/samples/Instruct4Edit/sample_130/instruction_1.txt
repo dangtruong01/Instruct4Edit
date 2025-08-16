@@ -1,0 +1,1 @@
+Place a clear search icon inside the button next to the search input field in the header.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires the main title of the article to be bigger and bolder.
+2. Comparing the before and after images, the main title ("Predaj prebytočného nehnuteľného majetku štátu k.ú. Topoľčany") appears to be both larger in size and rendered in a bolder font weight in the after image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Make the header image responsive so it scales down on smaller screens.

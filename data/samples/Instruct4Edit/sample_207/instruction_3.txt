@@ -1,0 +1,1 @@
+The "友情链接" section at the bottom needs more visual separation. Add a background color and padding to that whole area.

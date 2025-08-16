@@ -1,0 +1,1 @@
+Increase the font size of the file and folder names in the table to make them easier to read.

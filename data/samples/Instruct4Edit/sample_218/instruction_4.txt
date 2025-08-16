@@ -1,0 +1,1 @@
+Clearly separate the entire comments section from the rest of the content by giving it a light background color and a thin, solid border.

@@ -1,0 +1,1 @@
+Make the venue name a more prominent color, like a dark red or blue, so it stands out more.

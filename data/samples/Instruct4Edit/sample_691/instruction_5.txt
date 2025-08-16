@@ -1,0 +1,1 @@
+Add a light background shade to the entire right sidebar content area to make it visually distinct from the main content.

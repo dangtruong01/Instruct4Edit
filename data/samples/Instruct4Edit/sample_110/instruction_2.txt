@@ -1,0 +1,1 @@
+Give the navigation bar a subtle, light gray background so it's visually distinct from the header and main content areas.

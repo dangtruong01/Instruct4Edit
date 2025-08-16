@@ -1,0 +1,1 @@
+For the currently selected item in the navigation menus, in addition to changing its text color, also add a clear visual indicator like a thin line underneath it.

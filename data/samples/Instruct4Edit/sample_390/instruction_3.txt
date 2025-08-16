@@ -1,0 +1,1 @@
+Change the font used in the footer to a simpler, more readable sans-serif.

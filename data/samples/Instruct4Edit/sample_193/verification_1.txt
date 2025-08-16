@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for the "Sign In" and "Sign Up" buttons in the top navigation bar to be more visually prominent. This can be achieved by changing their background color or adding a border.
+2. In the "after" image, both "Sign In" and "Sign Up" buttons now have a background color, making them more visually prominent than in the "before" image where they were simple text links.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

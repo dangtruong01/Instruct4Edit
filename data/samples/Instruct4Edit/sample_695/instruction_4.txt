@@ -1,0 +1,1 @@
+Add more vertical space between the "Share Your Wonders on:" section and the footer links below it, to improve readability and visual separation.

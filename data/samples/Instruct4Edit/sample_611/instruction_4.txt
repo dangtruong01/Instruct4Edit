@@ -1,0 +1,1 @@
+Add a subtle shadow effect under the main content area to give it more depth.

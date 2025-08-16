@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the footer to a lighter shade of gray.
+2. Visually comparing the two images, the footer appears to be a lighter shade of gray in the second (after) image compared to the first (before) image.
+3. There are no apparent ambiguities or missing elements. The change seems to be applied as requested.
+
+Final verdict:
+✅ Fully Applied

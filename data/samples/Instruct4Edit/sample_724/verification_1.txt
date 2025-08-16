@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the spacing between the main content area (containing the article and image) and the sidebar (containing "Recomendados").
+2. Visually, the space between the main content and the sidebar has increased in the second image compared to the first image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

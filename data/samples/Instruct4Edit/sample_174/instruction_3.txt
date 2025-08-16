@@ -1,0 +1,1 @@
+Reduce the top and bottom padding around the resource's description.

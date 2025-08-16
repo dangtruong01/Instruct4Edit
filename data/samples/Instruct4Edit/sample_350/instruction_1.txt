@@ -1,0 +1,1 @@
+In the header, make the navigation links a darker shade of green for better readability.

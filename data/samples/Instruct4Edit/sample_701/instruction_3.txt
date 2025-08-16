@@ -1,0 +1,1 @@
+Increase the spacing between the shortcut icons on the right side of the main content area.

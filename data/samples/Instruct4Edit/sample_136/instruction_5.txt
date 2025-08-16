@@ -1,0 +1,1 @@
+Transform the 'Open in app' text in the upper left corner of the header into a more defined button by adding a visible outline and more padding around its text.

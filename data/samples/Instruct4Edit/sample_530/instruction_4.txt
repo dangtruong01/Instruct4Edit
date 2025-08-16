@@ -1,0 +1,1 @@
+Change the font used for the tag cloud ("Persone che ho nominato...") to a sans-serif font.

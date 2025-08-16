@@ -1,0 +1,13 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction requires adding a "customer support link" to the thin gray bar located at the very top of the page.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes. In the "before" image, the gray bar at the very top of the page only contains "Carrello (0)" on the right side. In the "after" image, a new text "Servizio Clienti" (which translates to "Customer Service") has been added to the left side of this same gray bar. This text is displayed in blue and appears to be underlined, indicating it is a clickable link.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No. The term "Servizio Clienti" directly corresponds to "customer support." The placement is precisely "in the gray bar at the very top of the page." The visual styling (blue, underlined) strongly suggests it is a link, fulfilling the "link" requirement. The change is clear and unambiguous.
+
+**Final verdict:**
+✅ Fully Applied

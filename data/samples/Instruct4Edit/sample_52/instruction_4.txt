@@ -1,0 +1,1 @@
+Make the text in the footer a lighter shade of gray.

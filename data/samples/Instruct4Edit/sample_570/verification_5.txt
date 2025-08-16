@@ -1,0 +1,7 @@
+**Step-by-step justification:**
+1. The instruction is to increase the size of the social media icons located in the header.
+2. Without seeing the header of the page, this instruction cannot be verified.
+3. The images do not show the header, thus the change is not verifiable.
+
+**Final verdict:**
+❌ Not Applied

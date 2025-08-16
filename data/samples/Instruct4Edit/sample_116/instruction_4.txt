@@ -1,0 +1,1 @@
+Increase the line height and slightly adjust the text color within the message areas for improved readability.

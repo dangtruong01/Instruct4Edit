@@ -1,0 +1,1 @@
+On the left sidebar, give the list of links a background color that complements the main site's color scheme.

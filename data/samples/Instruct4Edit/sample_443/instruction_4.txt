@@ -1,0 +1,1 @@
+For the chat window, use a different color scheme, something less harsh than the current black and light blue. Maybe a softer blue and a darker gray.

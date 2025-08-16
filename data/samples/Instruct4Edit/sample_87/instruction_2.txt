@@ -1,0 +1,1 @@
+Add a subtle border or a slight shadow around the main content sections to define them more clearly.

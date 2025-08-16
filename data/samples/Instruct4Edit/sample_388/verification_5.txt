@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the "Deixa un comentari" heading smaller and less prominent. This implies a reduction in font size and/or a change in font weight or color to make it less visually striking.
+2. Comparing the two images, the "Deixa un comentari" heading appears to be slightly smaller in the second image. Also the font seems slightly lighter.
+3. I'm confident that a slight size and prominence reduction was applied.
+
+Final verdict:
+✅ Fully Applied

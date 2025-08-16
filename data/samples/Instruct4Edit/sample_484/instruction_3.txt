@@ -1,0 +1,1 @@
+Give the comment form input fields a subtle rounded corner to soften their appearance.

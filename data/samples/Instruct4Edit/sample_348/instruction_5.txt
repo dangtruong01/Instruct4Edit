@@ -1,0 +1,1 @@
+Style the comment submission button to have rounded corners and a slightly lighter background color.

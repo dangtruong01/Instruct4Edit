@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a more distinct visual separation for the "related posts" section, suggesting a border or background.
+2. Looking at the after image, the related posts section is now visually separated by a very subtle light grey background, creating a visual distinction from the rest of the content.
+3. There are no ambiguities; the change is visible, although subtle.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Increase the line height in the main article text for better readability.

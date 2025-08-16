@@ -1,0 +1,1 @@
+Add some visual separation to the two tables to make them easier to read.

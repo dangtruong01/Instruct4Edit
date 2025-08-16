@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires a background color change on hover for sub-menu items in the main navigation.
+2. The images do not show any interactive state (hover) of the menu items. It's impossible to confirm any background color change without observing the hover state.
+3. Since no hover state is visible, there is no way to verify if the instruction was implemented.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Make the fixed banner at the top of the page slightly shorter.

@@ -1,0 +1,1 @@
+Make the product image slightly larger, taking up more of the vertical space on the page.

@@ -1,0 +1,1 @@
+Change the footer copyright text to a lighter shade of grey.

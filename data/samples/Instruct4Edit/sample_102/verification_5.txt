@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the footer a lighter shade of grey.
+2. Comparing the two images, the background color of the footer appears to be the same grey in both. There is no change.
+3. The entire footer section (Search box, Recent Posts, Copyright) is the area that should have had the color changed.
+
+Final verdict:
+❌ Not Applied

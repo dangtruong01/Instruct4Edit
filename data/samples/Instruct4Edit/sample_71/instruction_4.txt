@@ -1,0 +1,1 @@
+Make the social media icons in the footer slightly larger.

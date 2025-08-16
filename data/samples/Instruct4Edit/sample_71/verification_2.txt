@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the font color of the navigation links (HOME, ABOUT US, PODCAST) to a darker shade of grey.
+2. Comparing the two images, the navigation links in the second image do not appear to be a noticeably darker shade of grey compared to the first image.
+3. The change is not clearly visible, suggesting the instruction may not have been fully applied.
+
+Final verdict:
+❌ Not Applied

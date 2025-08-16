@@ -1,0 +1,1 @@
+Add a subtle border around the main article content to visually separate it from the rest of the page.

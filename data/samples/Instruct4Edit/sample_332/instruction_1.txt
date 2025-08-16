@@ -1,0 +1,1 @@
+Give the main header bar at the top a subtle background color and a slight shadow to make it pop off the page.

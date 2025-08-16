@@ -1,0 +1,1 @@
+Change the color of the main heading, "Education 2.0 – A new way forward," to a more prominent blue.

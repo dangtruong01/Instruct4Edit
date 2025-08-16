@@ -1,0 +1,1 @@
+Increase the overall vertical spacing between the main article content and the sections below it, like the next/previous article navigation and the footer.

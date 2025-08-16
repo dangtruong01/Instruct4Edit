@@ -1,0 +1,1 @@
+Center the footer logo and social media icons on mobile devices.

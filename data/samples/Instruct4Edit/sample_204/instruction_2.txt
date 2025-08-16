@@ -1,0 +1,1 @@
+Make the navigation links in the header more prominent, perhaps by increasing their font size or adding a background color on hover.

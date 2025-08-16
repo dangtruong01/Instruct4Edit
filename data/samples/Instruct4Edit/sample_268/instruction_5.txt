@@ -1,0 +1,1 @@
+Reduce the padding around the content on smaller screens.

@@ -1,0 +1,1 @@
+Make the background image on the header section stretch to cover the entire width of the header.

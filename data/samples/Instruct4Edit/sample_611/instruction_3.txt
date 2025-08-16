@@ -1,0 +1,1 @@
+Make the "En savoir plus" links under the product sections look more like buttons.

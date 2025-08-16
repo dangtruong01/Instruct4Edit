@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires increasing the font size and changing the font to a more modern style for all the main titles on the page.
+2. Comparing the "before" and "after" images, I can see that the titles "Find IP address of URL, website, domain, host or server", "Get site IP. Find the IP addresses associated with any URL, website, domain, subdomain, hostname or server.", "What is site IP, or IP address of website", "Most recent lookup", and "Terms & Privacy" have been modified. The font size has been increased and the font style appears more modern. The "Cookies" title also seems to have an increased font size.
+3. There are no apparent ambiguities. The change is clearly visible on the specified titles.
+
+Final verdict:
+✅ Fully Applied

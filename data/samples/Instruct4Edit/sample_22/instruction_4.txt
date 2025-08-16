@@ -1,0 +1,1 @@
+Make the text within the announcements section scroll more smoothly.

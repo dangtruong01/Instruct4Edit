@@ -1,0 +1,1 @@
+Give the language selection options in the sidebar a more interactive appearance, like distinct buttons that respond when hovered over.

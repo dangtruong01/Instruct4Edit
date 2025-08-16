@@ -1,0 +1,1 @@
+Make the currently selected tab in the "Plant Info," "Care," "Common Problems" section more visually prominent, so it stands out from the unselected tabs.

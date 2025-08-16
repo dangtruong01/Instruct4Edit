@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction specifies changing the font color in the footer to a lighter shade of grey.
+2. By comparing the two images, it is not visually evident that the font color in the footer has been changed.
+3. There is no clear difference in the grey shade in the footer between the original and modified images.
+
+Final verdict:
+❌ Not Applied

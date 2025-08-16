@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main article card. This should make the card appear to "float" slightly above the background.
+2. Comparing the two images, I cannot see any shadow added to the main article card in the second image.
+3. There is no ambiguity in the instruction itself, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to increase the font size of the main article heading, which appears to be "边维云：不断提高科技成果转化和产业化水平".
+2. Comparing the "before" and "after" images, the heading in the "after" image is clearly larger than the heading in the "before" image.
+3. There are no doubts or ambiguities.
+
+Final verdict:
+✅ Fully Applied

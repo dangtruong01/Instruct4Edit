@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add more top padding/margin above the titles "Principal," "Series," and "Información:" within their respective boxes in the bottom section of the image.
+2. Comparing the "after" image to the "before" image, it's clear that additional space has been added above the titles.
+3. There are no ambiguities. The requested change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

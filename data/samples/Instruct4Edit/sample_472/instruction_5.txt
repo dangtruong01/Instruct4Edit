@@ -1,0 +1,1 @@
+Change the color of the navigation links in the footer to a darker gray, so they are easier to read.

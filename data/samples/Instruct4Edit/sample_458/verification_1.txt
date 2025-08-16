@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size of the main article heading. The main article heading is "Hudobná novinka od Kaliho ťa okamžite vtiahne do teplých letných dní!".
+2. By comparing the two images, the font size of the main article heading seems to have been increased in the second image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

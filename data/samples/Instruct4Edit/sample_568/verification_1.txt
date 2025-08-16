@@ -1,0 +1,7 @@
+**Step-by-step justification:**
+1. The instruction asks to highlight the active page item in the top navigation bar. The active page appears to be the "LaBella Associates" page.
+2. In the "after" image, "LaBella Associates" is not visibly highlighted or distinguished from other top navigation items (Search Jobs, Apply4Me, Resume, Career Advice).
+3. The change is not visible; thus, the instruction was not implemented.
+
+**Final verdict:**
+❌ Not Applied

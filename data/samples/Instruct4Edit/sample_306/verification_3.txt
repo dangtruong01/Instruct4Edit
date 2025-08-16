@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to darken the background color of the footer.
+2. The footer's background color in the "after" image appears to be darker than in the "before" image.
+3. The change is clearly visible and the instruction is well-executed.
+
+Final verdict:
+✅ Fully Applied

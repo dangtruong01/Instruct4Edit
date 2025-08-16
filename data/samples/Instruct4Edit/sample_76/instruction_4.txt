@@ -1,0 +1,1 @@
+The navigation bar should have a slightly lighter blue gradient to improve readability of the white text.

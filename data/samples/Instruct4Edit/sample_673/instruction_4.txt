@@ -1,0 +1,1 @@
+Make the search input field in the sidebar slightly taller and give it a very subtle light gray border.

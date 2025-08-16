@@ -1,0 +1,1 @@
+Make the input fields in the search form a bit wider and add a subtle border around them.

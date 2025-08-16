@@ -1,0 +1,1 @@
+Update the appearance of the main content box by removing its outside border and changing its background to a clean white.

@@ -1,0 +1,1 @@
+Improve the visual separation between the main content areas (the title, the breadcrumbs, the post, etc.) by adding more whitespace or dividing lines.

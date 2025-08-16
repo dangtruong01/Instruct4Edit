@@ -1,0 +1,1 @@
+Make the main navigation links across the top (Register, Gallery, FAQ etc.) a lighter, more readable color.

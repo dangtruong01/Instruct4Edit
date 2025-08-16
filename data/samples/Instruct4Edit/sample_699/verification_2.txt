@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the spacing around the article images. This means increasing the top, bottom, left, and right margins around both images.
+2. Comparing the "after" image, the space around the images seems to have increased, giving them more room to breathe.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

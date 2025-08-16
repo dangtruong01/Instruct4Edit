@@ -1,0 +1,1 @@
+Increase the amount of empty space between the different information and success boxes at the very bottom of the page content.

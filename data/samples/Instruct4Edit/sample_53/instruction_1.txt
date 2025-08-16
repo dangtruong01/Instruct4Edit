@@ -1,0 +1,1 @@
+Increase the padding around the text content within the main content area to provide more visual breathing room.

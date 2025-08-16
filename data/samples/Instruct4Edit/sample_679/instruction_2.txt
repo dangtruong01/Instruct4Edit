@@ -1,0 +1,1 @@
+Change the accent color of the primary action buttons, like "Trailer" and "Stream in HD", to something that stands out more or aligns with the main branding.

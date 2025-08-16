@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the footer section headings a brighter, more prominent color.
+2. In the "after" image, the footer section headings ("Core Facilities", "Sitemap", "Explore") appear to have a slightly different color compared to the "before" image. They are marginally brighter.
+3. The change is subtle, but visible.
+
+Final verdict:
+✅ Fully Applied

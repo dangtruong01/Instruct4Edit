@@ -1,0 +1,1 @@
+Round the corners of the search input field in the sidebar.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the main background color to a lighter shade of gray.
+2. Comparing the two images, the background color appears to be visually identical. There is no noticeable shift to a lighter gray shade.
+3. There are no ambiguities, but the instruction was not implemented.
+
+Final verdict:
+❌ Not Applied

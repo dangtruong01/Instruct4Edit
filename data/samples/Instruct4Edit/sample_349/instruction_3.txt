@@ -1,0 +1,1 @@
+Change the color of the date displayed below the article title to a muted gray.

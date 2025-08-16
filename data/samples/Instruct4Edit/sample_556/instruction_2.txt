@@ -1,0 +1,1 @@
+Increase the padding around the main heading to create more visual breathing room.

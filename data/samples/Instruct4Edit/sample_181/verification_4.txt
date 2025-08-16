@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to darken the table headers in the CPI data section. The CPI data section is the table with the years and CPI values.
+2. It is difficult to discern a difference between the before and after images.
+3. The change might be too subtle, or not applied.
+
+Final verdict:
+❌ Not Applied

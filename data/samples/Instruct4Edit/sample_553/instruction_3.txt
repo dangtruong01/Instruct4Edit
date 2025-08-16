@@ -1,0 +1,1 @@
+Center the logo and message on the right side of the header vertically so they align with the title on the left.

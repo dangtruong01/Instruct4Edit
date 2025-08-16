@@ -1,0 +1,1 @@
+Center the links in the footer and increase the spacing between them.

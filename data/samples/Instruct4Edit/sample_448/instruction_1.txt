@@ -1,0 +1,1 @@
+Change the background image in the header to have a slightly darker overlay so the menu text is more readable.

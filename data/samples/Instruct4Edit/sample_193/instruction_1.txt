@@ -1,0 +1,1 @@
+On the top navigation bar, make the "Sign In" and "Sign Up" buttons more visually prominent, perhaps by changing their background color or adding a border.

@@ -1,0 +1,1 @@
+Add a border around the image in the first section.

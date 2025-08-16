@@ -1,0 +1,1 @@
+Reorganize the top navigation bar to make the main branding, "CARD", clearly stand out, while repositioning the navigation links (Browse, Analyze, Download, About) so they are more cleanly organized and distinct. Move the copyright and help text to a less prominent area, such as the page footer.

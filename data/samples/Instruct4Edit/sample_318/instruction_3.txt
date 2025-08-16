@@ -1,0 +1,1 @@
+Increase the font size and darken the color of the text in the footer to improve readability.

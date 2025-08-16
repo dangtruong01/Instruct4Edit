@@ -1,0 +1,1 @@
+Improve the visual appearance of the pop-up windows by giving their close buttons a clearer, more modern look (like a simple 'X' icon or a button with a border), and ensure the text content inside these windows is well-spaced for better readability.

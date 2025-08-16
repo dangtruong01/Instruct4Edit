@@ -1,0 +1,1 @@
+Make the navigation menu text a bolder color, like a dark grey.

@@ -1,0 +1,1 @@
+Ensure the two main content lists are evenly spaced side-by-side, without any items hanging off the left edge, and have consistent internal padding.

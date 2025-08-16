@@ -1,0 +1,1 @@
+Change the sidebar heading font to match the main heading font.

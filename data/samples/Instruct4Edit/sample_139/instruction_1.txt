@@ -1,0 +1,1 @@
+Make the main site title, "たこ焼き生地 余り 保存", at the top left of the page much larger and change its color to a noticeable blue.

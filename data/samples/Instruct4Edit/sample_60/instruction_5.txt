@@ -1,0 +1,1 @@
+Center the main article heading, "article n°1", on the page.

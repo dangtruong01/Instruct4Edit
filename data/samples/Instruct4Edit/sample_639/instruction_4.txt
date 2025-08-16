@@ -1,0 +1,1 @@
+Add more vertical space between the introductory image area and the beginning of the main descriptive text.

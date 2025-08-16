@@ -1,0 +1,1 @@
+Add more vertical spacing and visual separation between the main content blocks, such as between the groups of video thumbnails and the large "Join Now" sections.

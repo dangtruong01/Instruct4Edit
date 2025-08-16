@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to reduce the space between the main heading and the subheading within the main content area. This implies looking at headings like "Spend the night in an accommodation", "Activities", "Contact" and "Reservations" and checking the spacing between these headings and the text content below them.
+2. Visually comparing the two images, the spacing between the main headings (e.g., "Spend the night in an accommodation") and their subheadings/content below them appears to be slightly reduced in the second image compared to the first image.
+3. There is a slight reduction, but it's subtle.
+
+Final verdict:
+✅ Fully Applied

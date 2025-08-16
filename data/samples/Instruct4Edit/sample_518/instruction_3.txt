@@ -1,0 +1,1 @@
+In the article section, make the article titles a slightly larger font size and bolder.

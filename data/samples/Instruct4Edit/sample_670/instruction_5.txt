@@ -1,0 +1,1 @@
+Apply a consistent, softer corner rounding to all elements that appear in box-like containers, such as the article itself and the sidebar widgets.

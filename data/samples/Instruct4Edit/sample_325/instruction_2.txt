@@ -1,0 +1,1 @@
+Give the 'Back to previous page' and 'Home page' links a distinct button-like appearance with a solid background and some spacing around the text.

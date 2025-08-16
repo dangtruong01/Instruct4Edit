@@ -1,0 +1,1 @@
+Enhance the readability of the footer contact and copyright information by increasing the vertical space between each line of text.

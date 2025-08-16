@@ -1,0 +1,1 @@
+Introduce a soft, subtle gradient to the blue background of the main page title banner instead of a plain solid color.

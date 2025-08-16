@@ -1,0 +1,1 @@
+Make the header's background a solid, light gray color.

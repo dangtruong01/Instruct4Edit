@@ -1,0 +1,1 @@
+The image on the page should be centered and have a slightly larger margin around it.

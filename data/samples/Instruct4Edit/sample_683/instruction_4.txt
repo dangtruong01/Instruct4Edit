@@ -1,0 +1,1 @@
+Make the titles in the sidebar, like 'Schrijf je in voor de nieuwsbrief' and 'Agenda', more prominent by increasing their font size and making them bold.

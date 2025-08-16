@@ -1,0 +1,1 @@
+Transform the "Yes" and "No" buttons in the "Was this article helpful?" section into more prominent, clickable elements with a clear button style and a subtle hover effect.

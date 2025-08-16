@@ -1,0 +1,1 @@
+Increase the size of the text for the main navigation links at the top of the page, and add more space between each item for better readability.

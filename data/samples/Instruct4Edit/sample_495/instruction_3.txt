@@ -1,0 +1,1 @@
+On mobile, make the "Cart" icon and text a single clickable area that's easier to tap.

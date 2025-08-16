@@ -1,0 +1,1 @@
+Style all visible buttons on the page, like the 'Search' button in the sidebar, to have softer rounded corners and a distinct background color.

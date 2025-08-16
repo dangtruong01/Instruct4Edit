@@ -1,0 +1,1 @@
+Center the author name and update date under the main image.

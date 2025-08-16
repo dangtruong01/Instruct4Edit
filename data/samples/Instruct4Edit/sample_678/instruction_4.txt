@@ -1,0 +1,1 @@
+Ensure the large image shown near the bottom of the page always fills its available space cleanly, without any awkward white space or cut-off parts.

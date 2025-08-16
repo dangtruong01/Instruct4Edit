@@ -1,0 +1,1 @@
+The main plant image should take up the full width of its container.

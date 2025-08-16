@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a light gray background to the "New Posts" section. This should visually separate the section from the rest of the content.
+2. Comparing the two images, it is clear that a light gray background has been added to the "New Posts" section in the second image.
+3. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

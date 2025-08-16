@@ -1,0 +1,1 @@
+Give the main white content area a subtle rounded border for a softer look.

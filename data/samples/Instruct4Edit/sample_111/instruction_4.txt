@@ -1,0 +1,1 @@
+Add a light gray background to the sections under "Definitions", "Etymologies", "Support" and "Examples" to visually separate them.

@@ -1,0 +1,1 @@
+Add a subtle visual effect to the navigation menu buttons, such as a slight background color change, when the mouse hovers over them.

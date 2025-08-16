@@ -1,0 +1,1 @@
+Update the background color of the bottom-most bar of the page, which contains the copyright notice, to a deep charcoal or nearly black color.

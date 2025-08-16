@@ -1,0 +1,1 @@
+Increase the line height of the main content text for better readability.

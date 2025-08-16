@@ -1,0 +1,1 @@
+Remove the circular loading indicator at the bottom of the article, as it doesn't seem to be loading anything.

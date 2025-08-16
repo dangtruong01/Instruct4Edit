@@ -1,0 +1,1 @@
+Make the main navigation bar fill the entire width of the screen.

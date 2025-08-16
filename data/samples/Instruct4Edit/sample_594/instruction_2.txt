@@ -1,0 +1,1 @@
+Below the main "News" heading, make the horizontal line a bit thicker so it's more visually prominent.

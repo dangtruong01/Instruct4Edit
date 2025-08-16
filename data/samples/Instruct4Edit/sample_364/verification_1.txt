@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the main title font bigger and bolder. This means the font size should increase, and the font weight should also increase (become bolder).
+2. Visually, the title "Jasa bongkar bangunan jasa bongkar atap rumah jasa renovasi rumah" in the after image appears to be both larger and bolder than in the before image.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

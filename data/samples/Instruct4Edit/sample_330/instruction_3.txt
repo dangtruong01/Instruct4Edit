@@ -1,0 +1,1 @@
+Replace the thick black borders on all data tables with a subtle, light gray border to create a softer, cleaner look.

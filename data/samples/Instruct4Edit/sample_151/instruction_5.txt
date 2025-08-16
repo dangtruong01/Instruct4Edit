@@ -1,0 +1,1 @@
+Center the text content in the very bottom section of the page (the footer).

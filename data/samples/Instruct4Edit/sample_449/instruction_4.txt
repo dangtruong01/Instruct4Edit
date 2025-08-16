@@ -1,0 +1,1 @@
+Make the "Recent Software" widget title a brighter, more eye-catching color.

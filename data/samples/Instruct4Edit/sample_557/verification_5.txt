@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the font weight of the footer text to a lighter weight. This should result in thinner looking text in the footer.
+2. Comparing the two images, the footer text in the "after" image ('About Contact Privacy Policy Disclaimer Sitemap' and '© 2020 – Aneka Budaya') appears to be using a lighter font weight than in the "before" image. The text appears thinner and less bold.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Enhance the readability of the customer comments by adding more visual space between each entry and making the reviewer's name stand out more.

@@ -1,0 +1,1 @@
+Make the extensive list of approved web addresses appear less dominant, possibly by making its text smaller or placing it inside a scrollable box.

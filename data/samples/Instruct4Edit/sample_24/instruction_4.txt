@@ -1,0 +1,1 @@
+4.  Change the color of the "Continue reading" links to a more prominent color.

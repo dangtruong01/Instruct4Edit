@@ -1,0 +1,1 @@
+Make the background of the main content area a very light gray.

@@ -1,0 +1,1 @@
+Let's make the main navigation menu at the top more prominent by increasing its font size and giving it a stronger, darker color.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to lighten the shade of grey of the horizontal lines.
+2. In the "after" image, the horizontal lines at the top and bottom are noticeably lighter than in the "before" image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

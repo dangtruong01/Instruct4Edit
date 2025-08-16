@@ -1,0 +1,1 @@
+Increase the overall empty space around the main content section where the blog posts are listed, creating more visual separation between the content and the edges of the page, especially on the sides.

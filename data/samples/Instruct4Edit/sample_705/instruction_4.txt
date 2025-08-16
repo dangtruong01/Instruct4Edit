@@ -1,0 +1,1 @@
+Increase the font size and change the color of the footer text to a lighter gray for better readability.

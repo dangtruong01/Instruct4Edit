@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the header.
+2. By comparing the two images, I cannot see any difference related to a shadow under the header.
+3. There is no visible shadow effect added to the header in the second image.
+
+Final verdict:
+❌ Not Applied

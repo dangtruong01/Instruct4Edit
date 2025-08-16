@@ -1,0 +1,1 @@
+The main heading on the page ("Board gives push to zoning change") should be a darker color so it stands out more against the white background.

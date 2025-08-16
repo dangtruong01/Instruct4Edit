@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the code examples.
+2. In the "after" image, it appears that the code examples now have a light gray border around them. This is a clear visual change.
+3. The borders are subtle as instructed.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Increase the spacing between the navigation links in both the main header and the fixed header.

@@ -1,0 +1,1 @@
+Ensure all primary action buttons, such as the "Upload" and "Download" buttons in the main content area, have rounded corners and a consistent background color.

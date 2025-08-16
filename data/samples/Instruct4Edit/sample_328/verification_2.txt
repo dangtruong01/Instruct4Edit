@@ -1,0 +1,16 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction intends for the existing text "paróquia santa rita de cássia - campo grande-ms." located at the top-left of the page to be removed. In its place, a set of navigation menu items – specifically "Home," "About Us," "Events," and "Contact" – should be displayed, forming what is described as a "navigation bar."
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible.
+    - In the "before" image, the text "paróquia santa rita de cássia - campo grande-ms." is present at the top-left.
+    - In the "after" image, this original text has been completely removed.
+    - In the same visual space, the words "home", "about us", "events", and "contact" are now displayed horizontally, consistent with a navigation menu.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No, there are no significant doubts or missing elements. The specific text to be replaced was clearly targeted by its position. The new menu items "Home," "About Us," "Events," and "Contact" (though presented in lowercase in the "after" image, which is a stylistic choice not contradicting the instruction's intent for content) are all present as instructed. The original text is entirely gone, and the new elements occupy its logical place, fulfilling the "replace" aspect.
+
+**Final verdict:**
+✅ Fully Applied

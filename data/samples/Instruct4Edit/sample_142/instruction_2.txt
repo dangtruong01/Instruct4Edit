@@ -1,0 +1,1 @@
+Make the navigation tabs, like "Home" and "Our Writers," more visually distinct and clickable. They could have a softer background color, and the text should be more prominent.

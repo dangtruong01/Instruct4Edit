@@ -1,0 +1,1 @@
+Change the background of the very top navigation bar to a single, light, solid color for a cleaner look.

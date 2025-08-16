@@ -1,0 +1,1 @@
+Add more vertical space between all paragraphs and headings within the main article content.

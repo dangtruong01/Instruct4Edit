@@ -1,0 +1,1 @@
+Add a subtle background color change or an underline animation when a user hovers their mouse over the main menu items.

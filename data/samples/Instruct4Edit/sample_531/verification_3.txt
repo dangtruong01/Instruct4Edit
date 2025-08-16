@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add rounded corners to each deal card in the special offers section.
+2. Looking at the images, I can see that the "deal cards" are the gray boxes containing "50% OFF" and "View deal" button. I cannot see any rounded corners in either the before or after image.
+3. There are no visible differences in the corner shapes of the "deal cards" between the two images.
+
+Final verdict:
+❌ Not Applied

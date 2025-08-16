@@ -1,0 +1,1 @@
+Make the main heading stand out more by increasing its font size and making it bolder.

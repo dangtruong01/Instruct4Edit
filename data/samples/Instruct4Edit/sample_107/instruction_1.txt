@@ -1,0 +1,1 @@
+Make the navigation links a bit smaller and closer together so they don't wrap to multiple lines on smaller screens.

@@ -1,0 +1,1 @@
+Adjust the logo size in the mobile header so that it is more proportionate to the menu toggle button.

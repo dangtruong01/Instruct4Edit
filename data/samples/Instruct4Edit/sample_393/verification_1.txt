@@ -1,0 +1,7 @@
+**Step-by-step justification:**
+1. The instruction asks to add a subtle shadow to the main title. However, the images do not show the title, which makes it impossible to evaluate if the change was applied.
+2. Since the title is not visible in the screenshots, it's impossible to verify if the shadow was added.
+3. The title is missing from both images, making it impossible to compare and confirm the change.
+
+**Final verdict:**
+❌ Not Applied

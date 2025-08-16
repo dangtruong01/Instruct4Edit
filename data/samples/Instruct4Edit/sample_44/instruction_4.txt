@@ -1,0 +1,1 @@
+Reduce the amount of space between the post title and the post meta information.

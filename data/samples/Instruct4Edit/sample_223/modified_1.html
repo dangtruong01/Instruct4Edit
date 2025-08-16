@@ -1,0 +1,134 @@
+To expand the main content area slightly and give it more breathing room from the edges of the page, we will adjust the `width` of the outermost `<table>` element and center it. This will create empty space around the main content container (`.bodyline`).
+
+Specifically, the `width="100%"` attribute of the first `<table>` tag will be changed to `width="95%"` and `align="center"` will be added.
+
+```html
+<!DOCTYPE html>
+
+<html><head><title>mobilecity.cz :: Prohlíží nastavení</title></head><body><a></a><table width="95%" align="center"><tr><td class="bodyline"><table width="100%"><tr><td><a><img src="templates/subSilver/images/logo_phpBB.gif"/></a></td><td width="100%"><span class="maintitle">mobilecity.cz</span><br/><span class="gen"><br/>  </span><table><tr><td><span class="mainmenu"> <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_faq.gif" width="12"/>FAQ</a>   <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_search.gif" width="12"/>Hledat</a>   <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_members.gif" width="12"/>Seznam uživatelů</a>   <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_groups.gif" width="12"/>Uživatelské skupiny</a> 
+						 <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_register.gif" width="12"/>Registrace</a> 
+						</span></td></tr><tr><td height="25"><span class="mainmenu"> <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_profile.gif" width="12"/>Profil</a>   <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_message.gif" width="12"/>Soukromé zprávy</a>   <a class="mainmenu"><img height="13" src="templates/subSilver/images/icon_mini_login.gif" width="12"/>Přihlášení</a> </span></td></tr></table></td></tr></table><br/><table width="100%"><tr><td><span class="nav"><a class="nav">Obsah fóra mobilecity.cz</a></span></td></tr></table><table class="forumline" width="100%"><tr><th class="thHead" height="25">Informace o uživateli: jan232</th></tr><tr><td class="catLeft" height="28" width="40%"><b><span class="gen">Obrázek postavičky</span></b></td><td class="catRight" width="60%"><b><span class="gen">Vše o uživateli jan232</span></b></td></tr><tr><td class="row1" height="6"><br/><span class="postdetails"></span></td><td class="row1"><table width="100%"><tr><td><span class="gen">Založen: </span></td><td width="100%"><b><span class="gen">7.3.2005</span></b></td></tr><tr><td><span class="gen">Příspěvků: </span></td><td><b><span class="gen">1</span></b><br/><span class="genmed">[0.05% ze všech příspěvků / 0.00 příspěvků za den]</span> <br/><span class="genmed"><a class="genmed">Hledat všechny příspěvky od uživatele jan232</a></span></td></tr><tr><td><span class="gen">Bydliště: </span></td><td><b><span class="gen"> </span></b></td></tr><tr><td><span class="gen">WWW: </span></td><td><span class="gen"><b> </b></span></td></tr><tr><td><span class="gen">Povolání: </span></td><td><b><span class="gen"> </span></b></td></tr><tr><td><span class="gen">Zájmy:</span></td><td> <b><span class="gen"> </span></b></td></tr></table></td></tr><tr><td class="catLeft" height="28"><b><span class="gen">Kontakt jan232 </span></b></td></tr><tr><td class="row1"><table width="100%"><tr><td><span class="gen">E-mailová adresa:</span></td><td class="row1" width="100%"><b><span class="gen"> </span></b></td></tr><tr><td><span class="gen">Soukromá zpráva:</span></td><td class="row1"><b><span class="gen"><a><img src="templates/subSilver/images/lang_english/icon_pm.gif"/></a></span></b></td></tr><tr><td><span class="gen">MSN Messenger:</span></td><td class="row1"><span class="gen"> </span></td></tr><tr><td><span class="gen">Yahoo Messenger:</span></td><td class="row1"><span class="gen"></span></td></tr><tr><td><span class="gen">AOL Instant Messenger:</span></td><td class="row1"><span class="gen"> </span></td></tr><tr><td><span class="gen">ICQ:</span></td><td class="row1"><noscript> </noscript></td></tr></table></td></tr></table><table width="100%"><tr><td><span class="nav"><br/><form><table><tr><td><span class="gensmall">Přejdi na: <select><option>Zvolte fórum</option><option> </option><option>Java hry a java aplikace</option><option>----------------</option><option>Oskárek</option><option>Manic Miner - Miner Willy</option><option>Flappy alias Tlappy</option><option>Další java hry</option><option>Jízdní řády autobusů</option><option>Cokoli :-)</option><option>Spam</option><option> </option><option>Odesílání log, melodií, obrázků, ...</option><option>----------------</option><option>Diskuse</option></select><input/> <input class="liteoption"/></span></td></tr></table></form></span></td></tr></table><div><span class="copyright"><br/><br/>
+
+Powered by <a class="copyright">phpBB</a> © 2001, 2005 phpBB Group<br/>Český překlad <a>phpBB Czech - www.phpbbcz.com</a></span></div></td></tr></table><style>body {
+    background-color: #E5E5E5;
+    scrollbar-face-color: #DEE3E7;
+    scrollbar-highlight-color: #FFF;
+    scrollbar-shadow-color: #DEE3E7;
+    scrollbar-3dlight-color: #D1D7DC;
+    scrollbar-arrow-color: #069;
+    scrollbar-track-color: #EFEFEF;
+    scrollbar-darkshadow-color: #98AAB1
+    }
+font, th, td, p {
+    font-family: Verdana, Arial, Helvetica, sans-serif
+    }
+.bodyline {
+    background-color: #FFF;
+    border: 1px #98AAB1 solid
+    }
+.forumline {
+    background-color: #FFF;
+    border: 2px #069 solid
+    }
+td.row1 {
+    background-color: #EFEFEF
+    }
+th {
+    color: #FFA34F;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: #069;
+    height: 25px
+    }
+td.cat, td.catHead, td.catSides, td.catLeft, td.catRight, td.catBottom {
+    background-color: #D1D7DC;
+    border: #FFF;
+    border-style: solid;
+    height: 28px
+    }
+th.thHead, th.thSides, th.thTop, th.thLeft, th.thRight, th.thBottom, th.thCornerL, th.thCornerR {
+    font-weight: bold;
+    border: #FFF;
+    border-style: solid;
+    height: 28px
+    }
+th.thHead, td.catHead {
+    font-size: 12px;
+    border-width: 1px 1px 0 1px
+    }
+th.thRight, td.catRight, td.row3Right {
+    border-width: 0 1px 0 0
+    }
+th.thLeft, td.catLeft {
+    border-width: 0 0 0 1px
+    }
+.maintitle {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 120%;
+    color: #000
+    }
+.gen {
+    font-size: 12px
+    }
+.genmed {
+    font-size: 11px
+    }
+.gensmall {
+    font-size: 10px
+    }
+.gen, .genmed, .gensmall {
+    color: #000
+    }
+a.gen, a.genmed, a.gensmall {
+    color: #069;
+    text-decoration: none
+    }
+.mainmenu {
+    font-size: 11px;
+    color: #000
+    }
+a.mainmenu {
+    text-decoration: none;
+    color: #069
+    }
+.nav {
+    font-weight: bold;
+    font-size: 11px;
+    color: #000
+    }
+a.nav {
+    text-decoration: none;
+    color: #069
+    }
+.postdetails {
+    font-size: 10px;
+    color: #000
+    }
+.copyright {
+    font-size: 10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #444;
+    letter-spacing: -1px
+    }
+a.copyright {
+    color: #444;
+    text-decoration: none
+    }
+input, textarea, select {
+    color: #000;
+    font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+    border-color: #000
+    }
+input.post, textarea.post, select {
+    background-color: #FFF
+    }
+input {
+    text-indent: 2px
+    }
+input.liteoption {
+    background-color: #FAFAFA;
+    font-weight: normal
+    }</style></body></html>

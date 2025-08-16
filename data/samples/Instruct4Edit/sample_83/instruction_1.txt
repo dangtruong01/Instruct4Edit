@@ -1,0 +1,1 @@
+Adjust the background of the main menu that slides in from the right so it has a slight transparency, allowing the content behind to subtly show through.

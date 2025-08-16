@@ -1,0 +1,1 @@
+Add a subtle background color to all the smaller section headings within the main content area.

@@ -1,0 +1,1 @@
+Make the footer widgets' heading text (Producten, Hulp, Contact, Over) a brighter shade of gray.

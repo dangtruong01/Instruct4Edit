@@ -1,0 +1,1 @@
+Make the comment form text fields and text area slightly wider.

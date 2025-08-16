@@ -1,0 +1,1 @@
+Add a subtle background color to the sidebar to help it stand out from the main content.

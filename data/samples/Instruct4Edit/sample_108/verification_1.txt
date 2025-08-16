@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to darken the banner's background color at the top of the page to improve text contrast.
+2. Comparing the two images, the "after" image clearly shows a darker background color for the banner at the top compared to the original image. The text in the banner now has better contrast.
+3. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

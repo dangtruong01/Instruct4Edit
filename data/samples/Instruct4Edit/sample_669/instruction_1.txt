@@ -1,0 +1,1 @@
+Make the large "Gifmix" title in the main header area smaller and position it towards the top left instead of being a dominant central element.

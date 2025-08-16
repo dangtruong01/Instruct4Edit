@@ -1,0 +1,1 @@
+Update the main navigation bar to use a lighter background color, and add more space between the individual menu items.

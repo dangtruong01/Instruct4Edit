@@ -1,0 +1,1 @@
+Give the very top bar, which contains the website logo and primary navigation links, a subtle background color and increase its overall height slightly to make it feel more substantial.

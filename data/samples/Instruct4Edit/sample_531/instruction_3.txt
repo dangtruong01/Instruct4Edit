@@ -1,0 +1,1 @@
+On the special offers section, give each deal card a slightly rounded corner to soften the edges.

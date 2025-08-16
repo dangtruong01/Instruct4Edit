@@ -1,0 +1,1 @@
+Change the color of the thin bar just below the header to match the vibrant orange used for the 'Request Game Answers' link, creating a consistent visual theme.

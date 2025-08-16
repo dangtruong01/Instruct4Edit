@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction specifies that the selected tab should be more visually prominent due to a color change.
+2. Looking at the two images, there's no visual difference between the tabs in the "before" and "after" images. The tabs appear identical in terms of color and highlighting.
+3. There's no color change or any visual modification to indicate which tab is currently selected.
+
+Final verdict:
+❌ Not Applied

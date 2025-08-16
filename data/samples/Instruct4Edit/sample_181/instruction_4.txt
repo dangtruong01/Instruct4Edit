@@ -1,0 +1,1 @@
+4.  Make the table headers in the CPI data section a slightly darker shade.

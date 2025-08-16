@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the main title's background color to match the header's blue and change the text color to white.
+2. Comparing the images, the main title "مواصفات الورقة الإمتحانية لمادة الإحصاء والإقتصاد للصف الثاني الثانوي الترم الأول" now has a blue background that appears to match the header and the text color has been changed to white.
+3. There are no ambiguities.
+
+Final verdict:
+✅ Fully Applied

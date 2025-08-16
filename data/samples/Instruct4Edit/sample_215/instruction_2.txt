@@ -1,0 +1,1 @@
+Update the "Schuh’s Annotated Bio-Bibliography" title font to a more professional, non-script typeface, and make the "Return to main Biobliography page" link look like a more prominent, distinct button.

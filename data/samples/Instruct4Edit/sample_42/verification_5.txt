@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the size of the social media icons.
+2. The images do not contain any social media icons.
+3. There is no change because the objects aren't present in the image.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Make the share icon visible next to the comments count at the bottom of the content box.

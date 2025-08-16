@@ -1,0 +1,1 @@
+Center the social media sharing buttons in the footer.

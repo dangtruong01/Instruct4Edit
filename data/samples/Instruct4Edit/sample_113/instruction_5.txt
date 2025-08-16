@@ -1,0 +1,1 @@
+Make the footer menu links more visually prominent, perhaps by increasing their size or changing their color.

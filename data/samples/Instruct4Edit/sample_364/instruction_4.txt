@@ -1,0 +1,1 @@
+Give the footer a darker background color and lighten the text.

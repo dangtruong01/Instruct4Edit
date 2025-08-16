@@ -1,0 +1,1 @@
+Make the main site title at the top left of the page clearly visible and larger, perhaps in a striking color that complements the logo.

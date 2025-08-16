@@ -1,0 +1,1 @@
+Make the search input field in the header visually distinct by giving it a light background and a subtle border.

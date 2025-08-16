@@ -1,0 +1,1 @@
+Make the footer background a slightly darker shade of grey.

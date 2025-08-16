@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests a light gray background for the main title.
+2. Comparing the two images, there is no visible difference in the background color of the main title. The background remains white.
+3. There are no ambiguities, but the instruction was not implemented.
+
+Final verdict:
+❌ Not Applied

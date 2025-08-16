@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the size of social media icons in the footer and add more space between them.
+2. Neither the before nor the after image shows social media icons in the footer, or anywhere else for that matter.
+3. There are no social media icons present in either image.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Consolidate the two sets of duplicate category navigation links into a single, clearly identifiable list.

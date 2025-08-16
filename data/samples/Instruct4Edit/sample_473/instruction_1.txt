@@ -1,0 +1,1 @@
+Make the light yellow highlighted text in the header a brighter, more noticeable yellow.

@@ -1,0 +1,1 @@
+Make the main navigation links in the menu bar bold and slightly larger.

@@ -1,0 +1,1 @@
+Add some padding around the edges of the main content area to prevent it from touching the sides of the screen.

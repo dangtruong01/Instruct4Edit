@@ -1,0 +1,1 @@
+Increase the font size of the main heading "Запчасть 555 SE1551" to be significantly larger.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a light gray background color to the toggles containing questions and answers to separate them from the white background.
+2. By comparing the two images, it's clear that the area around the toggles has been given a light gray background color in the "after" image, making them visually distinct from the surrounding white background.
+3. There are no ambiguities or missing elements; the instruction has been implemented as described.
+
+Final verdict:
+✅ Fully Applied

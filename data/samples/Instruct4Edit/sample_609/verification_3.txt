@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size of the menu items in the bottom navigation. The bottom navigation in this case appears to be the "Salesalato - Apologetica a fumetti" text at the bottom of the page.
+2. Visually comparing the two images, there does not appear to be any noticeable difference in the font size of the bottom navigation menu items (Salesalato - Apologetica a fumetti) between the original and the modified images.
+3. There is no visible difference in font size.
+
+Final verdict:
+❌ Not Applied

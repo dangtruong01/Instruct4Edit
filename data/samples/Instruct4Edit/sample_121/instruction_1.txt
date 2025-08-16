@@ -1,0 +1,1 @@
+Relocate the "View My Cart" text and its accompanying image to a consistent, prominent position in the upper right corner of the page, ensuring they are clearly aligned and easy to interact with.

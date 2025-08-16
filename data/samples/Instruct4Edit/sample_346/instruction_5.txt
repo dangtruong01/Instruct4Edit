@@ -1,0 +1,1 @@
+Add some padding to the top and bottom of the footer section.

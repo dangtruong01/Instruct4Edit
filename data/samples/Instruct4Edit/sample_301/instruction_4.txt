@@ -1,0 +1,1 @@
+Change the color of the "Cargar más productos" button to a different shade of green.

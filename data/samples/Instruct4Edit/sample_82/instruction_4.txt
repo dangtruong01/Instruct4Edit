@@ -1,0 +1,1 @@
+Transform the "Verificar" text in the "Para obter mais informações" section into a clear, clickable button with a distinct background color and slightly rounded corners.

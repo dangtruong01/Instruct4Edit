@@ -1,0 +1,1 @@
+Make the image at the very top of the page centered horizontally.

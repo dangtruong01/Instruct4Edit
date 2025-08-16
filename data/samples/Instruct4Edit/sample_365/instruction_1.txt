@@ -1,0 +1,1 @@
+Make the logo in the main navigation smaller, so it fits better with the other elements.

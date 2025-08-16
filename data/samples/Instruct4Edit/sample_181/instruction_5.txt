@@ -1,0 +1,1 @@
+5.  Decrease the font size of the copyright notice in the footer.

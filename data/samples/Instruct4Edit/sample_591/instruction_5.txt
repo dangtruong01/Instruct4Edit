@@ -1,0 +1,1 @@
+In the "More Infos" section, increase the spacing between the "Schauspieler und Rollen" list items.

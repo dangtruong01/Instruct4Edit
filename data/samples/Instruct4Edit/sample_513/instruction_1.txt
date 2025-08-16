@@ -1,0 +1,1 @@
+Give the "Jump to..." select dropdown a more modern look, perhaps with a custom arrow and cleaner font.

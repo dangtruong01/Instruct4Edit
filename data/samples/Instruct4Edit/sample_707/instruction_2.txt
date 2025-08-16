@@ -1,0 +1,1 @@
+Increase the font size and boldness of the main thread title, "Notice to Ubuntu 20.04 users."

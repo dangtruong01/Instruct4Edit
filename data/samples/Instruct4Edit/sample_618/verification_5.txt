@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to alter the background color of the "Next" button.
+2. The "Next to Signer Selector" button has its background color changed from dark grey to a slightly different shade of grey, which indicates the change was implemented.
+3. There are no ambiguities or missing elements, as the change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

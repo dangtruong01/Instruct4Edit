@@ -1,0 +1,1 @@
+Reduce the overall width of the page content so it appears less stretched.

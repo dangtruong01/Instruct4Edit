@@ -1,0 +1,1 @@
+Change the highlighted background color for the active item in the main menu to a more subtle indicator, like a thicker underline or a softer shade.

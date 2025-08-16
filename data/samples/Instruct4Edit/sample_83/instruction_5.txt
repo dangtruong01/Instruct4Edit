@@ -1,0 +1,1 @@
+Increase the default visibility of the navigation arrows positioned on the left and right sides of the page.

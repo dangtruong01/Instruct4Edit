@@ -1,0 +1,1 @@
+In the navigation bar, make the "Download App", "About", "Search", and "Signup" links more visually distinct, perhaps by giving them a subtle background color or a border when hovered.

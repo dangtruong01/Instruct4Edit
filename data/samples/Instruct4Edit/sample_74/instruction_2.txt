@@ -1,0 +1,1 @@
+Make the main navigation links a bit bolder to improve readability.

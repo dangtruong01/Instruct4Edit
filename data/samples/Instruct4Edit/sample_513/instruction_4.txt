@@ -1,0 +1,1 @@
+Make the mini-calendar stand out more by giving it a subtle border and a slightly different background color.

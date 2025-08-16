@@ -1,0 +1,1 @@
+Add a subtle visual separator between each of the follower entries, maybe a light grey line.

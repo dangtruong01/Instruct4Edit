@@ -1,0 +1,1 @@
+Increase the spacing between the article heading "Qué signo es el 30 de abril" and the breadcrumbs above it.

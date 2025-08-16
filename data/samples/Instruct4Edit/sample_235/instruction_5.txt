@@ -1,0 +1,1 @@
+Make the overall page content area slightly narrower, giving more blank space on the left and right sides of the main text.

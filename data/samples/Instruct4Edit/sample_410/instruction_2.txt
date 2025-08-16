@@ -1,0 +1,1 @@
+Make the author's avatar larger and move it to be directly above the author's name.

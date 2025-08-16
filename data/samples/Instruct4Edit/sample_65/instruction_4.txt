@@ -1,0 +1,1 @@
+The sidebar with the list of predictions should have a consistent width, and visually separate it more clearly from the main content.

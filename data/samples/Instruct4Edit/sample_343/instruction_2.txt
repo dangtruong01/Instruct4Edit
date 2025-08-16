@@ -1,0 +1,1 @@
+The main menu items located just below the top banner currently appear as empty boxes. Please populate these with clear, descriptive text and style them to look like distinct, clickable buttons or navigation links.

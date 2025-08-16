@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the "Useful Words" section visually stand out more. This could be achieved through a background color or a more prominent heading style.
+2. Comparing the two images, the "Useful Words" section appears to be visually identical in both images. There's no background color added and no changes to the heading style.
+3. There's no visible change in the after image.
+
+Final verdict:
+❌ Not Applied

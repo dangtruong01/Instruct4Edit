@@ -1,0 +1,1 @@
+Organize the large block of links in the footer into distinct columns to make them easier to read and less overwhelming.

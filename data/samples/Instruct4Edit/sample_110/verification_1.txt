@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the site name in the header bigger and bolder. The site name is "MultiWingSpan".
+2. Comparing the two images, "MultiWingSpan" at the top of the page does not appear bigger or bolder in the second (modified) image.
+3. There is no visible change in the font size or weight of the site name.
+
+Final verdict:
+❌ Not Applied

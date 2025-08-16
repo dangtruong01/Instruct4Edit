@@ -1,0 +1,1 @@
+Show the image on the right side of the main content section.

@@ -1,0 +1,1 @@
+Move the "SIGN UP" and "LOGIN" buttons closer together and position them further to the right within the header.

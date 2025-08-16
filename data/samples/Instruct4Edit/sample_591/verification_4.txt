@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the "Genre" data chip's text color to white and the background color to the same blue as the "Kino" data chip.
+2. The after image shows the "Genre" data chip with a blue background, matching the "Kino" data chip's color. The text color is also white.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

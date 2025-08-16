@@ -1,0 +1,1 @@
+Add descriptive text labels to the tab controls in the sidebar (currently just blank buttons) so users understand what each tab represents.

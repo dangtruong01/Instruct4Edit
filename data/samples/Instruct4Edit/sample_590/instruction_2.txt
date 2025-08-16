@@ -1,0 +1,1 @@
+Increase the font size and weight of the titles in the "Recomendados" section in the sidebar, making them bolder.

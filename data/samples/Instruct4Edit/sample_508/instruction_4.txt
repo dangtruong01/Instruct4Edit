@@ -1,0 +1,1 @@
+Give the "Log in" section a lighter background color to help it stand out from the rest of the page.

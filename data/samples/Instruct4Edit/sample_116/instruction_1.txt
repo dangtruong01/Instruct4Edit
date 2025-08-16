@@ -1,0 +1,1 @@
+Add more visual space around the different sections and elements on the page, especially between the main title, the navigation links, and the topic content.

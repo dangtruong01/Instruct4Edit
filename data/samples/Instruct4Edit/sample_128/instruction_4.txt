@@ -1,0 +1,1 @@
+Soften the appearance of the boxes in the sidebar by removing the strong outlines and adding more internal padding around the text and images.

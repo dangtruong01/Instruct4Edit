@@ -1,0 +1,1 @@
+Make the main title of the website more prominent by giving it a bolder appearance and a slightly larger size.

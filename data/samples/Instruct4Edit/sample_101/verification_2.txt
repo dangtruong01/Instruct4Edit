@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main navigation menu items visually distinct, possibly with background highlights on hover. Since the images are static, we can only check for static highlights, not hover effects.
+2. Comparing the two images, there are no visible background highlights or any other visual changes to the main navigation menu items (新闻 etc.) in the "after" image.
+3. There are no visual changes applied to the menu items.
+
+Final verdict:
+❌ Not Applied

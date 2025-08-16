@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the labels in the sidebar bolder. This means increasing the font weight of text elements in the sidebar on the right-hand side of the image.
+2. Comparing the two images, the labels in the sidebar ("FOLLOW ME", "POPULAR POSTS", "PINTEREST", "LABELS", and the list of labels under "LABELS") appear to have a bolder font weight in the second image.
+3. There are no doubts or missing elements.
+
+Final verdict:
+✅ Fully Applied

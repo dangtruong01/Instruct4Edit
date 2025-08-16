@@ -1,0 +1,1 @@
+Make the titles below each video thumbnail a bit larger and more prominent to improve readability.

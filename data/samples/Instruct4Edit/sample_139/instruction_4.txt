@@ -1,0 +1,1 @@
+Display the long list of related links towards the bottom of the page in a multi-column layout instead of a single vertical stack.

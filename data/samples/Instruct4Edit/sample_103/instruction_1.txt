@@ -1,0 +1,1 @@
+In the header, make the navigation links (Submit Ticket, Login, Listings, Homepage) appear more visually distinct, perhaps by adding a subtle background color or a dividing line between them.

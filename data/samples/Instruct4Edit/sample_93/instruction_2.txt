@@ -1,0 +1,1 @@
+Make the primary navigation links visible directly in the header, rather than requiring a "Menu" button to reveal them.

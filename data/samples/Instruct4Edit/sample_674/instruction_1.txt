@@ -1,0 +1,1 @@
+Make sure the text "Stacy Nixon" and "Contemporary Fine Art" along with the "Enter" button are vertically centered with the large image beside them.

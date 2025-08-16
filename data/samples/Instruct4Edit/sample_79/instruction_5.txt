@@ -1,0 +1,1 @@
+Darken the background color of the very bottom bar in the footer so the text stands out more clearly.

@@ -1,0 +1,1 @@
+Change the sidebar link colors to a shade of red that complements the images.

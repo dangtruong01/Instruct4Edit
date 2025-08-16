@@ -1,0 +1,1 @@
+Increase the font size of the footer text, and improve the spacing between the columns in the footer.

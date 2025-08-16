@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the style of share buttons, if any exist, to reflect the brand colors of the respective social media platform.
+2. In the before image, there are no share buttons visible. In the after image, there are still no share buttons visible. Therefore, the instruction cannot be verified.
+3. Since there are no share buttons, it cannot be determined if the change was implemented correctly.
+
+Final verdict:
+❌ Not Applied

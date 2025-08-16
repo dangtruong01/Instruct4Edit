@@ -1,0 +1,1 @@
+Make the recent posts widget stand out more with a different background color or a subtle border.

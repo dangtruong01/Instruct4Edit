@@ -1,0 +1,1 @@
+Redesign the very top section where "MagicEngine" is displayed and the main navigation links are listed, giving it a more prominent, distinct header appearance across the full width of the page.

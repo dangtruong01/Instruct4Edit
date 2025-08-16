@@ -1,0 +1,1 @@
+Make the "Subscribe" button in the header more prominent by increasing its size and changing its background color to a brighter shade of red.

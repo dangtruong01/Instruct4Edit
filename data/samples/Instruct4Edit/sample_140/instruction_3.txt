@@ -1,0 +1,1 @@
+Make the list of questions in the "About Us" description more noticeable by making their text bolder or a slightly different shade.

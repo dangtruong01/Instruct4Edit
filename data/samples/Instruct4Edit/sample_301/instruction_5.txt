@@ -1,0 +1,1 @@
+Make the related articles list use a numbered style instead of bullet points.

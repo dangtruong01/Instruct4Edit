@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size and line height within the main article body. This implies a more legible and comfortable reading experience.
+2. Comparing the two images, the second image shows an increased font size and line height in the paragraphs under "Дипломная работа в МЮИ" and the surrounding content. This makes the text appear larger and more spaced out vertically.
+3. There are no immediately obvious ambiguities or missing elements. The change seems to be applied consistently across the targeted text area.
+
+Final verdict:
+✅ Fully Applied

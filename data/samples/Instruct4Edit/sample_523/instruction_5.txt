@@ -1,0 +1,1 @@
+Add a subtle shadow to the header area to give it a slight lift from the page content.

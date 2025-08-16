@@ -1,0 +1,1 @@
+When a user hovers over an item in the main menu bar at the top, change the background behind the text slightly to give a clear visual cue.

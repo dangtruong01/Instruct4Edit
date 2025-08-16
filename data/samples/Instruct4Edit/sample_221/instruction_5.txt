@@ -1,0 +1,1 @@
+Apply rounded corners to the "Read also" recommendation box within the article content.

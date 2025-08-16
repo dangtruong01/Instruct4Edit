@@ -1,0 +1,1 @@
+Add a subtle shadow effect to each of the article thumbnail boxes to make them stand out more.

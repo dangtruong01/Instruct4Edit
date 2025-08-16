@@ -1,0 +1,1 @@
+Align the large rotating image at the top of the page so it perfectly matches the width and horizontal position of the main navigation menu below it.

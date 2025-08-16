@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main menu items uppercase. The main menu is at the top of the page.
+2. Comparing the two images, the main menu items at the top "Reclutamos.com" have not been changed to uppercase.
+3. The main menu items are still in lowercase in the second image.
+
+Final verdict:
+❌ Not Applied

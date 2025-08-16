@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the background color of the Twitter feed widget to white and soften the border color.
+2. Comparing the two images, the Twitter feed widget's background color appears to be the same dark color in both images. Also, there doesn't seem to be a change in the border color.
+3. The changes described in the instruction are not visible in the modified image.
+
+Final verdict:
+❌ Not Applied

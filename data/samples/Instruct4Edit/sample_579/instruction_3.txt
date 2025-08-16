@@ -1,0 +1,1 @@
+Increase the spacing between the left navigation items to improve readability and visual appeal.

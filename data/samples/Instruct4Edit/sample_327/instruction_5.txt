@@ -1,0 +1,1 @@
+Apply a very subtle light gray background color to the entire sidebar area to visually differentiate it from the main content.

@@ -1,0 +1,1 @@
+Add more visual space around the individual links throughout the page, especially within the 'Other Pages' section, to make them easier to distinguish and click.

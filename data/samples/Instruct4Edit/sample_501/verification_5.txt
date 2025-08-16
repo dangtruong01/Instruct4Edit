@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the social media icons in the footer appear in color instead of plain text.
+2. Comparing the two images, the social media icons in the footer (Facebook, Google, Twitter, Yelp, Instagram) are plain text in both images. There is no visual change in the icons.
+3. There is no visible change, so the instruction was not implemented.
+
+Final verdict:
+❌ Not Applied

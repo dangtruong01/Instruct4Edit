@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a border around the sidebar widgets. In this case, the "Ostatnie wpisy" (Recent Posts) section is a sidebar widget.
+2. Comparing the after image with the before image, there is a clear border surrounding the "Ostatnie wpisy" widget.
+3. There are no ambiguities or missing elements; the border is clearly visible.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Make the company name at the very top of the page visually integrate with the logo and search bar, creating a unified top header.

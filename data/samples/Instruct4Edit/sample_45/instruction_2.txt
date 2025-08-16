@@ -1,0 +1,1 @@
+Increase the space between the gallery images.

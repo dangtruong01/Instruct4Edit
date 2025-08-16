@@ -1,0 +1,1 @@
+Populate the empty space on the right side of the main content with a dedicated section, such as a list of popular articles or a newsletter sign-up.

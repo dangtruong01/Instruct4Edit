@@ -1,0 +1,1 @@
+In the footer section, increase the vertical spacing between the different content blocks (like the alumni description, contact details, and newsletter form) to improve readability. Additionally, make the contact information, such as the phone number and email address, slightly larger.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a small icon next to each external link. This implies that links should be visually differentiated by the addition of an icon.
+2. In the "after" image, small icons have been added next to each of the links, which are clearly visible.
+3. The icons are present and appear to be next to the external links as instructed. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the main article title.
+2. Comparing the two images, there is no visual difference in the title. No shadow effect can be observed.
+3. The title font, weight, and color are the same in both images.
+
+Final verdict:
+❌ Not Applied

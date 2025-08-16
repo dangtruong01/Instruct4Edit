@@ -1,0 +1,1 @@
+Make the "World Ranking" section stand out more by adding a subtle background color.

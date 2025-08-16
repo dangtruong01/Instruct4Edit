@@ -1,0 +1,1 @@
+Make the author's name and date appear on a single line, aligned to the right.

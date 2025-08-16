@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow behind the main article to visually separate it from the background.
+2. Comparing the before and after images, it is difficult to see any shadow effect. It could be very faint, but not confidently visible.
+3. The instruction is ambiguous about where exactly "the main article" is and the shadow might be too faint to be noticeable.
+
+Final verdict:
+❌ Not Applied

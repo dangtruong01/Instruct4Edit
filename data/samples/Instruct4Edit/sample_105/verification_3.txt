@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to apply rounded corners to the advertising banner. The advertising banner is the image in the center.
+2. Comparing the two images, there's no visible difference in the corners of the central image. They remain sharp, as they were in the original image.
+3. There are no rounded corners in the modified image.
+
+Final verdict:
+❌ Not Applied

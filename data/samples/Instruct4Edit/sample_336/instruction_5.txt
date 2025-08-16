@@ -1,0 +1,1 @@
+Improve the overall visual presentation of the footer by simplifying its layout, ensuring all text elements are clearly readable against the dark background, and removing the small email graphic, which feels out of place.

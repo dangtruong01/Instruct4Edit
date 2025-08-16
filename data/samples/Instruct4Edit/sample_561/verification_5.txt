@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the color of the footer copyright text to a lighter shade of grey. This means visually the text should appear less dark in the after image.
+2. Looking at the after image, the footer copyright text appears visually lighter than in the before image.
+3. There are no ambiguities or missing elements; the change is visible and clear.
+
+Final verdict:
+✅ Fully Applied

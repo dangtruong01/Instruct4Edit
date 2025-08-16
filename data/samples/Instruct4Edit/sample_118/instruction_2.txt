@@ -1,0 +1,1 @@
+Increase the font size of the main heading of the news article to make it significantly larger.

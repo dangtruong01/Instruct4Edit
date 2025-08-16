@@ -1,0 +1,1 @@
+Change the color of the links in the sidebar to be the same as the color of the navigation bar.

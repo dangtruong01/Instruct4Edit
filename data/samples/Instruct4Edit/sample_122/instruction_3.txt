@@ -1,0 +1,1 @@
+Change the active tab in the top banner so its background color is a light, contrasting shade, making it clear which section is currently selected.

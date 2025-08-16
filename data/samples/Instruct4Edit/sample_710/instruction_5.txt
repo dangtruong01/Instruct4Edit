@@ -1,0 +1,1 @@
+Make the author information in the post stand out more, perhaps by adding a border around the avatar and author details.

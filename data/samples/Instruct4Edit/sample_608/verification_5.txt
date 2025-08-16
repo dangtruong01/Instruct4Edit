@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the newsletter signup input field and button full width on the footer. This means the input field and the submit button labeled "SUBSCRIBE" in the footer area should now stretch to occupy the full width available within their container.
+2. In the "after" image, the input field and the "Subscribe" button are now full width, whereas in the "before" image, they were shorter than the container's full width.
+3. There are no ambiguities or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

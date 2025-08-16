@@ -1,0 +1,1 @@
+Widen the entire "Ja takk, jeg ønsker mer informasjon" section on the page so it takes up more horizontal space, and change its background to a lighter color.

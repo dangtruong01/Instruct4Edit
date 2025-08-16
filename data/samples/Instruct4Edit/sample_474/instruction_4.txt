@@ -1,0 +1,1 @@
+Increase the font size and weight of the timestamp and reading time information displayed in the article header.

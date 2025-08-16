@@ -1,0 +1,1 @@
+Adjust the color scheme of the footer to be brighter, making the text easier to read against the background.

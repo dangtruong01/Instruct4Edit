@@ -1,0 +1,1 @@
+Reduce the size of the sidebar on smaller screens, making it narrower or hiding it completely.

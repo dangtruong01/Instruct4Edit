@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow effect to the main header. The main header is assumed to be the very top part of the page, containing "JOKY PARK", "CENTRO INVERNALE", "PROMO & NEWS" and "CONTATTI".
+2. Comparing the before and after images, it is not possible to observe any shadow effect added to the header.
+3. There is no visible change to the header.
+
+Final verdict:
+❌ Not Applied

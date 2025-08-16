@@ -1,0 +1,1 @@
+3.  Give the search bar a slightly darker border.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main navigation bar stick to the top of the screen when scrolling. This means the navigation bar should remain visible at the top of the viewport even when the user scrolls down the page.
+2. Since these are static images, it's impossible to verify if the navigation bar sticks to the top when scrolling. The images show the website at a single point in time, not the behavior during scrolling.
+3. There is no visual indication if the navigation bar sticks when scrolling.
+
+Final verdict:
+❌ Not Applied

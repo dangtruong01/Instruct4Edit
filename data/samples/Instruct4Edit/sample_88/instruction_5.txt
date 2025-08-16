@@ -1,0 +1,1 @@
+Increase the size of the general paragraph text and add more space between the lines to improve readability.

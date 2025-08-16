@@ -1,0 +1,1 @@
+Increase the spacing between the recommended product items so they don't look so crowded.

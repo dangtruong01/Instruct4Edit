@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a subtle horizontal line to be added between each item in the "Exchange News" sidebar list.
+2. Comparing the "before" and "after" images, there are no visible horizontal lines separating the items in the "Exchange News" list in the "after" image.
+3. There are no visual separators as requested.
+
+Final verdict:
+❌ Not Applied

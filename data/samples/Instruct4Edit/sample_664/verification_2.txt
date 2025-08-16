@@ -1,0 +1,17 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction requires two visual changes to the main heading:
+    *   Increase its font size.
+    *   Make it bolder.
+    The overall goal is to draw more attention to the article title.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Font Size Increase:** Comparing the "before" and "after" images, the main heading "Was du über Anschlussfehler wissen musst | mit Videos der bekanntesten Filmfehler" is visibly larger in the "after" image. The increase, while not extreme, is clear.
+    *   **Bolder Text:** The main heading in the "after" image is distinctly heavier in weight (bolder) than in the "before" image. The characters appear thicker and stand out more prominently.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No. Both parts of the instruction—increasing font size and making the text bolder—are clearly and unambiguously applied in the "after" image. The changes directly contribute to the stated goal of drawing more attention to the article title.
+
+**Final verdict:**
+✅ Fully Applied

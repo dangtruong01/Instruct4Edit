@@ -1,0 +1,1 @@
+Make the date in the header more prominent, perhaps by increasing its font size and giving it a contrasting background.

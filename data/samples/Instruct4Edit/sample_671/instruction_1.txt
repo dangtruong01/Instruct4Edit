@@ -1,0 +1,1 @@
+Add more vertical space between the large content blocks, such as the forum categories and the statistics area, to give them more breathing room.

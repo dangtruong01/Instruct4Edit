@@ -1,0 +1,1 @@
+Give the main article content area a soft, subtle shadow to make it appear as if it's floating slightly above the page background.

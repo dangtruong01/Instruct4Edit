@@ -1,0 +1,1 @@
+Make the input fields in the "Stay Connected" form more visually defined with a clear border, and make the submit button a bolder color.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a subtle border around the article cards to visually separate them.
+2. Looking at the "after" image, there's no visible border surrounding any of the article cards in the main content area, compared to the "before" image.
+3. No borders are present.
+
+Final verdict:
+❌ Not Applied

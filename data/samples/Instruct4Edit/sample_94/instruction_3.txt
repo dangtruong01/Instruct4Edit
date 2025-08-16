@@ -1,0 +1,1 @@
+Increase the font size of the story descriptions to improve readability, and apply a subtle, light background shade to every other story entry to make them easier to differentiate.

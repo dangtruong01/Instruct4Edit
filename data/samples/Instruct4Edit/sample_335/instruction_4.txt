@@ -1,0 +1,1 @@
+Standardize the look of the green navigation buttons on the left sidebar, ensuring consistent coloring and a more contemporary font style without the arrows.

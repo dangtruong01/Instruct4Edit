@@ -1,0 +1,1 @@
+Increase the font size of the numbered page links at the bottom.

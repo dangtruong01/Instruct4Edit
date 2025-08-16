@@ -1,0 +1,1 @@
+Give the top navigation bar a more modern and cleaner look, perhaps by removing the background color or using a subtle gradient.

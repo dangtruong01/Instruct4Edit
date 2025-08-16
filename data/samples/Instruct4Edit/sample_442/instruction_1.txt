@@ -1,0 +1,1 @@
+Make the social media icons in the top right corner smaller and give them a bit more spacing between each other.

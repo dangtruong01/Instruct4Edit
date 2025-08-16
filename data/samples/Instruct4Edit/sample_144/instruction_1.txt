@@ -1,0 +1,1 @@
+Increase the horizontal spacing between the main navigation items in the header.

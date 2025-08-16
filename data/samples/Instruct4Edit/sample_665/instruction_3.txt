@@ -1,0 +1,1 @@
+Add more internal padding within each input field and select box in the search conditions, making them appear taller.

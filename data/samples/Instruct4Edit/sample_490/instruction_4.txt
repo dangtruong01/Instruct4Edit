@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the main title "Offener Tarotabend" to give it a bit more visual depth.

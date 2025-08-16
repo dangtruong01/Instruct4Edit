@@ -1,0 +1,1 @@
+Make the background color behind the breadcrumbs a soft gray to visually connect it to the main article content.

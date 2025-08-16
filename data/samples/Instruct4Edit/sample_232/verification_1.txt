@@ -1,0 +1,13 @@
+Here's my review:
+
+**1. What is the intended visual change?**
+The instruction asks for the entire top section of the page (where the logo and main menu would typically reside) to be given a very light grey background. The purpose is to visually separate this section from the content that follows.
+
+**2. Is this change clearly visible in the after image compared to the before image?**
+Yes. In the "before" image, the top section of the page, including the menu items ("• Orte & Freizeit" down to "Crossmedia-Journalisten 2018"), has a white background, consistent with the rest of the page. In the "after" image, this exact top section, extending across the full width of the page and down to just above the "Unser Oberfranken Unser Oberfranken" heading, now clearly has a very light grey background. This new background creates a distinct visual separation.
+
+**3. Are there any doubts, ambiguities, or missing elements?**
+No. The change is precisely applied to the specified area, the color is as described ("very light grey"), and it effectively achieves the stated goal of visual separation. Although no logo is explicitly shown, the area where it would be is included in the grey background, satisfying "where the logo and main menu are".
+
+**Final verdict:**
+✅ Fully Applied

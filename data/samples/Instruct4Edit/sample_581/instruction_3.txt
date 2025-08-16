@@ -1,0 +1,1 @@
+Increase the spacing between the movie title and the movie description on the main content area.

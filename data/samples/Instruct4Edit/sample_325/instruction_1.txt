@@ -1,0 +1,1 @@
+Ensure all the small map images line up neatly in rows, removing the current staggered effect.

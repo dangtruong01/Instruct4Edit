@@ -1,0 +1,1 @@
+Style the three informational links below the search bar – 'New support ticket', 'Check ticket status', and the phone number – as distinct, rectangular buttons, each with a light background and a small icon.

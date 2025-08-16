@@ -1,0 +1,1 @@
+Ensure that each article preview in the main content area displays a unique and relevant image, rather than the current placeholder image.

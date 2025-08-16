@@ -1,0 +1,1 @@
+In the black bar at the very top, make the "Sign Up" and "Log In" links a bit smaller and give them more spacing between each other.

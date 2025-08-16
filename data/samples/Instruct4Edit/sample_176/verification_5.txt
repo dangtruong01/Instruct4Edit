@@ -1,0 +1,3 @@
+❌ Not Applied
+
+The instruction requests to show an image on the right side of the main content section. However, there's no image in the provided before or after images, making it impossible to apply the instruction.

@@ -1,0 +1,1 @@
+5.  Reduce the size and padding of the footer text, making it more compact.

@@ -1,0 +1,1 @@
+Enhance the visual feedback for the selected letter in the alphabetical navigation, perhaps by giving it a distinct background fill or a more pronounced outline.

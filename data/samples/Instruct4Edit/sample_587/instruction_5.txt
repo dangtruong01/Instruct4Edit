@@ -1,0 +1,1 @@
+The alert message at the top should have a yellow background for better visibility.

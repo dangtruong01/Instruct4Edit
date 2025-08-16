@@ -1,0 +1,1 @@
+5.  Change the chat box to be a lighter color and add a visible border.

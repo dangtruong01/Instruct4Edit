@@ -1,0 +1,1 @@
+Make the main site title, "Spark," appear larger and more visually prominent in the top left corner of the page.

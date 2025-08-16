@@ -1,0 +1,1 @@
+Increase the spacing between the main content area and the sidebar on the right.

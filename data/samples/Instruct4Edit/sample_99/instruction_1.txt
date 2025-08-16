@@ -1,0 +1,1 @@
+Make the "Sign up" buttons a bit bigger and bolder to stand out more.

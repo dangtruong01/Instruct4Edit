@@ -1,0 +1,1 @@
+Emphasize the main section headings, like "Noise and Vibration Control" and "For More Information", by making them bolder and slightly larger.

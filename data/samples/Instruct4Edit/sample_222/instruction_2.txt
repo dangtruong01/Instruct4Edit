@@ -1,0 +1,1 @@
+Give both the "LOGIN" and "SIGN UP" buttons soft, rounded edges and ensure their colors are harmonious, perhaps by making the "SIGN UP" button a more prominent, distinct color from the "LOGIN" button.

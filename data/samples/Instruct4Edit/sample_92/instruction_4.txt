@@ -1,0 +1,1 @@
+Transform the 'Submit a Comment' link into a distinct, visually appealing button with a colored background and white text.

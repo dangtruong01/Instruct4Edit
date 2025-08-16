@@ -1,0 +1,1 @@
+Make the footer text a slightly darker shade of gray to improve contrast.

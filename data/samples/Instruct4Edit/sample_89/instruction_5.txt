@@ -1,0 +1,1 @@
+Change the text color in the very bottom footer section to a lighter shade, like a soft gray.

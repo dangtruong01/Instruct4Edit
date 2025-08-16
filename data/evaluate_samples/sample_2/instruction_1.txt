@@ -1,0 +1,1 @@
+Increase the padding around the content of the main articles to give them more breathing room.

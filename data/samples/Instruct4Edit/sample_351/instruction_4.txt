@@ -1,0 +1,1 @@
+Make the table containing product specifications have a thinner border and a lighter background color for each cell.

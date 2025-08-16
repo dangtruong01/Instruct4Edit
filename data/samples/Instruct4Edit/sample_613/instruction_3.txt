@@ -1,0 +1,1 @@
+Adjust the spacing in the header area so the logo and the telephone information are better aligned vertically.

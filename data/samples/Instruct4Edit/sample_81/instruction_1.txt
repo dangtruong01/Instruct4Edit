@@ -1,0 +1,1 @@
+Give the main navigation items in the header a subtle background highlight when you hover over them.

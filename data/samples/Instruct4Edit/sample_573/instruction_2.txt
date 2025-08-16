@@ -1,0 +1,1 @@
+Change the color of the header and footer to a lighter shade of the current color.

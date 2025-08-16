@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the social media icons circular.
+2. I can't find any social media icons in the top right corner of the images.
+3. The instruction is unclear, there are no social media icons in the location indicated.
+
+Final verdict:
+❌ Not Applied

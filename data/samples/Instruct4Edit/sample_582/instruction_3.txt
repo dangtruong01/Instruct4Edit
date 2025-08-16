@@ -1,0 +1,1 @@
+On the business detail section, make the "Visit Website" button a solid green color that matches the navigation bar.

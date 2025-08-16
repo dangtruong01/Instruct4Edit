@@ -1,0 +1,1 @@
+Redesign the very top part of the page so the logo is centered and there's a clear, unified header section.

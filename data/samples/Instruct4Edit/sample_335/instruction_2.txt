@@ -1,0 +1,1 @@
+Give the main navigation links in the header a more interactive feel, perhaps changing color or adding an underline when hovered over.

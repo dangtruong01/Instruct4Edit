@@ -1,0 +1,1 @@
+Make the "Related Searches" text a bit bigger and bolder.

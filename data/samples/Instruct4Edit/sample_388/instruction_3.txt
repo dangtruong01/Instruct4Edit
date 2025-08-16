@@ -1,0 +1,1 @@
+Add a subtle border around the image captions to visually separate them from the body text.

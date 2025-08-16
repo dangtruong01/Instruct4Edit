@@ -1,0 +1,1 @@
+The "Log In Or Register An Account" button on the right should be a bit smaller and less prominent.

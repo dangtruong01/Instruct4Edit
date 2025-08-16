@@ -1,0 +1,1 @@
+3.  Round the corners of the video frame and add a subtle shadow to make it pop.

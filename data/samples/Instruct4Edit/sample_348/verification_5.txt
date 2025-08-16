@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for the comment submission button to have rounded corners and a slightly lighter background color.
+2. I cannot locate any comment submission button in either image. Thus, there's nothing to visually confirm regarding changes to its style.
+3. There are no interactive elements such as a comment submission form to submit a comment with a submission button, so no changes can be verified.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Slightly darken the background color of the sidebar to improve its contrast with the main content area.

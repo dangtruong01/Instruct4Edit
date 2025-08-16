@@ -1,0 +1,1 @@
+Center the "Related Searches" heading and make the font size smaller.

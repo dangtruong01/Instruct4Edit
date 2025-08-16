@@ -1,0 +1,1 @@
+Change the font on the footer copyright text to a lighter, more readable color.

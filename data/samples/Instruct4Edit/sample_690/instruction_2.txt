@@ -1,0 +1,1 @@
+Ensure all interactive buttons, like the "Na hlavnú stránku" button and the navigation links, share a unified visual style, perhaps using the site's primary dark brown color as a solid background.

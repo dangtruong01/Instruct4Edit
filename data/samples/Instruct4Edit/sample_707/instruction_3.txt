@@ -1,0 +1,1 @@
+Change the horizontal lines separating the post content to a lighter shade of gray.

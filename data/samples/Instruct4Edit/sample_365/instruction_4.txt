@@ -1,0 +1,1 @@
+In the footer, align the social icons to the left within their container, and the address information to the right.

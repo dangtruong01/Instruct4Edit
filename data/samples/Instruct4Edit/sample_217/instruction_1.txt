@@ -1,0 +1,1 @@
+Reduce the size of the main website logo in the header and ensure the navigation links are aligned nicely beside it.

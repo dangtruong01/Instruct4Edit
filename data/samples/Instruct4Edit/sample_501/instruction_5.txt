@@ -1,0 +1,1 @@
+In the footer, make the social media icons appear in color, not just as plain text.

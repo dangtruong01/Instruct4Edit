@@ -1,0 +1,1 @@
+Make the navigation trail at the top of the page more prominent and easier to read against its background.

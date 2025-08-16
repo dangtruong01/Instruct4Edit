@@ -1,0 +1,1 @@
+Center the footer logo and reduce its size slightly to better fit the space.

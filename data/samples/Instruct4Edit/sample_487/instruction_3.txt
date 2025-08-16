@@ -1,0 +1,1 @@
+Add a light gray background to the "New Posts" section to visually separate it.

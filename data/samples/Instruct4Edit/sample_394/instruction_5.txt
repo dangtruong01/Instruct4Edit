@@ -1,0 +1,1 @@
+Change the font of the footer navigation items to a smaller size and make them a darker shade of gray.

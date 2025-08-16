@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to make the background of the header a very light grey. The header is the section containing "home > blog > de verrassing van somerset".
+2. In the "after" image, the header *appears* to have a very light grey background.
+3.  Although it *appears* light grey, it is not a dramatic visual change. This leaves room for ambiguity, and this is an important distinction for a UI/UX review.
+
+Final verdict:
+❌ Not Applied

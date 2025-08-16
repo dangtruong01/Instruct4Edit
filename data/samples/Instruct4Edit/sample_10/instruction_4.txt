@@ -1,0 +1,1 @@
+Adjust the padding around the comment form to be consistent with the other sections.

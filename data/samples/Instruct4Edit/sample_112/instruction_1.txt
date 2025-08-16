@@ -1,0 +1,1 @@
+Make the language selector flags in the top header a bit smaller.

@@ -1,0 +1,1 @@
+Make the "Zdieľaj" button a brighter, more prominent color.

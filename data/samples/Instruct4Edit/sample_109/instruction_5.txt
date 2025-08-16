@@ -1,0 +1,1 @@
+Make the font size of the search input field larger and easier to read.

@@ -1,0 +1,1 @@
+Modernize the rounded corners on the search navigation bar to be smoother and more subtle.

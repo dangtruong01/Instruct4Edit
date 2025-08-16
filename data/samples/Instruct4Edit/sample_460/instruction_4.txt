@@ -1,0 +1,1 @@
+In the footer, reduce the amount of spacing between the widget area and the copyright bar.

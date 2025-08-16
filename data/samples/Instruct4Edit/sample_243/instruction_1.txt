@@ -1,0 +1,1 @@
+Make all "Reserve Now" buttons across the site a consistent, brighter color with a subtle rounded edge to make them more noticeable and clickable.

@@ -1,0 +1,1 @@
+In the cookie consent pop-up, make the "Not now" button text a bit darker so it stands out more against the white background.

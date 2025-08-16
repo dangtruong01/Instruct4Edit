@@ -1,0 +1,1 @@
+On the pagination at the bottom of the blog posts, highlight the current page number to make it clear which page the user is on.

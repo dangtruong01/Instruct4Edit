@@ -1,0 +1,1 @@
+Give the main search bar a more prominent visual appearance, maybe with a background color or shadow, so it stands out from the surrounding elements.

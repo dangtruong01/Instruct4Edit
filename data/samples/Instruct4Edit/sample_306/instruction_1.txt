@@ -1,0 +1,1 @@
+Make the navigation menu items a slightly darker shade of gray.

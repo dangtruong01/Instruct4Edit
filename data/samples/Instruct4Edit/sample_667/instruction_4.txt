@@ -1,0 +1,1 @@
+Add a small gap between the contact icons and their corresponding text descriptions in the dark purple footer section.

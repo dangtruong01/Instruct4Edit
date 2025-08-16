@@ -1,0 +1,1 @@
+Adjust the appearance of the article's publication date and author information at the bottom to be a lighter color and smaller text.

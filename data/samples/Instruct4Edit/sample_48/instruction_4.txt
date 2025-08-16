@@ -1,0 +1,1 @@
+4.  Make the search bar in the header more prominent by increasing its size and adding a border.

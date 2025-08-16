@@ -1,0 +1,1 @@
+Arrange the items in the top bar so that the company logo is on the far left, and the action buttons and language selectors are aligned together on the far right.

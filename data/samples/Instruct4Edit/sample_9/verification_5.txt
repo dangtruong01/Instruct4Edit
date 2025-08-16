@@ -1,0 +1,3 @@
+❌ Not Applied
+
+The instruction specifies a change for "smaller screens" which means it is related to a responsive design change. Since I cannot see the screen size in these images, I cannot verify if the stacking has occurred or not. It is likely that this would be demonstrated on the smaller screen, and the change would not be visible in the standard images provided.

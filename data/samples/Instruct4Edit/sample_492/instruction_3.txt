@@ -1,0 +1,1 @@
+On the right sidebar, make the "New Posts" list entries have a divider line between each item.

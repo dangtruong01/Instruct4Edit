@@ -1,0 +1,1 @@
+Put a subtle, light border around each of the recent article entries in the sidebar.

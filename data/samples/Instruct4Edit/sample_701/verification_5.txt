@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle rounded border to the main image on the news page. Since there are no images that could be described as 'main' in either the before or after images, I'm going to assume that the intended change was missed.
+2. There is no visible rounded border on any image in the after image compared to the before image.
+3. There are no images that could be described as main images on the news page.
+
+Final verdict:
+❌ Not Applied

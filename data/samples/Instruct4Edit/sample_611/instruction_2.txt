@@ -1,0 +1,1 @@
+Slightly darken the background color of the main content area to improve contrast.

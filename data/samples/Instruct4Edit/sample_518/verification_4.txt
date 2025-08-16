@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the footer to a darker gray.
+2. Comparing the two images, the background color of the footer (the area containing "KẾT NỐI VỚI CHÚNG TÔI >>") appears to be visually identical in both images.
+3. There is no visible change in the background color of the footer.
+
+Final verdict:
+❌ Not Applied

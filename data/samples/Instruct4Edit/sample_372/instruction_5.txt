@@ -1,0 +1,1 @@
+Make the "About," "Newsroom," and "Contact" navigation links more visually prominent, perhaps with a background color or larger font size.

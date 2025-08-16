@@ -1,0 +1,1 @@
+Make the company name in the header bigger and bolder for better visual impact.

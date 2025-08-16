@@ -1,0 +1,1 @@
+Gently round the corners of the large featured image that appears at the top of each article.

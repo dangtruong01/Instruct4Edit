@@ -1,0 +1,1 @@
+Add some spacing below each team member's image and name to visually separate them.

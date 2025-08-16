@@ -1,0 +1,21 @@
+Here's my review based on the provided images and instruction:
+
+**Instruction:** Realign the image within each article preview so it sits above the title, rather than floating to the side, to give the text more horizontal space.
+
+---
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to reposition the small thumbnail image associated with each article preview. In the original design, the image is situated to the left of the article title and description text. The intended change is to move this image so it is positioned directly *above* the title, thereby allowing the title and subsequent text to occupy the full available horizontal width below the image, rather than being constrained by the image to their side.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible. In the "before" image, each article preview shows a small image thumbnail to the left, with the title and text flowing to its right. In the "after" image, for every article preview, the image has been moved upwards and is now centered (or left-aligned, but clearly occupying its own row) *above* the article title. Consequently, the title and the descriptive text below it now span the entire width of the article preview content area, indicating they have gained "more horizontal space" as instructed.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No, there are no doubts or ambiguities. The images are no longer "floating to the side"; they clearly "sit above the title." The text's increased "horizontal space" is evident as it now occupies the full width of its content block, rather than being confined next to the image. The instruction has been implemented precisely as described.
+
+---
+
+**Final verdict:**
+✅ Fully Applied

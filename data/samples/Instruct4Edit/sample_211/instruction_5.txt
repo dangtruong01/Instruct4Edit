@@ -1,0 +1,1 @@
+Move the footer text closer to the bottom of the footer section.

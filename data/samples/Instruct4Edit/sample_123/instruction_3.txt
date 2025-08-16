@@ -1,0 +1,1 @@
+Ensure the large image at the top of the page scales to fit the width and appears more prominently, potentially adding an overlay or title text on top if needed.

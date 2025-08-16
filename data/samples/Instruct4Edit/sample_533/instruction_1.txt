@@ -1,0 +1,1 @@
+Give the navigation menu a more modern, cleaner look by removing the background color and using a subtle hover effect on the links.

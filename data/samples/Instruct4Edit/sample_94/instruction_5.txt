@@ -1,0 +1,1 @@
+Apply a subtle rounding to the corners of all input fields and buttons on the page, and ensure they have a uniform, modern look.

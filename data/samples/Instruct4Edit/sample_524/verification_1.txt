@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the navigation bar. Looking at the images, the navigation bar seems to be represented by the elements: "Home", "All Articles", "By Subject", "E-Books". These elements are presented on a white background at the top of the page. Therefore, the shadow should be added to this top area to make it stand out more.
+2. Comparing both images, I cannot perceive any visual difference related to a shadow in the navigation bar or the top part of the page.
+3. There are no apparent shadow effects applied to the top navigation area in the 'after' image.
+
+Final verdict:
+❌ Not Applied

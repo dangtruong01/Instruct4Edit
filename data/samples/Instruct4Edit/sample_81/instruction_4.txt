@@ -1,0 +1,1 @@
+Style the tags below the article title, like "psychology" and "technique", so they appear as small, distinct badges with a soft background.

@@ -1,0 +1,1 @@
+Move the copyright information in the footer to the bottom left and align the language links to the bottom right.

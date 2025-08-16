@@ -1,0 +1,1 @@
+Ensure there's generous vertical spacing around the image of the two-wheeled trolley so it stands out clearly from the text and table.

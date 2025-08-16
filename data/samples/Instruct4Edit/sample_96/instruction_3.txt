@@ -1,0 +1,1 @@
+Make the titles of the news articles more prominent and visually indicate that they are links.

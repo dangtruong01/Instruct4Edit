@@ -1,0 +1,1 @@
+Add a subtle visual indicator, like a light background highlight, when you hover over any item in the main navigation menu.

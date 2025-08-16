@@ -1,0 +1,1 @@
+Apply a distinct, light background color and some internal padding to all the code snippet areas to visually separate them from regular text.

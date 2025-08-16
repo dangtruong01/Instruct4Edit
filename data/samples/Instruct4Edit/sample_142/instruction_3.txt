@@ -1,0 +1,1 @@
+The titles for sections in the right-hand sidebar, such as "Lottomania" and "Blog Archive," appear very small. Make them larger and more noticeable.

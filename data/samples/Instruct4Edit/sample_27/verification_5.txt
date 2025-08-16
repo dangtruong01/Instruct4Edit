@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to increase the font size and apply bold font weight to the heading "Single courses".
+2.  In the "after" image, the heading "Single courses" appears to be both larger and in bold compared to the "before" image.
+3.  The change is clearly visible and unambiguous.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+The navigation links on the left and right should be closer to the center of the page.

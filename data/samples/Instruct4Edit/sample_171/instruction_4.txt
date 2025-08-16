@@ -1,0 +1,1 @@
+Increase the spacing between the article's content and the footer.

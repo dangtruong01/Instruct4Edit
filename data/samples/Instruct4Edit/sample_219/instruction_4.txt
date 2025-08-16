@@ -1,0 +1,1 @@
+Apply a subtle rounded edge to all main content boxes, like the 'vBulletin Message' panel and the login form within it, to soften their appearance.

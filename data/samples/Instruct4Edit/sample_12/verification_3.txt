@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to darken the background color of the footer.
+2. The background color of the footer appears to be the same in both images, and no darkening is visible.
+3. The instruction was not applied.
+
+Final verdict:
+❌ Not Applied

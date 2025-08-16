@@ -1,0 +1,1 @@
+Change the "Core Features" heading to a more prominent font, both larger and bolder.

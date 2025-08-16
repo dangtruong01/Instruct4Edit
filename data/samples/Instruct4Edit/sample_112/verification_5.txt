@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the social media icons in the footer. The social media icons are located in the dark green footer at the bottom of the page.
+2. In the "before" image, the social media icons are aligned to the left. In the "after" image, the icons appear to be centered horizontally within the footer.
+3. There are no apparent doubts or missing elements regarding the placement of the social media icons in the footer.
+
+Final verdict:
+✅ Fully Applied

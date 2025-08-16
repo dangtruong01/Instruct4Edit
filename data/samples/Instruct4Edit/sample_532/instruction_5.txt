@@ -1,0 +1,1 @@
+Use a lighter shade of the current background color for the header.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to give the footer a light gray background.
+2. Looking at the images, the footer in the AFTER image indeed has a light gray background, whereas the BEFORE image has a white background.
+3. There are no doubts or ambiguities. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

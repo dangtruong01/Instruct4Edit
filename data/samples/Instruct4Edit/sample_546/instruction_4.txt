@@ -1,0 +1,1 @@
+Adjust the footer so that the text aligns to the left, rather than being centered.

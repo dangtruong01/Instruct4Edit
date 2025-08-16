@@ -1,0 +1,1 @@
+Increase the space between the article title, author, and category information.

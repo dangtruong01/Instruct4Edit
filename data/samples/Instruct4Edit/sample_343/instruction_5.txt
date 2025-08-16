@@ -1,0 +1,1 @@
+For the pagination at the top and bottom of the main content, increase the size of the numbers and arrows. Additionally, make the currently selected page number stand out clearly with a distinct background highlight.

@@ -1,0 +1,1 @@
+Apply a gentle rounding to the corners of the main images within each article preview.

@@ -1,0 +1,1 @@
+The individual product listings on the right side of the page are a bit crammed. Please give each product a distinct card-like appearance with some internal padding around its content, and update the "Add to Cart" graphic to a modern, clickable button style.

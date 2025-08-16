@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to soften the sharp corners of input boxes and dropdowns, meaning adding a border radius to these elements.
+2. Comparing the two images, there's no visible change in the corners of the input boxes and dropdowns. The corners remain sharp.
+3. There's no evidence of rounded corners in the "after" image.
+
+Final verdict:
+❌ Not Applied

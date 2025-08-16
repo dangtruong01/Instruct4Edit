@@ -1,0 +1,1 @@
+The horizontal menu with "FAQ", "Calendar", and "Mark Forums Read" should have a slightly lighter background color to make it stand out a bit more.

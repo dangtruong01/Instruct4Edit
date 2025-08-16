@@ -1,0 +1,1 @@
+Make the "Load More" button a brighter, more attention-grabbing color, and remove the border.

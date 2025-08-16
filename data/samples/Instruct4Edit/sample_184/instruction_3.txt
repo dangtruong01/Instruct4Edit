@@ -1,0 +1,1 @@
+Add a subtle border around the content within the "news-detail" section.

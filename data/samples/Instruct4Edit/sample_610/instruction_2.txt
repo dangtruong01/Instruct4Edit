@@ -1,0 +1,1 @@
+Style the left navigation to have a light gray background, and add a subtle border around it.

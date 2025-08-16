@@ -1,0 +1,1 @@
+Make the navigation buttons along the top more visually distinct from each other, perhaps by adding more spacing or subtle dividers.

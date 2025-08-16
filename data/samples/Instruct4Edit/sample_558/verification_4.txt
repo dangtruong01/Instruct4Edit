@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main article cards. This means the cards should visually "pop out" slightly more due to the shadow effect.
+2. Comparing the "before" and "after" images, I do not see any noticeable shadow effect added to the main article cards.
+3. There is no visible shadow applied to the main article cards.
+
+Final verdict:
+❌ Not Applied

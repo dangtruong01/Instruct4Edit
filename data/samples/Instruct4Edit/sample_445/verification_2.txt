@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the breadcrumb "OMA » Slovensko » ..." smaller in size and a less prominent color.
+2. Comparing the two images, the breadcrumb in the second image (after) appears to be smaller in font size and the color is less saturated compared to the first image (before).
+3. There are no doubts or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Give the comment submission button a more prominent, eye-catching color.

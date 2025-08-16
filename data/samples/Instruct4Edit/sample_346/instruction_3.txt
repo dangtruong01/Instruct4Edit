@@ -1,0 +1,1 @@
+Add a subtle shadow to the box containing the main content and sidebar.

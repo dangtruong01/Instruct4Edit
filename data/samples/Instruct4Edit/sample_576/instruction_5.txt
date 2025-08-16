@@ -1,0 +1,1 @@
+On the right sidebar, give the images a thin border to visually separate them from the background.

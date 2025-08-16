@@ -1,0 +1,1 @@
+Make the navigation bar a solid, slightly darker shade of the current background color.

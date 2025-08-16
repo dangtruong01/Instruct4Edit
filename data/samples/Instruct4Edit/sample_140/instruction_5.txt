@@ -1,0 +1,1 @@
+Make the names of the services like "CLOUDWAYS", "CLOUDFLARE", and "WORDPRESS" in the very bottom text of the page stand out more, perhaps by making them a brighter white or adding a subtle highlight.

@@ -1,0 +1,1 @@
+Redesign the page number selection at the bottom to be more contemporary and easier to click, with a clearer indication of the current page.

@@ -1,0 +1,1 @@
+Transform the "Écrivez-nous" and "Faire un don" actions in the footer into visually distinct buttons.

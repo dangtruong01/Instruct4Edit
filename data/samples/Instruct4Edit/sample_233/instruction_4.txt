@@ -1,0 +1,1 @@
+Add a subtle background color to the entire comment section to make it visually distinct from the main article content.

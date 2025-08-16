@@ -1,0 +1,1 @@
+Add a small icon next to each link in the footer menu.

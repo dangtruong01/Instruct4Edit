@@ -1,0 +1,1 @@
+Make the background color of the entire page a light gray.

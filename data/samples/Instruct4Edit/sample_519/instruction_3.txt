@@ -1,0 +1,1 @@
+Make the date and author information under the main title less prominent by reducing their size and using a lighter grey color.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the navigation menu items bigger and bolder. The navigation menu items are located at the top-left of the image.
+2. Comparing the first image and the second image, the navigation menu items appear to be a bit bigger and bolder in the second image.
+3. There are no doubts or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

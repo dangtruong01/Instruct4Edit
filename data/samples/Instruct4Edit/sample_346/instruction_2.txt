@@ -1,0 +1,1 @@
+Slightly increase the font size of the main article title.

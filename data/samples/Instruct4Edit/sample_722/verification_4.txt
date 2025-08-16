@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border at the bottom of the header. The header is the section containing "ANDONI EUBA" and the links.
+2. Comparing the two images, there is indeed a very thin, light grey border added to the bottom of the header in the "after" image. It's subtle but present.
+3. There are no ambiguities, the change is present.
+
+Final verdict:
+✅ Fully Applied

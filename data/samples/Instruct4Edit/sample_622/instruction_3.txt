@@ -1,0 +1,1 @@
+Add more vertical spacing between each search result entry to improve readability and separation.

@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the main heading of the page to make it stand out more.

@@ -1,0 +1,1 @@
+Increase the font size of the main title "Pokémon en N" and make it bolder to give it more visual weight and impact.

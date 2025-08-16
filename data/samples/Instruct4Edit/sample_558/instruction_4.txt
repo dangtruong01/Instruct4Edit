@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the main article cards to make them stand out more.

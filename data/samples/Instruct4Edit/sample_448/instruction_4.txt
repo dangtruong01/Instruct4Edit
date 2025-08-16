@@ -1,0 +1,1 @@
+Add some padding around the calendar to give it some spacing from the edges of the page.

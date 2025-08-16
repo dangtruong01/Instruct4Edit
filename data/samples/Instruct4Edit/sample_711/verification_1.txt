@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction specifies making the main heading significantly larger and bolder to give it visual hierarchy.
+2. Comparing the "before" and "after" images, the main heading in the "after" image appears slightly larger and bolder than in the "before" image. The difference is noticeable.
+3. There are no apparent ambiguities or missing elements. The heading size and boldness have been visibly increased.
+
+Final verdict:
+✅ Fully Applied

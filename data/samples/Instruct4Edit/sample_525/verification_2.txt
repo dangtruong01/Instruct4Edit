@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires the social media icons in the sidebar to be changed to black.
+2. Looking at the before image, the social media icons (Twitter, LinkedIn, Instagram, Facebook) are a light blue color. In the after image, the social media icons (Twitter, LinkedIn, Instagram, Facebook) are black.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

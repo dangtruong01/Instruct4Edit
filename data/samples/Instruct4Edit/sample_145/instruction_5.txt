@@ -1,0 +1,1 @@
+Adjust the social media icons in the footer so they are slightly larger and appear as perfectly round buttons with their respective brand colors.

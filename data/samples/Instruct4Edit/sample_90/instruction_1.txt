@@ -1,0 +1,1 @@
+Increase the height of the main title block at the top of the article and give its background a darker, more prominent color.

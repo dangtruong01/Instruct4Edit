@@ -1,0 +1,1 @@
+Give the sidebar widgets a light grey background to visually separate them.

@@ -1,0 +1,1 @@
+Give the search input box on the right side of the header a subtle shadow.

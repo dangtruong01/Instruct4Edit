@@ -1,0 +1,1 @@
+Make the footer links a darker shade of gray.

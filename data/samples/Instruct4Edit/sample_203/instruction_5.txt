@@ -1,0 +1,1 @@
+Make the website name, "The Clemson Insider Forums," in the breadcrumb navigation more prominent, possibly by making it bolder or a slightly larger font size.

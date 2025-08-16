@@ -1,0 +1,1 @@
+Increase the spacing between the blog post titles and the "Page 1 of 1" pagination below them.

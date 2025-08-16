@@ -1,0 +1,1 @@
+The "Forum Jump" select dropdown should fill the available width in its container, rather than being so small.

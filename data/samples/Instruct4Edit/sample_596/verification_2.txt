@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow under the header "Privacy Policy". This is meant to visually separate the header from the main content.
+2. After comparing the two images, I cannot see any difference in the header. Specifically, there's no visible shadow added under the "Privacy Policy" header in the second image.
+3. There are no ambiguities, but the change simply isn't there.
+
+Final verdict:
+❌ Not Applied

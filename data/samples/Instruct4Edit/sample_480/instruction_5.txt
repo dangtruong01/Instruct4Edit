@@ -1,0 +1,1 @@
+The current breadcrumbs navigation at the top left, just remove them completely - they aren't adding anything useful.

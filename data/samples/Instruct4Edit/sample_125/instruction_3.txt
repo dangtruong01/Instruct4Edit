@@ -1,0 +1,1 @@
+Set the main article content to be left-aligned instead of justified, and slightly increase the vertical spacing between lines for better readability.

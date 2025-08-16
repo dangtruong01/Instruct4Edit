@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the card containing the IP information. This means a shadow effect should be visible around the IP information card in the "after" image, making it appear slightly raised or more prominent than the background.
+2. Comparing the "before" and "after" images, there is no visible shadow effect around the IP information card in the "after" image. The card appears to be at the same level as the background, just as in the "before" image.
+3. There is no visible shadow applied to the IP information card in the "after" image.
+
+Final verdict:
+❌ Not Applied

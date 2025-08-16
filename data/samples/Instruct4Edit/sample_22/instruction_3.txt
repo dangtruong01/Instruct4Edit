@@ -1,0 +1,1 @@
+Give the main content area a subtle shadow to make it pop out from the background.

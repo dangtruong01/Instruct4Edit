@@ -1,0 +1,1 @@
+Improve the visual separation of each episode entry under 'Get out alive with Bear Grylls' by adding a subtle outline or distinct background to each item, making the list more organized.

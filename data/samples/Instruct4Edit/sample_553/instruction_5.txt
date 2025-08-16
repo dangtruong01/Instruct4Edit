@@ -1,0 +1,1 @@
+Add a subtle shadow to the rectangular "Privacy Policy | Cookie settings" box in the very bottom.

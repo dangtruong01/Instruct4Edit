@@ -1,0 +1,1 @@
+On the main navigation bar at the top, make the logo clickable, so it takes the user to the homepage.

@@ -1,0 +1,1 @@
+Increase the size and boldness of the article's main title, and make the publication date and source text beneath it smaller and a lighter shade.

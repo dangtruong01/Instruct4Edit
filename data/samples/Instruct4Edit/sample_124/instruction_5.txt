@@ -1,0 +1,1 @@
+Round out all corners of the "About Us" section title box in the left sidebar, not just the top right.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a border around the main article content. The main article content is the text on the left side of the page.
+2. Comparing the two images, there is no visible border around the main article content in the after image.
+3. There are no ambiguities in the instruction, but the change is not visible.
+
+Final verdict:
+❌ Not Applied

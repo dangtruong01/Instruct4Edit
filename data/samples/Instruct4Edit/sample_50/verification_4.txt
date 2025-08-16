@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to increase the font size of the links in the footer.
+2. Comparing the before and after images, it is very difficult to ascertain a difference. The font appears to be the same size in both images.
+3. The change is not visible.
+
+Final verdict:
+❌ Not Applied

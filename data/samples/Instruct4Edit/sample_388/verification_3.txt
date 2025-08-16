@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around the image captions. This means a thin, light-colored border should be applied around the text that describes each image.
+2. Looking at the "after" image, there is no visible border around either of the image captions ("Constitucio de 1812" and "La promulgació de la Constitució de 1812...").
+3. There is no visible change, and the instruction was not applied.
+
+Final verdict:
+❌ Not Applied

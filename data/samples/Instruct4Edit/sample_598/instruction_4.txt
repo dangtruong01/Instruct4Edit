@@ -1,0 +1,1 @@
+Increase the spacing between the blog post title and the category below the featured image in the main content area.

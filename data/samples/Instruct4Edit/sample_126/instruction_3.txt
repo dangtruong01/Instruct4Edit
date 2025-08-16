@@ -1,0 +1,1 @@
+Reposition the floating social media sharing buttons so they are not stuck to the far left, perhaps placing them at the top right corner of the main product description area.

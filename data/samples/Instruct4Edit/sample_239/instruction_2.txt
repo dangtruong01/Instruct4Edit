@@ -1,0 +1,1 @@
+Give the headings for each troubleshooting step, such as "Check your account" and "Verify the POP or IMAP settings," a more distinct background color or bolder text to make them stand out and imply they are interactive.

@@ -1,0 +1,18 @@
+Here's the detailed UI/UX review:
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to increase the vertical spacing around the image of the two-wheeled trolley. The goal is to make the image visually distinct and prominent, separating it clearly from the descriptive text above it and the table below it. This implies adding more padding or margin space both above and below the image.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    Yes, the change is clearly visible.
+    *   **Above the image:** In the "after" image, there is a noticeably larger vertical gap between the last bullet point of the trolley's description ("szczegółowe przydatne do transportu skrzyniek, ładowisk, pralek itp.") and the top edge of the trolley image, compared to the "before" image.
+    *   **Below the image:** Similarly, in the "after" image, the vertical space between the bottom edge of the trolley image and the "SYMBOL" header of the table is significantly increased, making the separation much more pronounced than in the "before" image.
+    The added space on both sides helps the image to "breathe" and stand out.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No, there are no doubts or ambiguities. The instruction specifically called for "generous vertical spacing around the image," and this has been precisely and visibly implemented both above and below the image. The degree of spacing applied can indeed be considered "generous," achieving the intended visual separation and clarity.
+
+**Final verdict:**
+✅ Fully Applied

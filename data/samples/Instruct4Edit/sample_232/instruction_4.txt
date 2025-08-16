@@ -1,0 +1,1 @@
+Add more vertical space above and below the large images and the main text blocks within the content area to improve readability.

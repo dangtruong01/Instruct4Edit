@@ -1,0 +1,1 @@
+Break up the large block of centered text in the main content area by aligning the longer paragraphs and all bulleted lists to the left, improving overall readability and making the content less cramped.

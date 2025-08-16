@@ -1,0 +1,1 @@
+Soften the sharp corners of the search input boxes and select dropdowns.

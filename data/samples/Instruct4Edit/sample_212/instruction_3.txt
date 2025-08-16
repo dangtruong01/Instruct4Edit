@@ -1,0 +1,1 @@
+Change the background color of the main heading to a light gray.

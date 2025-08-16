@@ -1,0 +1,1 @@
+Reduce the text shadow on the "DJAMBOOLA MARTINIQUE" heading to make it more subtle.

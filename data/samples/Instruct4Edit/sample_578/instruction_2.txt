@@ -1,0 +1,1 @@
+Add a subtle gray border to the main content area, visually separating it from the surrounding elements.

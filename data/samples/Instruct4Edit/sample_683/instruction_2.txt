@@ -1,0 +1,1 @@
+Add a subtle hover effect to the main menu items, like a slight background color change or underline, to indicate interactivity.

@@ -1,0 +1,1 @@
+Reduce the size of the sidebar widgets' titles.

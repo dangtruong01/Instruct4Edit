@@ -1,0 +1,1 @@
+Change the background color of the slide-out mobile navigation menu to align with the site's main brown color palette, instead of the current blue.

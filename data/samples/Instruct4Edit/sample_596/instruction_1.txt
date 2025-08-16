@@ -1,0 +1,1 @@
+Slightly lighten the background color of the header.

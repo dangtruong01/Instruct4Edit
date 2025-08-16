@@ -1,0 +1,1 @@
+The search box in the sidebar is too plain; give it a subtle background color and rounded corners.

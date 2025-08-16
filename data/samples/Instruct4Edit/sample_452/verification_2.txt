@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle rounded border to the main image in the article. The main image is on the right side of the screen.
+2. Comparing the "before" and "after" images, the image on the right does appear to have a subtle rounded border in the "after" image that was not present in the "before" image.
+3. The change is clear, and no elements are missing.
+
+Final verdict:
+✅ Fully Applied

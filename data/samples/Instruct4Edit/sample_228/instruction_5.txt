@@ -1,0 +1,1 @@
+Give the footer content, especially the copyright and Impressum link, more breathing room, and ensure they are easy to read and appropriately aligned.

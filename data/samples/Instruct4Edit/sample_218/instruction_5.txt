@@ -1,0 +1,1 @@
+Increase the vertical space between each individual entry within the "Popular Posts" section in the right sidebar, making them easier to read.

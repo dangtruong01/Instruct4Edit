@@ -1,0 +1,327 @@
+To make the main site title "Nour Al Madinah" clearly visible, larger, and in a striking color, we need to make two key changes:
+
+1.  **Remove the inline style making the title transparent:** The `h1` tag for the title currently has `style="color: transparent; background: transparent; border-width: 0px"`, which makes it invisible. This inline style needs to be removed.
+2.  **Apply new CSS rules for size and color:** We will increase the `font-size` for the `h1` element and set a `color` for the `a` tag within it (as the text is inside an anchor) to `gold`, which complements the logo's color scheme.
+
+Here's the modified HTML:
+
+```html
+<!DOCTYPE html>
+
+<html><head><title>
+      Nour Al Madinah
+    </title><noscript></noscript></head><body><div id="header-wrapper"><div class="subheader"><div class="container"><div class="header section" id="header"><div class="widget Header" id="Header1"><div id="header-inner" style='background-image: url("http://1.bp.blogspot.com/-eYmVFxE-rPM/UcYn6qdahoI/AAAAAAAAAIk/L0KtFMqY60k/s1600/logo-nour-al-madinah-.png"); background-position: left; width: 225px; min-height: 64px; _height: 64px; background-repeat: no-repeat; '><div class="titlewrapper" style="background: transparent"><h1 class="title"><a>
+Nour Al Madinah
+</a></h1></div><div class="descriptionwrapper"><p class="description"><span>
+Site Officiel du groupe Nour Al Madinah
+</span></p></div></div></div></div><div class="social-links"><a class="facebook"></a></div><div class="clear"></div></div></div><div class="subheader2"><div class="container"><div class="menu"><ul class="menu" id="menu-main-menu"><li><a>
+                  Accueil
+                </a></li><li><a>
+                  Présentation
+                </a></li><li><a>
+                  Evénements
+                </a></li><li><a>
+                  Boutique
+                </a></li><li><a>
+                  Media
+                </a><ul class="sub-menu"><li><a>
+                      Gallery
+                    </a></li><li><a>
+                      Videos
+                    </a></li></ul></li><li><a>
+                  Contact
+                </a></li></ul></div><div class="search-form"><form><input id="search"/></form></div><div class="clear"></div></div></div></div><div id="content-wrapper"><div class="container"><div id="main-wrapper"><div class="content-block"><div class="main section" id="main"><div class="widget Blog" id="Blog1"><h2 class="date-header"><span>
+23/06/2013
+</span></h2><div class="post"><h1>
+Instrumental: Making of de l'intro
+</h1><div class="post-body"><div style="text-align: right;"><a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="http://4.bp.blogspot.com/-HB4onFa1CSU/UceMBJT91zI/AAAAAAAAAJs/afn4aFF2Lp8/s1600/video-making-of-nour-al-madinah-intro.jpg"/></a></div><h2 style="text-align: center;"><br/><br/><span style="background-color: white; font-family: inherit; font-size: small; line-height: 18px;">Voici le "making of" de la bande intrumentale de l'introduction de notre futur <a>CD</a> Incha'Allah</span></h2><br/><br/><iframe height="315" src="http://www.youtube.com/embed/DzInIXVdkw8?rel=0" width="560"></iframe><br/><br/><br/><b><span style="color: #660000;"><span style="background-color: white; font-family: inherit; font-size: small; line-height: 11pt;">Pour écouter l'introduction en entier avec les voix suivez ce lien : <a>Vidéo de l'intro</a></span></span></b></div></div><div class="comments" id="comments"><a></a><h4>
+0
+commentaires
+                          :
+</h4><div id="Blog1_comments-block-wrapper"><div class="avatar-comment-indent" id="comments-block"></div></div><p class="comment-footer"><div class="comment-form"><a></a><p></p><a id="comment-editor-src"></a><iframe class="blogger-iframe-colorize blogger-comment-from-post" height="210" id="comment-editor" src="" width="100%"></iframe></div></p><div id="backlinks-container"><div id="Blog1_backlinks-container"></div></div></div><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nouralmadinah.com%2F&amp;width&amp;layout=standard&amp;action=recommend&amp;show_faces=true&amp;share=true&amp;height=80" style="border:none; overflow:hidden; height:80px;"></iframe><div class="blog-pager" id="blog-pager"><span id="blog-pager-newer-link"><a class="blog-pager-newer-link" id="Blog1_blog-pager-newer-link">
+Article plus récent
+</a></span><a class="home-link">
+Accueil
+</a><span id="blog-pager-older-link"><a class="blog-pager-older-link" id="Blog1_blog-pager-older-link">
+Article plus ancien
+</a></span></div><div class="clear"></div><div class="post-feeds"><div class="feed-links">
+Inscription à :
+<a class="feed-link">
+Publier les commentaires
+                        (
+                        Atom
+                        )
+                      </a></div></div></div></div></div></div><div id="sidebar-wrapper"><div class="sidebar section" id="sidebar"><div class="widget PopularPosts" id="PopularPosts1"><h2>
+Articles les plus consultés
+</h2><div class="widget-content popular-posts"><ul><li><div class="item-thumbnail-only"><div class="item-thumbnail"><a><img height="72" src="http://4.bp.blogspot.com/-VHI_oLiUCG8/UmnVFeoMSEI/AAAAAAAAANI/nQi-sQUnXhY/s72-c/CD-disponible.jpg" width="72"/></a></div><div class="item-title"><a>
+Le CD est enfin disponible !
+</a></div></div><div style="clear: both;"></div></li><li><div class="item-thumbnail-only"><div class="item-thumbnail"><a><img height="72" src="http://2.bp.blogspot.com/-kEGd19-ZpUc/Uci60P70gpI/AAAAAAAAAJ8/QV0oAoE-cQI/s72-c/video-introduction-nour-al-madinah-intro.jpg" width="72"/></a></div><div class="item-title"><a>
+Nour Al Madinah: Intro du projet CD
+</a></div></div><div style="clear: both;"></div></li><li><div class="item-thumbnail-only"><div class="item-thumbnail"><a><img height="72" src="http://2.bp.blogspot.com/-oj48JkPOPEE/UmBiCumhEEI/AAAAAAAAAMM/SRb7zX6ZyLU/s72-c/lecteur-medley.jpg" width="72"/></a></div><div class="item-title"><a>
+Le Medley !!!
+</a></div></div><div style="clear: both;"></div></li><li><div class="item-thumbnail-only"><div class="item-thumbnail"><a><img height="72" src="http://2.bp.blogspot.com/-Bb_SjQ4iijY/Unbqepi5doI/AAAAAAAAAOY/r6cJ4QHGcms/s72-c/texte-paroles-chant.jpg" width="72"/></a></div><div class="item-title"><a>
+Paroles du chant "La mère"
+</a></div></div><div style="clear: both;"></div></li><li><div class="item-thumbnail-only"><div class="item-thumbnail"><a><img height="72" src="http://4.bp.blogspot.com/-HB4onFa1CSU/UceMBJT91zI/AAAAAAAAAJs/afn4aFF2Lp8/s72-c/video-making-of-nour-al-madinah-intro.jpg" width="72"/></a></div><div class="item-title"><a>
+Instrumental: Making of de l'intro
+</a></div></div><div style="clear: both;"></div></li></ul><div class="clear"></div></div></div><div class="widget HTML" id="HTML1"><div class="widget-content"><div class="g-plusone"></div><br/><a>Partager</a></div><div class="clear"></div></div><div class="widget Label" id="Label1"><h2>
+Libellés
+</h2><div class="widget-content list-label-widget-content"><ul><li><a>
+audio
+</a></li><li><a>
+Evenement
+</a></li><li><a>
+Paroles
+</a></li><li><a>
+Qui sommes-nous ?
+</a></li><li><a>
+video
+</a></li></ul><div class="clear"></div></div></div></div></div><div class="clear"></div></div></div><div class="footer wrapper"><div class="background"><div class="container">
+          © 2013 
+          <a id="copyright">
+Nour Al Madinah
+</a></div></div></div><style>#credit, .descriptionwrapper, .pagenavi .pages, .post-location, .post-share-buttons, .post-icons {
+    display: none !important
+    }
+body, h1, h2, h3, h4, h5, ul, li, a, p, span, img, dd {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none
+    }
+body, .body-fauxcolumn-outer {
+    font-family: "Open Sans", sans-serif, Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 12px
+    }
+a {
+    color: #333
+    }
+#header-wrapper {
+    position: relative;
+    z-index: 100;
+    width: 100%
+    }
+.subheader {
+    padding-top: 9px;
+    width: 100%
+    }
+.subheader2 {
+    padding: 2px 0 8px;
+    width: 100%
+    }
+.container {
+    padding: 1.5em 0;
+    margin: 0 auto;
+    width: 940px
+    }
+.subheader2 .container, #content-wrapper .container {
+    padding: 0
+    }
+#header {
+    float: left
+}
+#header, #header a {
+    color: #fff
+}
+#header h1 {
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    font-size: 3.5em; /* Increased size */
+    font-weight: normal;
+    text-transform: uppercase
+}
+#header h1 a { /* Added rule for striking color */
+    color: gold;
+}
+.search-form {
+    font-size: 12px;
+    float: right;
+    margin-top: 5px
+    }
+.menu a {
+    font-family: "Oswald", Arial, Helvetica, sans-serif
+    }
+.subheader2 .menu {
+    float: left
+    }
+.subheader2 .menu ul {
+    display: block
+    }
+.subheader2 .menu li {
+    display: block;
+    position: relative
+    }
+.subheader2 .menu a {
+    display: block;
+    color: #ccc;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-shadow: 0 -1px 0 #262626
+    }
+.subheader2 .menu > ul {
+    float: left
+    }
+.subheader2 .menu > ul > li {
+    float: left;
+    margin-right: 15px;
+    line-height: 40px
+    }
+.subheader2 .menu ul ul {
+    position: absolute;
+    z-index: 1000;
+    min-width: 150px;
+    display: none;
+    background: #333;
+    border: 1px solid rgba(0, 0, 0, 0.1)
+    }
+.subheader2 .menu ul ul li {
+    padding-bottom: 2px
+    }
+.subheader2 .menu ul ul li a {
+    padding: 0 15px
+    }
+.subheader2 .menu > ul > li > ul {
+    left: -15px;
+    top: 42px;
+    border-top-width: 0
+    }
+.social-links {
+    float: right;
+    overflow: hidden;
+    padding: 3px 0 1px 0
+    }
+.social-links a {
+    display: block;
+    float: right;
+    margin-left: 10px;
+    width: 24px;
+    height: 25px
+    }
+#content-wrapper {
+    padding-top: 20px
+    }
+#main-wrapper {
+    float: left;
+    width: 620px;
+    margin-right: 20px
+    }
+#sidebar-wrapper {
+    float: right;
+    width: 300px
+    }
+.content-block, .sidebar .widget {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px
+    }
+#main, .sidebar .widget-content {
+    background: #fff;
+    padding: 20px;
+    overflow: hidden;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px
+    }
+.block-title, .sidebar h2 {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-weight: normal;
+    overflow: hidden;
+    font-size: 16px;
+    text-transform: uppercase;
+    overflow: hidden;
+    border: 4px solid #2C2C2C;
+    border-top-width: 0;
+    text-shadow: 0 -1px 0 #262626
+    }
+.post {
+    border-bottom: 1px solid #EBEBEB;
+    margin: 0 0 18px -20px;
+    overflow: hidden;
+    padding: 0 20px 18px;
+    width: 100%
+    }
+.post h1 {
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 23px;
+    margin-bottom: 10px
+    }
+.post-body img {
+    max-width: 600px
+    }
+.sidebar .widget {
+    margin-bottom: 30px
+    }
+.sidebar ul li {
+    border-bottom: 1px dotted #D7D7D7;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em
+    }
+.sidebar li a {
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    font-size: 14px
+    }
+#comments {
+    overflow: hidden
+    }
+#comments h4 {
+    display: inline;
+    padding: 10px;
+    line-height: 40px
+    }
+#comments h4, .comments .comment-header, .comments .comment-thread.inline-thread .comment {
+    position: relative
+    }
+#comments h4, .comments .continue a {
+    background: #373737
+    }
+#comments h4, .comments .user a, .comments .continue a {
+    font-size: 16px
+    }
+#comments h4, .comments .continue a {
+    font-weight: normal;
+    color: #fff
+    }
+#comment-editor {
+    width: 103% !important
+    }
+.comment-form {
+    width: 100%;
+    max-width: 100%
+    }
+#blog-pager-newer-link {
+    float: left
+    }
+#blog-pager-older-link {
+    float: right
+    }
+#blog-pager {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    clear: both
+    }
+.footer {
+    text-align: center;
+    padding-top: 9px;
+    color: #ccc;
+    text-shadow: 0 -1px 0 #262626
+    }
+.footer .container {
+    padding: 0
+    }
+.footer a {
+    color: #ccc
+    }
+.footer .background {
+    padding: 11px 0 19px 0
+    }
+#PopularPosts1 img {
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 0
+    }</style></body></html>

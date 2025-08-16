@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to give the "Jump to..." select dropdown a more modern look, with a custom arrow and cleaner font.
+2. Comparing the two images, the dropdown arrow has been modified to a custom arrow, and the font inside the select dropdown appears to be cleaner.
+3. There are no doubts or ambiguities.
+
+Final verdict:
+✅ Fully Applied

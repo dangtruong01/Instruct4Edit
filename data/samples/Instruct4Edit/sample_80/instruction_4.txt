@@ -1,0 +1,1 @@
+Update the list of services to use circular bullet points instead of squares.

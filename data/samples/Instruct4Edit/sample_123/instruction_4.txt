@@ -1,0 +1,1 @@
+Give the search input field and its "GO" button a softer, more modern look, perhaps with slightly rounded corners and a clearer separation from the surrounding elements.

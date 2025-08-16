@@ -1,0 +1,1 @@
+Make all the text and links in the very bottom footer section brighter, so they stand out more clearly against the dark background.

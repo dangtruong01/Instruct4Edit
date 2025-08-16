@@ -1,0 +1,1 @@
+Change the "Add to cart" button to a solid fill color and remove the border.

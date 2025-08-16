@@ -1,0 +1,1 @@
+The large, rectangular sections that display the main content and lists have very sharp, square corners. Apply a subtle rounding to all the corners of these main content blocks to give the page a softer, more contemporary feel.

@@ -1,0 +1,1 @@
+Make the "Facebook" heading in the sidebar the same style and size as the other headings on the page.

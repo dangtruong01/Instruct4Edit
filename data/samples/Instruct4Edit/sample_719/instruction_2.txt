@@ -1,0 +1,1 @@
+Add a subtle shadow effect to the main title of the article to make it stand out more from the background.

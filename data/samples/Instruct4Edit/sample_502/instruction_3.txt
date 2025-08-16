@@ -1,0 +1,1 @@
+That orange bar at the top should extend to the full width of the screen.

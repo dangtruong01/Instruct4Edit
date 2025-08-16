@@ -1,0 +1,1 @@
+Make the navigation links more prominent by increasing their font size and changing their color to white.

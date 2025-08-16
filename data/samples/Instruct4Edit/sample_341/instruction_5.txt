@@ -1,0 +1,1 @@
+Make the previous and next article links at the very bottom of the post more visually distinct by making their text bolder and slightly larger.

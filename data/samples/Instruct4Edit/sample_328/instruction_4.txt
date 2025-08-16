@@ -1,0 +1,1 @@
+Unify the appearance of the main content boxes, giving them all a consistent, subtle background color and border style.

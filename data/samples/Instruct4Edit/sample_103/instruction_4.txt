@@ -1,0 +1,1 @@
+Change the thumbs up and thumbs down buttons to use the brand's primary color when they're clicked.

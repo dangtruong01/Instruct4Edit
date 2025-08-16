@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the navigation bar to a light gray.
+2. The color of the navigation bar (the bar containing "Home, Subscribe, Ad Store, Forum Rules") remains black in both images.
+3. There is no visible change in the navigation bar's background color.
+
+Final verdict:
+❌ Not Applied

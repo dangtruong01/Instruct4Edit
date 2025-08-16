@@ -1,0 +1,1 @@
+Redesign the social sharing buttons below the article to be less obtrusive, perhaps by making them smaller, showing only the icons, and removing their solid, colored backgrounds.

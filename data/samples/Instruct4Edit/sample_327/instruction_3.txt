@@ -1,0 +1,1 @@
+Remove the duplicate horizontal line at the end of each article, keeping only one clear separator.

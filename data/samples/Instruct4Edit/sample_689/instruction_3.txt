@@ -1,0 +1,1 @@
+Increase the space above and below the main page title so it stands out more.

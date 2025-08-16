@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the vertical space after each team member's block (image and name). This should visually separate them more clearly.
+2. Comparing the two images, there appears to be no significant change in the vertical spacing below each team member's information (image, name, title, email link).
+3. The spacing between the blocks of each team member looks almost identical in both images.
+
+Final verdict:
+❌ Not Applied

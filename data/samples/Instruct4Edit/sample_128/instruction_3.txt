@@ -1,0 +1,1 @@
+Redesign the titles for product sections like 'Surface Pro 4' to have a more modern look, perhaps using a subtle underline instead of a solid background bar.

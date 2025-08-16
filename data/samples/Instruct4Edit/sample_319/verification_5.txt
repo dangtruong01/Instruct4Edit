@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to change the color of social media icons to a darker shade in the footer.
+2. Looking at both images, there are no social media icons present in the footer of either image. A "Follow" text appears on the right side of the second image, but it is not an icon, so the instruction is not applicable.
+3. Since the icons are missing in both images, there's no way to verify if the change was applied.
+
+Final verdict:
+❌ Not Applied

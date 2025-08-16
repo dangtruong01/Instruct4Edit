@@ -1,0 +1,1 @@
+Update the social media icons in the footer to display in their brand's signature colors instead of plain black, making them instantly recognizable.

@@ -1,0 +1,1 @@
+Adjust the list items to have a softer, less opaque background color, and add a small rounded corner to them.

@@ -1,0 +1,1 @@
+Increase the contrast of the logo in the footer to make it more visible.

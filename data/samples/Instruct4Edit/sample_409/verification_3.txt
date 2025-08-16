@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the header. This means there should be a slightly darker area just below the header, giving the illusion of depth.
+2. Looking at the two images, I cannot see any discernible shadow being added to the header in the after image.
+3. The change is either too subtle to be noticed, or has not been applied.
+
+Final verdict:
+❌ Not Applied

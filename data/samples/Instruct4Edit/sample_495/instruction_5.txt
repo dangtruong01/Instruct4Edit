@@ -1,0 +1,1 @@
+In the main footer area, make the column headers a bit bolder to improve readability.

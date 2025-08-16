@@ -1,0 +1,1 @@
+Reduce the overall height of the top section to take up less screen space.

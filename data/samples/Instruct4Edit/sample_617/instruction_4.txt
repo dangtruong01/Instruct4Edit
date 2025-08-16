@@ -1,0 +1,1 @@
+Center the article content on the page and limit its width for better readability.

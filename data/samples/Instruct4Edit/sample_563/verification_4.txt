@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to make the background of the sidebar labels slightly darker when hovering over them.
+2. There is no way to visually assess hover states using static images. The images only depict a static state, not a hover state. Therefore, the instruction cannot be assessed.
+3. The change can only be observed with an interactive component (hovering) which is not available here.
+
+Final verdict:
+❌ Not Applied

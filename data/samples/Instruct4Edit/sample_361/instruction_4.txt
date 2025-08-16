@@ -1,0 +1,1 @@
+Style the "Altri articoli di Franco Fanelli" separator line to be more visually prominent.

@@ -1,0 +1,1 @@
+Increase the font size of the footer text to make it more readable.

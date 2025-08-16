@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main heading, which appears to be "instalar expressvpn en apple tv", larger and bolder.
+2. Comparing the two images, the heading "instalar expressvpn en apple tv" in the second image is indeed larger and bolder than in the first image.
+3. There are no ambiguities or missing elements. The change is clear and visible.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+The disabled "POSTULER" buttons should have a lighter background color to further visually indicate that they are not active.

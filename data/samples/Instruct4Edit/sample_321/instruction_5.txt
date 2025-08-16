@@ -1,0 +1,1 @@
+Make the very small, repetitive keyword lists throughout the page much less visually intrusive, perhaps by reducing their brightness or consolidating them.

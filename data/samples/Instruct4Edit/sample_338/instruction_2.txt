@@ -1,0 +1,1 @@
+Narrow the width of the main article text area to improve readability.

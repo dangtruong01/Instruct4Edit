@@ -1,0 +1,1 @@
+Change the color of the links in the main navigation menu to a more vibrant blue.

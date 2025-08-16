@@ -1,0 +1,1 @@
+Give the "Sign in" button in the top right corner a slightly more rounded appearance.

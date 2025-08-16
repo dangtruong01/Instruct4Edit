@@ -1,0 +1,1 @@
+Change the color of the "View Profile" buttons to a shade of green, matching the search button.

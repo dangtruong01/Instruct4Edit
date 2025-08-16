@@ -1,0 +1,1 @@
+Add a subtle shadow effect around the main content box to make it stand out more from the background.

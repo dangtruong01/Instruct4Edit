@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the background color of the footer to a light gray color. The footer is the bottom section of the page containing copyright and other information.
+2. Comparing the two images, the footer section at the bottom of the page (containing the copyright information) appears to have changed from white to a light gray color in the second image.
+3. There are no ambiguities or missing elements. The change is clear and visible.
+
+Final verdict:
+✅ Fully Applied

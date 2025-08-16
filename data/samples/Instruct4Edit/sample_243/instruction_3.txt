@@ -1,0 +1,1 @@
+Redesign the three call-to-action blocks below the main article to be more visually engaging, perhaps as distinct cards with a clear title and description, and a prominent click area.

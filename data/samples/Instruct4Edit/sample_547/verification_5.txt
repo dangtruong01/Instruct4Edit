@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the footer to make it stand out. This means a visual cue should be added to the footer's top edge to give the impression of depth and separation from the main content.
+2. After comparing the two images, I cannot see a visible shadow added to the footer. The footer's appearance is identical in both images.
+3. There is no visible shadow in the second image.
+
+Final verdict:
+❌ Not Applied

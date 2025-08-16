@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the text color of the active page in the main navigation menu to be more prominent. This means visually, the active page's text should stand out more than the other navigation links.
+2. Comparing the two images, I cannot see any change in the text color of any of the navigation links (Home, Anime, Desktop Goods, 日本語, About, Support us, minitaku Store). All links appear to have the same color in both images.
+3. There is no visible change in the images that would indicate the instruction was applied.
+
+Final verdict:
+❌ Not Applied

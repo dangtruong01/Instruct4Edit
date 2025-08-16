@@ -1,0 +1,7 @@
+**Step-by-step justification:**
+1. The instruction requests rounded corners and subtle shadows to be added to the search input fields.
+2. I cannot find any search input fields in the images. This could be due to the images displaying a landing page or video results, rather than a search page. Therefore, the design change could not have been applied as intended.
+3. The instruction itself is not faulty, but the lack of search input fields in the images makes its implementation impossible.
+
+**Final verdict:**
+❌ Not Applied

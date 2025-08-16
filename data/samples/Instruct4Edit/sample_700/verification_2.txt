@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the main header. The main header is "Montaža samonosnih vrat in ograjnih elementov". The top header is the very top line containing contact information.
+2. I cannot detect any shadow added to the header in the second image as compared to the first image.
+3. There is no clear shadow added to the header.
+
+Final verdict:
+❌ Not Applied

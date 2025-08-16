@@ -1,0 +1,1 @@
+Change the background gradient so the transition from red to black is smoother and less abrupt.

@@ -1,0 +1,1 @@
+Update the visual style of the main profile table. Soften the borders between cells and use a more cohesive and less contrasting color scheme for the rows and headers.

@@ -1,0 +1,1 @@
+The sidebar boxes are all running together - add some padding around the content within each box and a subtle border to visually separate them.

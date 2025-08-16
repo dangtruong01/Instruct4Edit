@@ -1,0 +1,1 @@
+Change the orange background color of the section containing the page title ("Wózek dwukołowy WRN1-020/55") to a solid, darker shade, and increase its height slightly for more breathing room.

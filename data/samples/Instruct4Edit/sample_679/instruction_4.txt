@@ -1,0 +1,1 @@
+Increase the spacing slightly between the main content card for the movie and the "You May Also Like" section below it.

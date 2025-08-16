@@ -1,0 +1,1 @@
+Increase the empty space on the left and right sides of the main content block to give it more breathing room within the page.

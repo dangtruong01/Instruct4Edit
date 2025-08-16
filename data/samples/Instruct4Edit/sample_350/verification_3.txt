@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the "Contacteer ons" heading in the footer more prominent by increasing its font size or making it bold.
+2. Comparing the "before" and "after" images, the "Contacteer ons" heading appears to be bolder in the after image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

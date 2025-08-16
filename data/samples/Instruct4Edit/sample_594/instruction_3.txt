@@ -1,0 +1,1 @@
+In the first set of columns after the heading, vertically align the content within the columns to the middle.

@@ -1,0 +1,1 @@
+4.  Round the corners of the search input fields and the author input field.

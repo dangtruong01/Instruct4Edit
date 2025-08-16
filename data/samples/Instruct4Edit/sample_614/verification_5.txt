@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to reduce the font size of the "Rechercher" titles in the left sidebar filters (e.g., "Déroulement de l'activité", "Durée de l'activité"). The intention is to make the titles less visually dominant compared to the filter options below them.
+2. Comparing the two images, I can visually confirm that the font size of the specified titles ("Déroulement de l'activité", "Durée de l'activité", "Participants", "Intensité d'animation") is smaller in the second image than in the first.
+3. There are no ambiguities or missing elements. The change is clear and consistently applied to all the mentioned titles.
+
+Final verdict:
+✅ Fully Applied

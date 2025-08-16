@@ -1,0 +1,1 @@
+Make the purple header span the full width of the screen, removing the padding on the left and right edges.

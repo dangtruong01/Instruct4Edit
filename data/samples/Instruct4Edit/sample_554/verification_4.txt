@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to style the "DOWNLOAD GRADE TO MARKS FORMULA" link into a prominent button with a background color and rounded corners.
+2. In the after image, the link "DOWNLOAD GRADE TO MARKS FORMULA" has a background color and rounded corners, transforming it into a prominent button.
+3. There are no doubts, ambiguities, or missing elements. The change is clear.
+
+Final verdict:
+✅ Fully Applied

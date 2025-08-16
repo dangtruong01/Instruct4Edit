@@ -1,0 +1,1 @@
+Make the date text smaller and a lighter shade of gray.

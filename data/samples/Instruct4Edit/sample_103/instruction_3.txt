@@ -1,0 +1,1 @@
+On the article page, make the sidebar containing related articles always visible, instead of sliding in.

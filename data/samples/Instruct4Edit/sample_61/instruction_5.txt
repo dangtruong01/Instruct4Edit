@@ -1,0 +1,1 @@
+Change the background color of the entire footer area to be a slightly darker shade, making it visually distinct from the main content.

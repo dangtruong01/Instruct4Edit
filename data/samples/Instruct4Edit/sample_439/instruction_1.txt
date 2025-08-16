@@ -1,0 +1,1 @@
+Center the main heading ("Cookie 条款") and make it larger.

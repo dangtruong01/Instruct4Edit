@@ -1,0 +1,1 @@
+Add more empty space above and below each main content heading, like "Symptom" and "Environment", to create clearer visual breaks between sections.

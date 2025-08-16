@@ -1,0 +1,1 @@
+When a user hovers over any main navigation item, give it a subtle highlight or a slight animation to indicate it's interactive.

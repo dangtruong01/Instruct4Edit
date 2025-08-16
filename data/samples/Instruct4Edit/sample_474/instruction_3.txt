@@ -1,0 +1,1 @@
+Change the background color of the "贊助支持創作者，成為他繼續創作的動力吧！" section to a lighter shade.

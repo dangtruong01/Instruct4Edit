@@ -1,0 +1,1 @@
+Ensure the navigation links in the very top bar are aligned to the right, similar to the main site navigation below the logo, for better consistency.

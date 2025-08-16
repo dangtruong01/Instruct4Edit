@@ -1,0 +1,1 @@
+The related posts section at the bottom of the article should have a more distinct visual separation, maybe a border or background.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires increasing the font size and making the main heading bolder.
+2. Comparing the two images, the main heading "Genshin Impact tier list – best characters in May 2023" appears to be larger and bolder in the 'after' image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

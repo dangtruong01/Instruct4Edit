@@ -1,0 +1,1 @@
+Increase the spacing between the different sections in the sidebar, such as between the "Categories" list and the "Gedachtenspinsels" description.

@@ -1,0 +1,1 @@
+Increase the font size and make the ticket status, type, and resolution labels a brighter, more distinct color.

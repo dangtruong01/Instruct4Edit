@@ -1,0 +1,1 @@
+The navigation links should highlight or change color when hovered over to indicate they are interactive.

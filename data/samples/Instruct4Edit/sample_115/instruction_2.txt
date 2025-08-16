@@ -1,0 +1,1 @@
+Change the background color of the top navigation bar, which contains links like 'FAQ' and 'Members List', to a lighter, more muted tone.

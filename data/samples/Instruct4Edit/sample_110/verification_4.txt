@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow effect to the main content area to give it some depth. The main content area is considered to be the white section with the heading "BBC Microbit" and the subsequent content.
+2. Comparing the two images, there is no noticeable shadow added to the content area in the second image. It appears identical to the first image in terms of shading and depth.
+3. There is no indication of a shadow effect. The content area looks flat in both images.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Give the boxes a subtle border to better define them.

@@ -1,0 +1,1 @@
+Add a subtle, consistent box shadow effect to each of the university and organization logos displayed in the large green footer area.

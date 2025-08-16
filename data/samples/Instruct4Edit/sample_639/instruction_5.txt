@@ -1,0 +1,1 @@
+Make the highlighted, emphasized words within the paragraphs appear in a bolder, contrasting color.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle shadow to the header. The header is the very top part of the website containing the menu options.
+2. Visually comparing the two images, I do not observe any noticeable shadow being added to the header in the second image.
+3. There is no change in the header between the two images.
+
+Final verdict:
+❌ Not Applied

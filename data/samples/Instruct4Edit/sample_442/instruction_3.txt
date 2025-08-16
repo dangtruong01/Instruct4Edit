@@ -1,0 +1,1 @@
+Change the background color of the search box in the header to be a lighter shade of gray.

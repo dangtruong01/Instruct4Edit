@@ -1,0 +1,1 @@
+Change the color of the "Purchase Lessons" button in the header to a brighter, more inviting shade of blue.

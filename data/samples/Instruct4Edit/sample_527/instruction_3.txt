@@ -1,0 +1,1 @@
+Increase the size of the product title text to make it more prominent.

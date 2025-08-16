@@ -1,0 +1,1 @@
+Give each Pokémon name in the main list a slight background fill and a small amount of padding to create more visual separation between them.

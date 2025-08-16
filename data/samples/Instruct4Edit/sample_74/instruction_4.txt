@@ -1,0 +1,1 @@
+Center the social network icons in their container on the right sidebar.

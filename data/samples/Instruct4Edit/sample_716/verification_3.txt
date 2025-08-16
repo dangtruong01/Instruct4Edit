@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the text shadow on the heading "DJAMBOOLA MARTINIQUE" more subtle, meaning less pronounced or intense.
+2. Comparing the two images, the text shadow on the "DJAMBOOLA MARTINIQUE" heading is noticeably reduced in the "after" image. It appears fainter and less prominent.
+3. There are no apparent ambiguities or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

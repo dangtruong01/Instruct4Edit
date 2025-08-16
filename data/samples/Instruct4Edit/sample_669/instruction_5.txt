@@ -1,0 +1,1 @@
+Add more vertical spacing between the different sections in the right-hand sidebar, such as between the search area and the list of recent posts.

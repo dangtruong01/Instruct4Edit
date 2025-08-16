@@ -1,0 +1,1 @@
+Reduce the large empty space that appears directly below the fixed navigation bar at the top of the main content area, bringing the page's content higher up for a more compact layout.

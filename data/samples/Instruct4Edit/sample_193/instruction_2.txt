@@ -1,0 +1,1 @@
+Increase the spacing between the profile images and the names in the "Followers" list.

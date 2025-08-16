@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a border around the image in the main content area.
+2. Comparing the two images, the "after" image has a border around the image in the main content area, while the "before" image does not.
+3. There are no ambiguities or missing elements. The border is clearly visible and separates the image from the surrounding text.
+
+Final verdict:
+✅ Fully Applied

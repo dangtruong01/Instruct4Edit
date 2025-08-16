@@ -1,0 +1,1 @@
+The pale background behind the article list should be a bit lighter, it's too distracting.

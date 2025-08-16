@@ -1,0 +1,1 @@
+The cookie banner should be at the very bottom of the screen instead of floating in the middle.

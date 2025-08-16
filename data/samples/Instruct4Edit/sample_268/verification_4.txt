@@ -1,0 +1,9 @@
+❌ Not Applied
+
+Step-by-step justification:
+1. The instruction is to increase the size of the text in the browsebox. The browsebox is the search box in the top right corner.
+2.  There is no change in the size of the text in the search box in the after image compared to the before image.
+3. The change is not visible.
+
+Final verdict:
+❌ Not Applied

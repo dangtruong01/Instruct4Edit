@@ -1,0 +1,1 @@
+Increase the spacing between the "See all snapshots" link and the table above it.

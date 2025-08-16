@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle gray background to the "New Posts" section on the right.
+2. In the "after" image, a gray background is clearly visible in the "New Posts" section, which was not present in the "before" image. This visually separates the "New Posts" section from the main content.
+3. There are no ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

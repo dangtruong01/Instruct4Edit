@@ -1,0 +1,1 @@
+Move the main navigation menu from its current position at the bottom of the screen so that it appears directly under the main header when opened.

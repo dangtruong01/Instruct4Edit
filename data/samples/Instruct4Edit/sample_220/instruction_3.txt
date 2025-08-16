@@ -1,0 +1,1 @@
+The bar below the main title with "Day," "Week," "Month," etc., is a solid color; give each navigation option a slightly distinct button-like appearance and ensure the text is easily legible without underlines.

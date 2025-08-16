@@ -1,0 +1,1 @@
+Improve the readability and visual appeal of the "Recent searches" list on the right sidebar by adding a bit more vertical space between each search entry.

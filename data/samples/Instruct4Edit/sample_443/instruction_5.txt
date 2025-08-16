@@ -1,0 +1,1 @@
+Add a small icon next to each email address in the footer to visually indicate they are email addresses.

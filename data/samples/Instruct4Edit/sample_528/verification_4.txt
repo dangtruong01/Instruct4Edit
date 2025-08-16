@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to visually highlight the "recent posts" widget. This should be achieved either with a background color change or a border.
+2. Comparing the two images, the "recent posts" widget (located at the bottom left) does not show any change in background color or border.
+3. There is no ambiguity. The change is simply not present.
+
+Final verdict:
+❌ Not Applied

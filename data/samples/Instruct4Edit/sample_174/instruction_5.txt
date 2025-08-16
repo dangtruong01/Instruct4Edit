@@ -1,0 +1,1 @@
+Adjust the spacing between the author's name and the description "Descriere:".

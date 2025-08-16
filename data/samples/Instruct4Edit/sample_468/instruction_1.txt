@@ -1,0 +1,1 @@
+Give the navigation links a lighter background color to improve readability.

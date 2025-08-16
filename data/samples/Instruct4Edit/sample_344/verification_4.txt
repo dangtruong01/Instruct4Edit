@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the logo in the header and footer the same size.
+2. By comparing the two images, there is no apparent change to the size of the logos.
+3. The task is not applied as the logo sizes appear to be different in both images.
+
+Final verdict:
+❌ Not Applied

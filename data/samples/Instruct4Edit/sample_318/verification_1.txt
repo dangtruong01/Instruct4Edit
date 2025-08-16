@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the borders of the main table lighter and less harsh. This means the lines should appear visually thinner or of a lighter color compared to the "before" image.
+2. Visually comparing the images, the table borders appear identical in both images. There is no perceptible change in the line weight or color of the table borders.
+3. There is no doubt that the borders look the same in both images.
+
+Final verdict:
+❌ Not Applied

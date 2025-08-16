@@ -1,0 +1,1 @@
+Improve the contrast of the text within the table cells to make it easier to read.

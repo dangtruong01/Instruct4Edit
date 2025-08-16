@@ -1,0 +1,1 @@
+Add some visual separation (like a subtle line or background color) to distinguish the footer.

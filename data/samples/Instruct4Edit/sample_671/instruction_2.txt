@@ -1,0 +1,1 @@
+Soften the appearance of all input fields and buttons by giving their corners a subtle roundness.

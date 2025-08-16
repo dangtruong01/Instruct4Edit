@@ -1,0 +1,1 @@
+Increase the size of the company logo in the header to make it more noticeable.

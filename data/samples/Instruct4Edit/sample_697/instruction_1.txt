@@ -1,0 +1,1 @@
+Reduce the overall height of the top navigation bar to make it feel less bulky.

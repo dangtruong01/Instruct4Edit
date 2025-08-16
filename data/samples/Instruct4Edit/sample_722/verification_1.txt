@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the size and boldness of the main title on the privacy policy page.
+2. Comparing the before and after images, the title "Política de privacidad" appears larger and bolder in the after image.
+3. There are no ambiguities or missing elements in the implementation.
+
+Final verdict:
+✅ Fully Applied

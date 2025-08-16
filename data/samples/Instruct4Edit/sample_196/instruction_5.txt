@@ -1,0 +1,1 @@
+Right-align the "Size" and "Modified" columns in the table for better readability.

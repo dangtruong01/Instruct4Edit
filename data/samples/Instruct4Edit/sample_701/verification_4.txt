@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to align the social media icons in the footer to the left side instead of the right side.
+2. Comparing the two images, the social media icons in the footer have been moved from the right side to the left side in the second image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

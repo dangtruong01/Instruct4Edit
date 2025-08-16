@@ -1,0 +1,1 @@
+Transform the image-based payment button into a standard, visually consistent button with clear text.

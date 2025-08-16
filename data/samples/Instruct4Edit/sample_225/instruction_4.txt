@@ -1,0 +1,1 @@
+Increase the spacing between the news article title and its date in the main content list, making each entry clearer and easier to read.

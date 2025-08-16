@@ -1,0 +1,1 @@
+Adjust the main navigation links to have a slightly smaller font size and a softer, less intense color for the accent line beneath them.

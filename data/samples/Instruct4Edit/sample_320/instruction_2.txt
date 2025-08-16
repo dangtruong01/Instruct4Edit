@@ -1,0 +1,1 @@
+Widen the main content area and the sidebar to utilize more horizontal space on larger screens.

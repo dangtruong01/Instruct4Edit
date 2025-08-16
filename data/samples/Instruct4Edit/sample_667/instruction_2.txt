@@ -1,0 +1,1 @@
+Transform the 'MAKE A DONATION' text block in the header into a prominent, clearly clickable button with a contrasting background color and slightly rounded corners.

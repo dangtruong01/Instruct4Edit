@@ -1,0 +1,1 @@
+Change the main background color to a lighter shade of gray.

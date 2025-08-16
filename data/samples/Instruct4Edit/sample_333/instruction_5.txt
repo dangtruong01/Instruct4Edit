@@ -1,0 +1,1 @@
+Lighten the background color of the very bottom part of the page footer and ensure the text is clearly visible against it.

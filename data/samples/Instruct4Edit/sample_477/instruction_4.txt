@@ -1,0 +1,1 @@
+Change the color of the "Archives for December 2019" heading to a darker shade of blue.

@@ -1,0 +1,1 @@
+Change the button that says "Cargar más productos" to use a solid background color instead of an outline, and make the text white.

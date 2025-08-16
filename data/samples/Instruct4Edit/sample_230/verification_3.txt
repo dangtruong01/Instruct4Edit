@@ -1,0 +1,20 @@
+As a highly cautious UI/UX reviewer, here is my assessment:
+
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction asks for two elements to visually stand out in the left-hand menu:
+    *   The currently selected item.
+    *   Its parent category.
+    This standing out should be achieved through a "clear background color or bolder text."
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Selected Item:** In the "after" image, the menu item "Новости" (News) in both the top-left flat menu and the bottom-left nested menu ("Раздел" > "Компания" > "Новости") now has a light grey background color. This successfully makes the "currently selected item" stand out.
+    *   **Parent Category:** For the nested "Новости" item, its parent category is "Компания". In the "after" image, "Компания" is *not* highlighted with a background color or bolder text. It is merely expanded to show its sub-items, which was already the case in the "before" image for the entire list (though "Новости" was not selected). The expansion of a parent category does not fulfill the requirement of making the parent *itself* visually stand out with a "clear background color or bolder text."
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    *   **Ambiguity for top-left menu:** The top-left menu ("Главная", "Компания", "Новости") appears to be a flat list. If "Новости" is selected, there isn't an obvious "parent category" in the visual hierarchy of *that specific menu* to highlight. However, the instruction implies a scenario where a parent *would* exist, which is clearly the case in the bottom-left nested menu.
+    *   **Missing Element for bottom-left nested menu:** The most critical missing element is the highlighting of the parent category "Компания" for the selected "Новости" item in the nested menu. It does not visually stand out with a background color or bolder text as instructed.
+
+**Final verdict:**
+❌ Not Applied

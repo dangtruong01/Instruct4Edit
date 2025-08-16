@@ -1,0 +1,1 @@
+Give the main navigation bar at the very top of the page a solid background color and add more internal padding around the menu items to make them stand out.

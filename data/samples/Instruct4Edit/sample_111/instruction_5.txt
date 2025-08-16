@@ -1,0 +1,1 @@
+In the footer, make the titles above each column of links a brighter, more noticeable color.

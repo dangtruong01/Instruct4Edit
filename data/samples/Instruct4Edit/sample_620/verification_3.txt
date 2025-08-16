@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is to darken the red color of the button "Download a printable version of this chart here."
+2. Comparing the images, the button "Download a printable version of this chart here." is unchanged in color between the two images.
+3. The change is not visible.
+
+Final verdict:
+❌ Not Applied

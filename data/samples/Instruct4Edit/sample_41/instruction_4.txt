@@ -1,0 +1,1 @@
+4. Add some padding around the image in the main content to give it some breathing room.

@@ -1,0 +1,1 @@
+Make the main navigation links, such as "HOME" and "WANT AN ACCOUNT?", appear as a horizontal row, instead of a table.

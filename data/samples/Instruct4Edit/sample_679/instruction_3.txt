@@ -1,0 +1,1 @@
+Add a subtle border or separator between the main movie description and the detailed information below it (genre, actor, director).

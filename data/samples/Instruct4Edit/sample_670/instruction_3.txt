@@ -1,0 +1,1 @@
+Ensure all text input fields, like the search bar and comment boxes, have a subtle border or background color to make them stand out more clearly.

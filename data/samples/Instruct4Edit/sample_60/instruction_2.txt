@@ -1,0 +1,1 @@
+Remove the `>>` and `<<` symbols from all the navigation menu items and the content links, so only the text remains.

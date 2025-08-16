@@ -1,0 +1,1 @@
+Make the video thumbnails a bit larger, and ensure they all have the same aspect ratio to prevent stretching.

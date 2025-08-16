@@ -1,0 +1,1 @@
+Make the links in the footer less prominent by making them a darker color.

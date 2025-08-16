@@ -1,0 +1,1 @@
+Change the color of the menu text to a darker, more readable shade of gray.

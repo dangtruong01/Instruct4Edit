@@ -1,0 +1,1 @@
+Increase the width of the video player in the "How to renew" section so it fills more of the available space, and remove its dark border.

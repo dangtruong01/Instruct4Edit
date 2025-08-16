@@ -1,0 +1,1 @@
+Give the login and main menu sections at the top of the page a more streamlined appearance, perhaps by consolidating them or using a simpler layout.

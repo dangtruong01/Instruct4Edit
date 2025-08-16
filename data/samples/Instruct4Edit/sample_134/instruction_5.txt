@@ -1,0 +1,1 @@
+Make the individual 'Level' entries in the list appear more distinct and clickable by giving them a slightly different background color, gentle rounding on their corners, and a touch more vertical padding.

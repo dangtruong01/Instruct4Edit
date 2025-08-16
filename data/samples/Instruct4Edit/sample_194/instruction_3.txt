@@ -1,0 +1,1 @@
+Add a subtle shadow to the image carousel to make it stand out from the background.

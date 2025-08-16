@@ -1,0 +1,1 @@
+Remove the borders around the main content area to give it a cleaner look.

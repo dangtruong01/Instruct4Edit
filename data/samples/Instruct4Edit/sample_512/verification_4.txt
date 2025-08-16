@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the color of the submit button in the comment section to a more visually prominent color. This implies making the button stand out more.
+2. In the after image, the submit button has a brighter, more yellowish color compared to the original image, where the button's color blends more with the background.
+3. The instruction is clear, and the change is visible.
+
+Final verdict:
+✅ Fully Applied

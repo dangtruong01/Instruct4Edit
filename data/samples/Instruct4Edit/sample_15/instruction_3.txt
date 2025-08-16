@@ -1,0 +1,1 @@
+Add some space below the main image to separate it from the content.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to give the open mobile menu a dark semi-transparent background.
+2. In the after image, the menu is open (represented by the sandwich icon) and a dark semi-transparent background is visible behind the menu items. This change is compared to the before image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Add some visual separation, like a subtle line or more spacing, between the article text and the header section.

@@ -1,0 +1,1 @@
+Give the "SIGN UP" and "LOGIN" buttons a more modern, rounded look.

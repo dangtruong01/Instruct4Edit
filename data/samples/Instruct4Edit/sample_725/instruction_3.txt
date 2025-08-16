@@ -1,0 +1,1 @@
+Add a subtle gray background to the sidebar.

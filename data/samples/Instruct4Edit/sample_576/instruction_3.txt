@@ -1,0 +1,1 @@
+In the footer, change the background color to a dark gray to improve readability of the white text.

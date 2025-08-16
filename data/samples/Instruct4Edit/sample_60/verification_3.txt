@@ -1,0 +1,28 @@
+**Step-by-step justification:**
+
+1.  **What is the intended visual change?**
+    The instruction aims to increase the vertical space specifically *below* each main category heading (e.g., "Cinéma", "Graffiti & Hip-Hop") and *before* the first item listed under that category.
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    I have meticulously compared the vertical spacing for each identified main category heading:
+    *   **Cinéma:** The space between "Cinéma" and "Le Fanzinophile" is visibly larger in the "after" image.
+    *   **Graffiti & Hip-Hop:** The space between "Graffiti & Hip-Hop" and "Le Fanzinophile" is visibly larger in the "after" image.
+    *   **Graphzines:** The space between "Graphzines" and "Graphzines.net" is visibly larger in the "after" image.
+    *   **Metal:** The space between "Metal" and "France Metal Museum" is visibly larger in the "after" image.
+    *   **Manga / Japanimation:** The space between "Manga / Japanimation" and "Le blog des fanzines" is visibly larger in the "after" image.
+    *   **BD Alternative:** The space between "BD Alternative" and "Fanzinorama" is visibly larger in the "after" image.
+    *   **Fanfic et littérature fantastique:** The space between "Fanfic et littérature fantastique" and "Noxere" is visibly larger in the "after" image.
+    *   **LGBT:** The space between "LGBT" and "He ! He ! Zines" is visibly larger in the "after" image.
+    *   **Supporteur de football:** The space between "Supporteur de football" and "Zines du France" is visibly larger in the "after" image.
+    *   **Jeux de rôles:** The space between "Jeux de rôles" and "Fanzines JdR Wiki" is visibly larger in the "after" image.
+    *   **Zines & Docs:** The space between "Zines & Docs" and "A propos: Fanzinoscopes" is visibly larger in the "after" image.
+    *   **Rock / Punk:** The space between "Rock / Punk" and "20 ans de Fanzines rock" is visibly larger in the "after" image.
+    *   **Zine DIV:** The space between "Zine DIV" and "Zine_DIV_2015" is visibly larger in the "after" image.
+
+    In all these cases, the increase in vertical spacing is clearly visible and consistent.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    No, there are no doubts or ambiguities. The instruction specifically mentioned "main category heading, such as 'Cinéma' or 'Graffiti & Hip-Hop'". These examples are distinct in their styling (bold, left-aligned, not indented) compared to sub-headings or list items. The change has been applied only to elements that match this definition of a "main category heading". For instance, "A propos: Fanzinoscopes" which is a sub-heading under "Zines & Docs" and is not styled as a main category heading, correctly did not have its spacing increased. This demonstrates a clear and correct interpretation of the instruction.
+
+**Final verdict:**
+- ✅ Fully Applied

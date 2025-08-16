@@ -1,0 +1,1 @@
+Change the font of the footer links to a lighter, more readable color.

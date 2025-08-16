@@ -1,0 +1,1 @@
+The footer widgets' text is too close together. Add more spacing between them for better readability.

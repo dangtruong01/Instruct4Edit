@@ -1,0 +1,1 @@
+Make the email address and social media icons in the top bar a bit bigger and give them more space between each item.

@@ -1,0 +1,1 @@
+Make the main navigation menu at the top sticky so it stays visible when scrolling down the page.

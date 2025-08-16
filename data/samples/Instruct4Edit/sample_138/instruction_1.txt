@@ -1,0 +1,1 @@
+Make the phone number and reception hours in the top right of the header stand out more by increasing their font size and making the phone number a different, bold color.

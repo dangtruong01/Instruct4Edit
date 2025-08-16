@@ -1,0 +1,1 @@
+Make the main navigation links at the very top of the page visually respond when a user hovers over them, indicating they are interactive.

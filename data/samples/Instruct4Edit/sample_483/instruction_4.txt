@@ -1,0 +1,1 @@
+Adjust the font size of the article title to be larger and bolder.

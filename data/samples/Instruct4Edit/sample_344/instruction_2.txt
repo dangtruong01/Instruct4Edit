@@ -1,0 +1,1 @@
+Add some visual separation between the search results boxes so they don't look so crowded.

@@ -1,0 +1,1 @@
+Change the color of the "KFCの記事一覧" heading to a shade of red, making it stand out more.

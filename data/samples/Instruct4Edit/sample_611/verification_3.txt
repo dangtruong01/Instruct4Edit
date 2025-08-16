@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the "En savoir plus" links look more like buttons. This implies adding a background color, likely a border, and potentially changing the font style or adding padding to make the links appear more button-like.
+2. Comparing the before and after images, the "En savoir plus" links in the "after" image have a green background, white text, and rounded corners, giving them the appearance of buttons.
+3. The change is clearly visible and addresses the instruction.
+
+Final verdict:
+✅ Fully Applied

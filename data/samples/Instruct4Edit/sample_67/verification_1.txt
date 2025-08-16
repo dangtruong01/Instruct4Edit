@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to highlight the currently active page in the main navigation more clearly. This implies a visual distinction, such as a different color, background, underline, or bolding for the active page's navigation link.
+2. Comparing the two images, there is no visual difference in the main navigation. The "Home", "About", "Services", and "Contact" links appear identical in both images.
+3. There is no indication of any change to highlight the active page.
+
+Final verdict:
+❌ Not Applied

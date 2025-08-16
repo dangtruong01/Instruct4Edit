@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the thumbs up and thumbs down buttons to the brand's primary color when they're clicked (presumably when they're in the "selected" or "active" state).
+2. In the after image, the thumbs up and thumbs down buttons appear to have a blue fill when selected, which is likely the brand's primary color. This is a clear change from the before image, where they appear to be grayscale.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Replace the "Facebook" and "Twitter" text links in the footer's "Get In Touch" section with their actual social media brand icons, making them visually clickable.

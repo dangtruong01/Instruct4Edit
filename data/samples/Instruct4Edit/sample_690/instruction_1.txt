@@ -1,0 +1,1 @@
+Make the main header background a consistent, very light semi-transparent color, ensuring it remains visible and distinct as the user scrolls.

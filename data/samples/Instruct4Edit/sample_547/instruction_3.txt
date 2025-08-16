@@ -1,0 +1,1 @@
+Make the background behind the main content a gradient, transitioning from a dark color at the top to a lighter color at the bottom.

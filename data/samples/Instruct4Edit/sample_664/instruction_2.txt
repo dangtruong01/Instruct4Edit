@@ -1,0 +1,1 @@
+Increase the font size and make the main heading bolder to draw more attention to the article title.

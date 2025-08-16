@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to darken the background color of the footer.
+2. Comparing the before and after images, the background color of the footer in the after image appears darker than the footer in the before image.
+3. There are no doubts or ambiguities. The footer at the bottom is indeed slightly darker.
+
+Final verdict:
+✅ Fully Applied

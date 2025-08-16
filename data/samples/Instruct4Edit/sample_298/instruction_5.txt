@@ -1,0 +1,1 @@
+5.  Make the breaking news ticker text bolder.

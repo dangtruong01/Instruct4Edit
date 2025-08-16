@@ -1,0 +1,1 @@
+Make the main navigation bar at the top of the page a solid, slightly darker yellow color, instead of the current lighter yellow with some transparency.

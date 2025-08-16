@@ -1,0 +1,1 @@
+Add more vertical space between each document title and its corresponding date in the main list, and make the date text slightly smaller or a lighter color.

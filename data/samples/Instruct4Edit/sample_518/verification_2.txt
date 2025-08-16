@@ -1,0 +1,6 @@
+Step-by-step justification:
+1. The instruction requires adding a subtle shadow effect to the "CHUYEN KHOA" dropdown menu items on hover.
+2. I am unable to interact with the image, making it impossible to confirm if a shadow effect appears on hover. Since the requirement includes the hover state, and I cannot see that state, I cannot confirm if the instruction has been applied.
+
+Final verdict:
+❌ Not Applied

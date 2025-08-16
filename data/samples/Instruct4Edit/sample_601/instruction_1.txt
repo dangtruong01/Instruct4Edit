@@ -1,0 +1,1 @@
+Make the "Mine tilbud" button in the header a brighter, more attention-grabbing color.

@@ -1,0 +1,1 @@
+Space out the buttons in the "buttons" section so they don't look so crammed together.

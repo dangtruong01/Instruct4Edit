@@ -1,0 +1,1 @@
+Make the background color of the main navigation bar, where the logo and menu items are located, match the deep red color used in the very top action bar and the footer.

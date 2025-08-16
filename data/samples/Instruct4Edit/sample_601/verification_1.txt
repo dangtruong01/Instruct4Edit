@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to make the "Mine tilbud" button in the header a brighter, more attention-grabbing color.
+2. In the "after" image, the button "Mine tilbud" in the header is now yellow, which is brighter and more attention-grabbing compared to the original greyish-white button.
+3. There are no ambiguities or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

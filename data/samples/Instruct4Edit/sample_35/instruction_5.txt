@@ -1,0 +1,1 @@
+5.  Change the font size of the site title to be larger.

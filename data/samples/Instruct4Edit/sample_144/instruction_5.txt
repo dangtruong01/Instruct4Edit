@@ -1,0 +1,1 @@
+Add more vertical space around the large image displayed within the article content.

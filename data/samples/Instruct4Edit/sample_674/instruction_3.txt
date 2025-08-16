@@ -1,0 +1,1 @@
+Add a thin, subtle border around the large image of the artwork.

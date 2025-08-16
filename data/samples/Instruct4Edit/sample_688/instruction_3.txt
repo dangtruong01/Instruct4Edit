@@ -1,0 +1,1 @@
+Add more vertical space between the input fields within the login and registration forms.

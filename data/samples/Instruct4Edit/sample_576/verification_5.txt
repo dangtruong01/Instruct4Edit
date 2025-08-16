@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a thin border to the images on the right sidebar.
+2. The right sidebar appears to be empty in both images. Therefore, the instruction cannot be applied.
+3. There are no images to apply the border to on the right sidebar, making the instruction impossible to follow.
+
+Final verdict:
+❌ Not Applied

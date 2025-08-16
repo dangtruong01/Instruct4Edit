@@ -1,0 +1,1 @@
+Change the color of the links within the article content to a brighter, more distinct color.

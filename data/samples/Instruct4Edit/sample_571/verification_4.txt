@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to reduce the size of the hotel logo located in the footer.
+2. I cannot see the footer in either image, hence I cannot assess if the logo size has changed.
+3. I cannot determine if the instruction has been implemented as the footer is not displayed.
+
+Final verdict:
+❌ Not Applied

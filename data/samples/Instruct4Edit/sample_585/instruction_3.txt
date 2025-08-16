@@ -1,0 +1,1 @@
+Add a subtle border around the sidebar widget to visually separate it from the main content.

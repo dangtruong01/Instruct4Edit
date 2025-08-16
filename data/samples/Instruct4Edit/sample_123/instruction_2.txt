@@ -1,0 +1,1 @@
+Update the main navigation bar's background and link text colors to a more modern palette, and add a subtle hover effect to menu items.

@@ -1,0 +1,1 @@
+Give the page a wider margin on the left and right sides.

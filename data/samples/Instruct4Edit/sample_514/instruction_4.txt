@@ -1,0 +1,1 @@
+In the footer, make the social media QR code smaller and center it horizontally within its box.

@@ -1,0 +1,5 @@
+❌ Not Applied
+
+1.  The instruction is to change the background color of the search bar to light grey. There is no visible search bar in either image.
+2.  Since there is no search bar present, the background color change cannot be assessed.
+3.  The lack of a search bar makes the instruction impossible to implement or evaluate.

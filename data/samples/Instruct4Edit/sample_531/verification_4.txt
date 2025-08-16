@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to increase the spacing between the navigation links in the expanded menu. The navigation links are "Menu", "Contact", "English", "Privacy Policy", and "Terms Of Service" located in the footer.
+2. By comparing the two images, the spacing between the navigation links appears to be the same.
+3. There is no visible change.
+
+Final verdict:
+❌ Not Applied

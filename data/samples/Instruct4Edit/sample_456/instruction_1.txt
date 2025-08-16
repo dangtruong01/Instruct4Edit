@@ -1,0 +1,1 @@
+Remove the borders from all the tables to give the page a cleaner look.

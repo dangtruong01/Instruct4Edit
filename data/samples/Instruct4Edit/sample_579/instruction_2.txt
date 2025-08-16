@@ -1,0 +1,1 @@
+The table headers on both tables need more visual separation from the data rows. Consider using a darker shade or a slightly different background color.

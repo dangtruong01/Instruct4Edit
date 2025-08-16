@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the footer a darker shade of green. The footer is the area at the bottom of the page containing the copyright information and cookies agreement.
+2. Comparing the before and after images, the green of the footer in the after image appears to be visually darker than the footer in the before image.
+3. There are no ambiguities or missing elements. The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,1 @@
+Design the "Jouer le jeu" option in the top navigation as a prominent button with a contrasting color, making it easily clickable and noticeable.

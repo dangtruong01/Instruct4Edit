@@ -1,0 +1,1 @@
+Increase the space between the main image and the article title within the news section.

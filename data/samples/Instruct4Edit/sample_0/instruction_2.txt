@@ -1,0 +1,1 @@
+Make the background of the "About", "Snapshots", etc. navigation items slightly transparent.

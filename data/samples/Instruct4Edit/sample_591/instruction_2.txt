@@ -1,0 +1,1 @@
+Adjust the navigation menu to have a light gray background and a subtle border at the bottom.

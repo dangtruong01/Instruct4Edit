@@ -1,0 +1,1 @@
+Adjust the spacing between the main site title "Salesalato" and its tagline "Apologetica a fumetti" to bring them a bit closer together vertically.

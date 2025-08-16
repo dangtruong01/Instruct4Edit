@@ -1,0 +1,1 @@
+In the footer, change the horizontal rule to a thinner, lighter gray line.

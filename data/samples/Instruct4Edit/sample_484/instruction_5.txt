@@ -1,0 +1,1 @@
+The footer should have a background color that contrasts more with the main content area so it stands out.

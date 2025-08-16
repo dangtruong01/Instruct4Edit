@@ -1,0 +1,1 @@
+Add a border around the comment form to visually separate it from the content above.

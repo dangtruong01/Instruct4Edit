@@ -1,0 +1,1 @@
+Change the color of the pagination's active page number to a brighter, more prominent color.

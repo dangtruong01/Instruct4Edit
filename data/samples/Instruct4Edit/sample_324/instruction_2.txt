@@ -1,0 +1,1 @@
+When a user's mouse hovers over an item in the main navigation menu, make the text slightly bolder and change its color to a clear, bright blue.

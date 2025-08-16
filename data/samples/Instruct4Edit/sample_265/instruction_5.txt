@@ -1,0 +1,1 @@
+5.  Make the chat window's background a bit lighter.

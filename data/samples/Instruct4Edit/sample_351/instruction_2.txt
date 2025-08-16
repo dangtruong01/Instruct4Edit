@@ -1,0 +1,1 @@
+The carousel indicators should be a brighter, more noticeable color.

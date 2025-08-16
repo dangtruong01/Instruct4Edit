@@ -1,0 +1,1 @@
+Adjust the layout of the app description text so it flows more neatly around the app image, with clear spacing between the image and the text, preventing it from appearing too tightly packed.

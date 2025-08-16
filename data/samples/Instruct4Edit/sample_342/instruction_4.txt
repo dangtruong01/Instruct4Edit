@@ -1,0 +1,1 @@
+Redesign the search input field and button in the sidebar to have a more modern appearance; make the input field a bit taller and give the search button a distinct background color and rounded corners.

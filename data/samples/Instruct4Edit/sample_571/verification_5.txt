@@ -1,0 +1,9 @@
+❌ Not Applied
+
+Step-by-step justification:
+1. The instruction asks to change the color of the footer links to a lighter, more readable color.
+2. I cannot locate the footer or any footer links in either image.
+3. It's possible the footer is located below the shown content, or the instruction is ambiguous/faulty.
+
+Final verdict:
+❌ Not Applied

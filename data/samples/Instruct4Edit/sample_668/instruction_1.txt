@@ -1,0 +1,1 @@
+When you move your mouse over the main navigation links at the top of the page (like "Home" or "Corsi"), make them change to a different color.

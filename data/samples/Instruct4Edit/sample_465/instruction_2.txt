@@ -1,0 +1,1 @@
+Make the "User Name" and "Password" input fields on the right side of the header wider so they're easier to type into.

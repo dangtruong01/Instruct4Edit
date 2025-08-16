@@ -1,0 +1,1 @@
+Increase the visual prominence and size of the logo at the top of the page, and ensure it has ample padding around it within its section.

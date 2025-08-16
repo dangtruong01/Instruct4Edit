@@ -1,0 +1,1 @@
+Make the logo in the top navigation bar visually stand out by adding a border around it.

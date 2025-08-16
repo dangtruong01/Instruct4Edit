@@ -1,0 +1,1 @@
+Group the green navigation items on the left sidebar more clearly, perhaps by adding a section title or increasing the vertical space between individual items.

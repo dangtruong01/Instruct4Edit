@@ -1,0 +1,1 @@
+Add a light background color to the section below the article where the post date and author are listed, to visually separate it.

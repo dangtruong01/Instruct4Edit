@@ -1,0 +1,146 @@
+there should be no full name, but first name and last name located in one line. Result from entering last name and first name should be present under the photo upload as a title.
+Add a top bar with a nice dark violet background color and the menu items: Dashboard, Messages and Settings 
+Add borders to the features and increase the spacing in between
+Add a border to the icons, make them rounded and center aligned
+Change the body background to a light gradient
+put the player in the center
+Add a menu here; with three items; the first has a profile
+the second has notifications and the last is a danger zone
+Use a black and white gradient
+Center the text and images
+Make it dark mode
+Remove the image
+Add an image field and below add a form group with the title: "Delivery Schedule" and the radio buttons: "Immediately" and "Specific Time". The "Specific Time" should display a date-time field when clicked
+Make the date-time field with 50% of the form and change the submit button color to dark purple
+Make the submit button widh 50% of the form and change the texto to "Review and Send"
+make it a 10 col, 6 row grid. Here's how much space the items should take:
+item1: 4 cols, 2 rows
+item2: 6 cols, 2 rows
+item3: 5 cols, 1 row
+item4: 2 cols, 2 rows
+item5: 3 cols, 2 rows
+item6: 3 cols, 3 rows
+item7: 2 cols, 1 row
+item8: 5 cols, 2 rows
+make the knowledge base item take up the same amount of space as the new feature item. make the custom mdx components item take up 2 rows and 3 cols
+make the cutsom mdx components item take up 1 more column and put the knowledge base component below the new feature component.
+put this inside a centered max-w-7xl container and add some vertical margin
+make the grid rows number 4 instead of 6
+remove the list elements and make the texts smaller
+x button should not have a background on hover, and the color of the x should be same as on the text. Photo upload should be triggered by pressing on the image itself. When photo is not present, a thumbnail with user icon should be used. When firstname and lastname are not available for the title, use Maximilian as a fristname and Mustermann as a lastname
+make me a screen which is filled with inputs and texteareas for these sections
+
+vitals
+
+need to have input for heart rate oxygen body temp, respiratory rate,  weight, height, bmi
+
+prescription: need to have input for prescription frequency and start and end date
+
+diagnosis: whatever it is required for diagnosis
+and for whatever it is required for symptoms
+give me icons for respiratory rate, blood pressure, bmi, height, weight, oxygen saturation
+change the theme and color combination are #e4c1f9 and #a9def9.and also give a search bar in navbar
+change color combination #fcf6bd and #ff99c8
+change color combination #38a3a5 and #22577a
+color combination #000814 and #a9def9
+Make the names of the senders on the left sidebar slightly small font size. Add 3 more rows of emails on the left sidebar. Add space on the right of the icon buttons like compose and delete, in between the icon and the text. Find a new icon for compose, use an email icon. Delete button icon should be a trash icon. 
+Make the icons on the right side part of a fixed navigation bar fixed only at the top of the right section and not the left sidebar. It should have a border on the bottom between the toolbar and the main email viewer. There should be no text on the buttons, just icons, for compose, delete, etc. Add a search icon to the far right, fixed, of this new toolbar.
+
+On the left sidebar, make the dates fixed in the top right of each row item. So they're on the same level of the sender name, but fixed on the right side. 
+Add a third column on the far left. This column should be a vertical navigation that has different sections. For example, the top section has "Inbox", "Flagged", and "All Sent" with icons to the left. The second section below, separated by a divider, has different folders. "Work", "Expenses", "Personal". Each one of these items has the same folder icon to the left.
+
+The leftmost folder view should take up 15% of the screenwidth. The list of emails should take up 25%. And then the right most section should take up 60% for the fixed navbar and the email viewer.
+In the left most column, rather than having dividers between each row, only have a divider between sections. So the first three items would not have dividers. One divider between that section and the folder ones below it. Make the font size and the icon size for all items in the leftmost sidebar smaller. All a count icon on the far right side of the leftmost sidebar row. For example, inbox would have a count "badge" of "37" on the right of the row.
+add options for multiple text formats like markdown
+On the rightmost column, the fixed navigation bar at the top should be sticky. There should be no border on the buttons. Then should be right next to each other, no margin. Emulate an Apple Mac toolbar. Keep the same options.
+
+Nothing else about the UI should change.
+Max width 360px
+Add reply icon on date
+Visualize a minimalist design with the phrases 'Develop.', 'Preview.', and 'Ship.' in large, bold typography. These words are colored in varying shades of blue and black. Just below, a statement reads 'Vercel's frontend cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.' At the bottom, two rectangular buttons invite users to 'Start Deploying' or 'Get a Demo'.
+the buttons should be centered horizontally
+Make the title texts larger
+The buttons should be separated by 8px gap
+the result items should be horizontal. the important information is song title, artist, genres, moods. add action buttons to download music, add to project, and open details
+the item height is way too much. keep only the title and artist in one column, genres and moods should be horizontally centered. the whole item should be flex row
+each item should be full width and justify-content space-between
+move the y inline into the navigation
+do not use <List> component. use simple divs
+awesome! now add a nice-looking sidebar with a logo+company name. below these buttons: "search", "my projects". and move the search results content to the right of the sidebar
+great start! make the app full-screen height, move the logo and company name at the same line. align the sidebar buttons to the left and add some nice hover and active states.
+add a stylish, full-width search bar above the search results
+make this a container and max-width-5xl
+make the <collapsible>, <collapsibletrigger>, and <card> full width
+make this image 16px by 16px
+add a menubar to the top of the right side section. inside the menubar add a notification bell icon button and a user icon button
+make the user icon open a dropdown menu with these items: email@domain.com, Profile settings, Support, Log out
+the user icon button should work with a dropdownmenu component, not a select
+Remove the logo
+use real song data for the search result item text
+make the input background transparent
+make it dark mode
+add a filter button to the right of the searchbar. it should indicate that it filters the search result by clicking on it or hitting cmd + k
+change text "filters" to the filter button. 
+add a new section to the sidebar, call it "My Projects". Inside that section, add these buttons: "TV Show 23Q4", "Podcast 23Q2", "See all projects..."
+make the background a dark-mid-slate color
+remove the logo image
+make the background color gray-800
+make the background gray-950
+make the sidebar and main section full height
+move the heading to the left, change it to "notifications", add a description
+add a separator below the deacription. add timestamps for each log item
+remove the separators between notifications. make the icons sleeker
+align the icons and title to the top
+indicate unread notifications. make the first, and third notifications unred
+add a hover effect for the items and make them clickable
+make the list items full width
+make the "Notifications" text bold
+okay the sidebar is perfect now.
+
+Moving on to the transactions list, let's have:
+- a "Transaction" h1 title, with a "Download" dropdown in the same line at the very right side
+- Move the date to the first column, and use a a short format "Mar 12"
+- second column is Description, and come up with some random purchases liek "WeWork", "IKEA", "Home Depo", "Burger King"
+- 3rd column is Category, categorize the transactions into "food", "home office", and other relevant categories. use a tag icon + different background colors for each category
+- 4th column is amount
+- 5th column is a three-dot dropdown menu
+the color of the category tags must be the same for a given category 
+Remove the buttons and replace them with only gray text aligned to left and separated by 14px: Reply Ignore Cancel
+Add a table in the inner sections, with 5 example rows each
+Add another column to the left "Backlog". Make each colum's background color lighter
+Remove background of columns, only keep background of individual tasks. Make each column's title smaller and lighter (maybe medium weight)
+Add a light gray (gray-100) background to the main area
+change each board column (backlog, to do, ...) padding to be 0. Add an icon to each column's title
+Add 3 tasks to backlog, make each icon smaller
+make text smaller
+Change to a girl name, less generic
+lets add some spacing for the column titles, separate titles with the background colors, and add tags to each card
+add a storypoint number to each card, add a sum of the storypoints in each column and add a header with menu
+Change this text to "Message Title" and add an small label up wih the text "Example App". Add a white bell icon inside a black circle before "Example App".
+show storypoints everywhere just as a number with a slight background
+keep only a number in storypoints, without sp. move storypoints number to the right. make tags smaller and add multiple tags to each card. Add a longer description for each card.
+add some padding for the columns container, so columns do not touch the edges. Make storypoint element smaller. Add a nice rounding and glass-like shadow for the header.
+Add background to the cards. Make a dark mode interface.
+Add a horizontal line between tags and description. Add a small tag of assignee name after the description
+make the profile icon smaller (w-7 h-7)and the input field longer. the width should be roughly 512px and height is roughly 44px
+make it shadow-lg and shadow-black/40
+
+in addition, the profile icons should have a pretty gradient
+change #000000 to "v0" 
+
+
+right under the input field, add the following buttons (white background, has a border) with this text: User Profile (upper-right arrow icon) Chat Application (with arrow icon) same thing for blog template and saas dashboard. they should be quite small. rounded-3xl, hover:border-zinc-800
+the buttons with user profile, chat application etc should have the upper right arrow icon at the end of each button (so to the right, and each button). additionally, the parent div should be slightly longer/more width than the div grouping the buttons/input fields.
+Make the bell icon with 14px and remove the bold of the "Example App" label
+the width of the bottom div shouldn't be 550, but 610px. 
+instead of 650px, make the width 700px. additionally, change the structure such that the inner elements are not divs but are buttons. and tighten the gap between the buttons (only in the bottom of the page, leave the nav elements alone).
+regarding the bottom buttons, decrease padding so that its px-2 and py-0.5. in addition, make the gap between them even tighter. 
+
+the first (containing the input element and button) div shouldn't have a width of 700, but of 550px. The one right beneath that should have a width of 610px.
+there should be a little bit of space between the lock icon and the arrow. the arrow should be pointing left. the circle its in should be a darker grey, #545455
+Make all cards dark mode, and make all titles larger
+Use bg zinc instead of bg gray. Increase the bottom margin of titles
+Make it darkmode. Center the content
+Center the text and images
+Make it take the height of the screen
+Add 3 more features

@@ -1,0 +1,1 @@
+Adjust the alignment of the text paragraphs in the main article content so they are left-aligned, rather than evenly stretched across the page.

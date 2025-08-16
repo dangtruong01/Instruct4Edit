@@ -1,0 +1,1 @@
+Increase the font size in the user profile statistics boxes to make them more readable.

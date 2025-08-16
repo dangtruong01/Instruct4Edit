@@ -1,0 +1,1 @@
+Center the text content within each column of the website footer.

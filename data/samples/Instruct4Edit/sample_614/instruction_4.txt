@@ -1,0 +1,1 @@
+Change the font color of the breadcrumbs to a darker, more readable shade of grey.

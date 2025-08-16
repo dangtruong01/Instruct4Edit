@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to increase the font size of the main heading "Запчасть 555 SE1551".
+2.  The after image heading appears to have an increased font size.
+3.  The change is clear and appears to match the instruction.
+
+Final verdict:
+✅ Fully Applied

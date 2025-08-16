@@ -1,0 +1,1 @@
+Add a subtle shadow to the article content area to make it stand out more from the background.

@@ -1,0 +1,1 @@
+Make the main page title larger and bolder, so it stands out more.

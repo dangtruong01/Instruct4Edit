@@ -1,0 +1,1 @@
+Increase the amount of vertical space between lines of text in the product description and the long list of countries to make them easier to read.

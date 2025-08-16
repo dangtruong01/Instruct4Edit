@@ -1,0 +1,8 @@
+Step-by-step justification:
+
+1.  The intended visual change is to make the right sidebar stick to the top of the page when scrolling down on larger screens. This means the sidebar should remain visible at the top, even as the main content scrolls past it.
+2.  The images are identical. There is no visual difference to show the sidebar is now sticky.
+3.  The change is not visible in the after image. The images appear to be the same, thus the instruction was not applied.
+
+Final verdict:
+❌ Not Applied

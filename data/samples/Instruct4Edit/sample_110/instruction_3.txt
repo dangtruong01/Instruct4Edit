@@ -1,0 +1,1 @@
+Change the font for the accordion titles in the sidebar to something cleaner and more modern.

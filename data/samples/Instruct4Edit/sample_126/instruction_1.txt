@@ -1,0 +1,1 @@
+Make the central content area, which holds the product information and images, stretch across the entire width of the screen instead of being a narrower block.

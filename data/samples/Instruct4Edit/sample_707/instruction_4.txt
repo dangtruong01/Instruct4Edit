@@ -1,0 +1,1 @@
+Replace the default blue color of the top navigation bar with a more modern, darker color.

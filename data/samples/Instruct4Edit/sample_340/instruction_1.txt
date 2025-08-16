@@ -1,0 +1,1 @@
+Make the social media icons in the header display their names next to them instead of just the icon, especially on larger screens.

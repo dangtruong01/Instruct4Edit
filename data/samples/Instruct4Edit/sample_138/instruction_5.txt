@@ -1,0 +1,1 @@
+Streamline the footer content by arranging the company details (address, phone) into a more compact, vertically aligned block, and visually separating them from the copyright information.

@@ -1,0 +1,1 @@
+Make the "Invia commento" button more noticeable with a distinct background color.

@@ -1,0 +1,1 @@
+On the image itself, add a subtle border around the displayed image to visually separate it from the background.

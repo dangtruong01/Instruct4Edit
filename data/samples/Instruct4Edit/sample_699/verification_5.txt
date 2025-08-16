@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the footer links within the footer area.
+2. In the provided images, there is a footer with links such as "مواصفات ورقة الإمتحان". These links are not visibly centered in the "after" image compared to their placement in the "before" image. They remain left-aligned.
+3. There's no change in the visual alignment of the footer links.
+
+Final verdict:
+❌ Not Applied

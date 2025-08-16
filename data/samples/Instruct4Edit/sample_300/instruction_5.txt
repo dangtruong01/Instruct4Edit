@@ -1,0 +1,1 @@
+5.  Reduce the padding around the main content area.

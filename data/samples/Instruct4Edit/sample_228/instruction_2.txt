@@ -1,0 +1,1 @@
+Ensure all main navigation links are clearly visible and spaced evenly across the top, perhaps with a subtle visual separation between them.

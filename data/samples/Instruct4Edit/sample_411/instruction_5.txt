@@ -1,0 +1,1 @@
+Make the footer a lighter shade of grey to contrast it better with the main content area.

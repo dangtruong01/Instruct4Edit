@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the footer background a slightly darker shade of grey.
+2. The background color of the footer area, specifically where the copyright information is displayed, is slightly darker in the after image than in the before image.
+3. There are no doubts, ambiguities, or missing elements.
+
+Final verdict:
+✅ Fully Applied

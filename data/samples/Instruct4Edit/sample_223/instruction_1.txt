@@ -1,0 +1,1 @@
+Expand the main content area slightly and give it more breathing room from the edges of the page, perhaps by adding more empty space around it.

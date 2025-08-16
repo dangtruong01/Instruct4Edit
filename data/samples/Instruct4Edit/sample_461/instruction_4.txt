@@ -1,0 +1,1 @@
+The alternating row colors in the table are too similar; make the contrast more apparent.

@@ -1,0 +1,1 @@
+Add some padding around the text inside the "vBulletin Message" boxes for better readability.

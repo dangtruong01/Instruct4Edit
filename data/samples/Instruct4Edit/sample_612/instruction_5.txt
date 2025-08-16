@@ -1,0 +1,1 @@
+Add a small icon next to the phone number and email in the top header for better visual clarity.

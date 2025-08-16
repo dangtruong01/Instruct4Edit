@@ -1,0 +1,1 @@
+Increase the spacing between the recent stories in the sidebar.

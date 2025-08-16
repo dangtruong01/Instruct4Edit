@@ -1,0 +1,1 @@
+Change the blue horizontal lines to a more subtle grey color.

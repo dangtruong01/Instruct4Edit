@@ -1,0 +1,1 @@
+Move the floating "Сессия под ключ!" button slightly further away from the right edge of the screen.

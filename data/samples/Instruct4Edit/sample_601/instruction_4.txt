@@ -1,0 +1,1 @@
+In the footer, make the column headers bolder and slightly larger.

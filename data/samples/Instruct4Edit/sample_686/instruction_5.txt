@@ -1,0 +1,1 @@
+Increase the vertical spacing within the footer section, especially between the copyright text and the contact details, to improve readability and create a less crowded appearance.

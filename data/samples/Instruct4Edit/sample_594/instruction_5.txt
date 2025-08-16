@@ -1,0 +1,1 @@
+Add a subtle background color (like a very light grey) to the entire header section to visually separate it from the rest of the page.

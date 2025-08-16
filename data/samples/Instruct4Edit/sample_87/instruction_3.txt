@@ -1,0 +1,1 @@
+Increase the font size and visual weight of the "Pizzeria Delphin" name and address displayed prominently near the top of the content area.

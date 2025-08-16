@@ -1,0 +1,1 @@
+Ensure the small star indicating required fields is visible next to its label.

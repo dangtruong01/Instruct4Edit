@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size of the main heading "用語集- 輸入・行政手続き". This means the heading should appear larger in the "after" image.
+2. Visually comparing the two images, the heading in the second image appears to be slightly larger than in the first image.
+3. There are no apparent ambiguities. The change is subtle but visible.
+
+Final verdict:
+✅ Fully Applied

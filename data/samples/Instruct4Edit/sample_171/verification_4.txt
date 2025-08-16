@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to increase the spacing (vertical distance) between the content of the article and the footer section.
+2.  Comparing the two images, there appears to be a slightly increased vertical gap between the article's text and the "Новости" (News) section, which is part of the footer. However, the difference is subtle and may be due to different zoom levels or rendering on my part.
+3.  The change is very subtle, and I am not fully certain about it.
+
+Final verdict:
+❌ Not Applied

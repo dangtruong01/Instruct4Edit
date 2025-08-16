@@ -1,0 +1,1 @@
+Give the "よくある質問" (Frequently Asked Questions) button on the right side a more rounded appearance.

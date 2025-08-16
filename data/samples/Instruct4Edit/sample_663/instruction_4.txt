@@ -1,0 +1,1 @@
+Apply a soft background color and a light border to the author information section at the bottom of the article to give it more visual presence.

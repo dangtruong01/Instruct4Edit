@@ -1,0 +1,1 @@
+On the main book detail page, add more vertical space between the author's name and the start of the book's description for better visual separation.

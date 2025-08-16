@@ -1,0 +1,1 @@
+Make both "Sign up to continue" buttons on the product page fully rounded.

@@ -1,0 +1,1 @@
+Make the subheadings within the main article content a different color to help them stand out from the body text.

@@ -1,0 +1,1 @@
+Change the color of the "Genre" data chip's name to white and the background color to the same blue as the "Kino" data chip.

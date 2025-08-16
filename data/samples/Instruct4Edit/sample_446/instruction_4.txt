@@ -1,0 +1,1 @@
+Increase the font size and line height of the main article body text for better readability.

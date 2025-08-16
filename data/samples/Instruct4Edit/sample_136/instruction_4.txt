@@ -1,0 +1,1 @@
+Reduce the overall size of the main 'Following' heading to create a more balanced visual hierarchy.

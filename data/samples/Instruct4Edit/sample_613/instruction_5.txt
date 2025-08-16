@@ -1,0 +1,1 @@
+Below the main content area, remove the thin grey horizontal line.

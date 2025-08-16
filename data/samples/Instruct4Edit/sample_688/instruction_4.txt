@@ -1,0 +1,1 @@
+Make the "Log in" and "Register" buttons slightly rounded at the corners.

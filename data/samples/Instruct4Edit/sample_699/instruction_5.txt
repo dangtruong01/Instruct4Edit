@@ -1,0 +1,1 @@
+Make the footer links align to the center of the footer area.

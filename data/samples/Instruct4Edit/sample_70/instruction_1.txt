@@ -1,0 +1,1 @@
+In the navigation menu, make the "LEARN ONLINE" link stand out more, perhaps by giving it a brighter background color than the other links.

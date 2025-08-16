@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to adjust the spacing between the "Wie," "Wanneer," and "Vragen of aanmelden" sections below the main image to be more consistent. This means making the vertical distance between these sections visually uniform.
+2. In the "after" image, the spacing between "Wie", "Wanneer", and "Vragen of aanmelden" appears visually more even than in the "before" image.
+3. There are no apparent ambiguities or missing elements. The spacing seems adjusted to a more consistent value.
+
+Final verdict:
+✅ Fully Applied

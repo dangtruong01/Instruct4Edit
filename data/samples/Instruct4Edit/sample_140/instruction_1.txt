@@ -1,0 +1,1 @@
+When someone points their mouse over the main navigation words at the very top of the page, make them subtly change color or get a slight underline to show they are interactive.

@@ -1,0 +1,1 @@
+Reduce the font size of the post meta information (author, date) below the main heading.

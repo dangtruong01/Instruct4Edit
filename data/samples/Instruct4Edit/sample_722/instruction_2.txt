@@ -1,0 +1,1 @@
+The navigation links in the header should be a bit further apart to improve readability.

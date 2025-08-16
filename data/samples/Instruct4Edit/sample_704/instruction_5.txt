@@ -1,0 +1,1 @@
+In the footer, make the "Acerca de nosotros" and "Conéctate con nosotros" headings a bit bigger.

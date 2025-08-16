@@ -1,0 +1,1 @@
+Soften the hard edges of the tables with rounded corners.

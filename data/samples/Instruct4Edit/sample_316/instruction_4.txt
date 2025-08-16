@@ -1,0 +1,1 @@
+Increase the spacing between the data sections (e.g., "Web dictionary words," "Last load HTTP status").

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle border to each job listing. The job listings appear to be: "Engineer-in-Training | Water Resources", "Civil Engineer-in-Training | Entry Level", and "Civil Engineer-in-Training | Land Development".
+2. In the after image, these job listings now have a very faint grey border separating them. This border is subtle, as instructed.
+3. There are no doubts or ambiguities. The change is visible and clear.
+
+Final verdict:
+✅ Fully Applied

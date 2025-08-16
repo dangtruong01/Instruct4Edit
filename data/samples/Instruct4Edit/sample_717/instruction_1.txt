@@ -1,0 +1,1 @@
+Increase the padding around the site logo in the header to give it more visual breathing room.

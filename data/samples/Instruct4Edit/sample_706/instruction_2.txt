@@ -1,0 +1,1 @@
+Increase the height of the logo image in the header to make it more prominent.

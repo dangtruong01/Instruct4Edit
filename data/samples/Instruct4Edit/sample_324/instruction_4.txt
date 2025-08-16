@@ -1,0 +1,1 @@
+Add a thin, light gray border around each distinct section within the right-hand sidebar, such as 'Recent Posts' and 'Recent Comments', to clearly separate them.

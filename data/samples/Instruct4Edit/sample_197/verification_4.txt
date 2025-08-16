@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a change in the font used for headings (h2, h3, etc.) to be more prominent. This means the font should visually stand out more compared to the body text.
+2. Looking at the "after" image, the headings (like "What strain is Ghost OG," "Ghost OG strain info," etc.) do appear to be in a different, bolder font compared to the "before" image. This makes them more visually prominent.
+3. There are no immediately apparent ambiguities or missing elements. All headings appear to have been updated with a more prominent font.
+
+Final verdict:
+✅ Fully Applied

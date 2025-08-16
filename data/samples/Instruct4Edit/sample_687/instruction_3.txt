@@ -1,0 +1,1 @@
+Widen the main content area and the sidebar slightly to fill more of the screen, providing more space for the articles and related information.

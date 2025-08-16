@@ -1,0 +1,1 @@
+Display the list of expertise areas horizontally, like individual tags, with some space around each one, instead of stacking them vertically.

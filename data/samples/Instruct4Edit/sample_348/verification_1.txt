@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intention is to increase the font size and weight (making it bolder) of the main title.
+2. Comparing the "before" and "after" images, it's visually clear that the main title font has been made larger and bolder.
+3. There are no apparent ambiguities or missing elements. The title is significantly more prominent in the second image.
+
+Final verdict:
+✅ Fully Applied

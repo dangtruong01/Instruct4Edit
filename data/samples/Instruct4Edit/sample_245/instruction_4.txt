@@ -1,0 +1,1 @@
+Adjust the vertical alignment of the site logo in the footer so it appears closer to the copyright text. Also, add more vertical space between the links in the footer sections like "條款和條件" and "Contact".

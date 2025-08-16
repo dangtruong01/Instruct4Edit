@@ -1,0 +1,1 @@
+Ensure the main navigation menu aligns perfectly with the site logo in the header, creating a cleaner, more unified top section.

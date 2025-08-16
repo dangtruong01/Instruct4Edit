@@ -1,0 +1,1 @@
+Change the font color of the footer text to a lighter shade of gray.

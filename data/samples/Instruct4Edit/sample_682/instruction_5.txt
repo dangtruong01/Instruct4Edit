@@ -1,0 +1,1 @@
+Soften the hard lines and prominent borders around content boxes and sections to give the page a cleaner, less rigid feel.

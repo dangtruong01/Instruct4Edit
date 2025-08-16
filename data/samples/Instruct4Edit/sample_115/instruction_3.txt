@@ -1,0 +1,1 @@
+Soften the appearance of the main message box by replacing its harsh blue border with a subtle shadow effect.

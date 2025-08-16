@@ -1,0 +1,1 @@
+Round the corners of the comment submit button.

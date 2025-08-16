@@ -1,0 +1,1 @@
+Make the entire top section of the page, including the website logo and all navigation links, share a unified background color, perhaps a light grey or subtle blue, instead of having different colored segments.

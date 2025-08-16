@@ -1,0 +1,1 @@
+Give the toggles containing the questions and answers a subtle background color, like a light gray, to visually separate them from the white background.

@@ -1,0 +1,1 @@
+Adjust the layout so the footer widgets are stacked vertically instead of side-by-side on smaller screens.

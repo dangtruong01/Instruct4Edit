@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the size and boldness of the "Gaharu" title.
+2. Comparing the two images, the "Gaharu" title in the "after" image is noticeably larger and bolder than the "before" image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

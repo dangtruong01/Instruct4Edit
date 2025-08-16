@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to center the map below the address. Looking at the images, the map is the image below the "Showroom and Warehouse" section. The address is "U2 17 Steigh Place, WETHERILL PARK NSW 2164 AUSTRALIA."
+2. Comparing the "before" and "after" images, the map is already centered in both images.
+3. There is no change between the two images.
+
+Final verdict:
+✅ Fully Applied

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The intended visual change is the addition of subtle rounded corners to the boxes containing the user posts.
+2. The "after" image has no visible change compared to the "before" image. No rounded corners are visible on the user post boxes.
+3. There is no change.
+
+Final verdict:
+❌ Not Applied

@@ -1,0 +1,1 @@
+Make the "Children and Childcare" dedicated header section, which features the large character image and a set of related links, visible on the page and centered for emphasis.

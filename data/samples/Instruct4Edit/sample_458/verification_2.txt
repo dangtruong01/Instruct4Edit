@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the header. In this case, the header is the gray section at the very top of the page containing the "RADIO EXPRES" logo.
+2. By comparing the before and after images, there's no visible difference in the header. I can't see a shadow added to the header in the after image.
+3. There are no ambiguities in the instruction itself. It's clear about the desired change, but it isn't visible in the images provided.
+
+Final verdict:
+❌ Not Applied

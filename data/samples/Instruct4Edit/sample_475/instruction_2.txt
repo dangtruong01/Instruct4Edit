@@ -1,0 +1,1 @@
+Make the text in the very top navigation bar (where it says "Land of Ys") a more readable color, like white or a lighter shade of green.

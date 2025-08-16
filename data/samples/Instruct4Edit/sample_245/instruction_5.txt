@@ -1,0 +1,1 @@
+Update the search bar in the main navigation to use a more refined magnifying glass icon instead of the current emoji, and ensure it's visually aligned with the other navigation items.

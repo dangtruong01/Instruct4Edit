@@ -1,0 +1,1 @@
+Add some visual separation between the previous posts in the sidebar, like lines or increased spacing.

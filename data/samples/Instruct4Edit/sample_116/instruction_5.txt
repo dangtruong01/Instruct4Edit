@@ -1,0 +1,1 @@
+Replace the small, pixelated image-based buttons like "Post" and "Reply" with modern, text-based buttons that use the current color scheme.

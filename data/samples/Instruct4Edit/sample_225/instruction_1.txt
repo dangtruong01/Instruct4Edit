@@ -1,0 +1,1 @@
+Adjust the main header area so the organizational logo is more visually prominent and centered vertically, with the 'accessibility' and 'elderly mode' links clearly visible to its right.

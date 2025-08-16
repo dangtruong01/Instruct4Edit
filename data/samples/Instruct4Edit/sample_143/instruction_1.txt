@@ -1,0 +1,1 @@
+Increase the vertical spacing between the main page sections to provide more breathing room.

@@ -1,0 +1,1 @@
+Make the links in the left-hand navigation a bolder font weight.

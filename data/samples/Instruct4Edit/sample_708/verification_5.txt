@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the font of the "INTEGRITETSPOLICY" heading to be a more readable one.
+2. Looking at the two images, it seems like the font of the heading is identical in both the before and after images. It's not noticeably different.
+3. There is no apparent visual change to the font.
+
+Final verdict:
+❌ Not Applied

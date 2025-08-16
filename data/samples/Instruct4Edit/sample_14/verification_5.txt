@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requests an increase in the spacing between the activity entries. These are the bullet-pointed items under "Деятельность" and "Свидетельства о регистрации прав на ПО".
+2. Visual inspection reveals that the vertical spacing between the entries under both "Деятельность" and "Свидетельства о регистрации прав на ПО" has been increased in the "after" image.
+3. The change is clear and unambiguous.
+
+Final verdict:
+✅ Fully Applied

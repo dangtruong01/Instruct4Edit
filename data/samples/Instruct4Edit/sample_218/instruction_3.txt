@@ -1,0 +1,1 @@
+Make all the circular sharing buttons, like the one below the article title, slightly larger and give them a faint background fill to make them more noticeable.

@@ -1,0 +1,1 @@
+The top navigation area needs a complete visual overhaul. Make it a proper, modern navigation bar that spans the full width of the page, with a cleaner layout and the links aligned to the left. Consider adding a company logo as well.

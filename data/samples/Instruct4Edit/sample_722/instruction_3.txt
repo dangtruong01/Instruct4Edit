@@ -1,0 +1,1 @@
+The light gray background in the footer is too bright. Let's use a slightly darker shade of gray so the white text is easier to read.

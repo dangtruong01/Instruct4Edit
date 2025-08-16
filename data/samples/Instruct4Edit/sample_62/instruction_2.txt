@@ -1,0 +1,1 @@
+Add a thin, light grey border around each individual article block on the main content area to make them appear as distinct cards.

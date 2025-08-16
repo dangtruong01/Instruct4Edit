@@ -1,0 +1,1 @@
+Add a subtle shadow behind the main article to make it stand out from the background.

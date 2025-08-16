@@ -1,0 +1,1 @@
+Add a subtle visual depth, like a soft shadow or a border, to the main information panel that lists the IP details.

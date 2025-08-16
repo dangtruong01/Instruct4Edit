@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to increase the size of the text in the footer.
+2.  The footer text appears larger in the "after" image compared to the "before" image.
+3.  The change is clearly visible.
+
+Final verdict:
+✅ Fully Applied

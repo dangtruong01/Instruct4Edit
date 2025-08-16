@@ -1,0 +1,1 @@
+Make the logo and header images all align nicely on one line, with no gaps between them.

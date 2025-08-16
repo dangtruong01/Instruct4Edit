@@ -1,0 +1,1 @@
+Make the author's name and the 'My Stories' section heading stand out more by making them larger and bolder.

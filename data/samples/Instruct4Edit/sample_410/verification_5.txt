@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction requires centering the footer content ("Exit mobile version" and "Back to top") and removing the border at the top of the footer.
+2. In the 'after' image, the footer content appears to be centered and the border at the top of the footer is not visible anymore.
+3. No doubts or ambiguities.
+
+Final verdict:
+✅ Fully Applied

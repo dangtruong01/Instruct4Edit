@@ -1,0 +1,1 @@
+Add a subtle gray border at the bottom of the header to visually separate it from the main content.

@@ -1,0 +1,1 @@
+Make the logo in the header and footer a bit bigger.

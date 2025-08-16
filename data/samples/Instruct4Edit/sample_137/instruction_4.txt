@@ -1,0 +1,1 @@
+The recommended video thumbnails below "Рекомендуем посмотреть" appear a bit tightly packed. Adjust their arrangement so they form a more evenly spaced grid, giving each video thumbnail a bit more breathing room around it.

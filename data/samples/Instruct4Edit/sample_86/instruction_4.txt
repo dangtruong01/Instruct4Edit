@@ -1,0 +1,1 @@
+Enhance the visual appearance of the 'Previous Post' and 'Next Post' links below the article, making them look more like distinct, clickable buttons.

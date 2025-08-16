@@ -1,0 +1,1 @@
+Make the search bar in the top navigation, including the input field and the search button, appear as a single, visually cohesive unit with slightly rounded corners.

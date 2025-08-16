@@ -1,0 +1,1 @@
+Center the main page heading ("January 2022 Core of the Month...") on the page.

@@ -1,0 +1,1 @@
+Add some visual separation and slight rounding to the social media icons in the footer to make them feel less cramped.

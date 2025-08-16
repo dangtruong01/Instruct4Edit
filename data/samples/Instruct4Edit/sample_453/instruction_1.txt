@@ -1,0 +1,1 @@
+Give the navigation bar a slightly transparent background so the content scrolls underneath it a little.

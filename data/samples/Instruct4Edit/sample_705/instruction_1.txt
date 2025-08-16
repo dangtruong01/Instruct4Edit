@@ -1,0 +1,1 @@
+Make the navigation bar stick to the top of the screen when scrolling.

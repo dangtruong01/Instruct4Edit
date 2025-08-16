@@ -1,0 +1,1 @@
+In the header, make the logo on the left and the "Create your own podcast" button align vertically in the center.

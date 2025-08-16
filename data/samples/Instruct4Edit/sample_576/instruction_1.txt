@@ -1,0 +1,1 @@
+In the header, make the "Promo & News" menu item look like a button, with a background color and rounded corners, so it stands out more.

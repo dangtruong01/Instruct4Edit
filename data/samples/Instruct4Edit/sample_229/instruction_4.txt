@@ -1,0 +1,1 @@
+The general page layout feels very rigid and boxy, with noticeable gaps filled by small invisible images. Let's aim for a cleaner, more fluid layout, introducing consistent and ample spacing around major content blocks for better readability and a less cluttered feel.

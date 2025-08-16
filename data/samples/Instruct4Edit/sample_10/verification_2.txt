@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to make the background image less opaque, allowing content behind it to show through.
+2.  There is no background image, or if there is, it is not visible in either image.
+3.  Since there's no visible background image, there's nothing to make transparent. The instruction cannot be fulfilled.
+
+Final verdict:
+❌ Not Applied

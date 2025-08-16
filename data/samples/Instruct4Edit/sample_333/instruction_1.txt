@@ -1,0 +1,1 @@
+Reduce the size of the logo in the top navigation bar and increase the spacing between the menu items.

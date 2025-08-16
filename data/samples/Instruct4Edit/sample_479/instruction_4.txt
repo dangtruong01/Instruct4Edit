@@ -1,0 +1,1 @@
+The copyright text in the footer should be a lighter shade of gray, so it's less visually dominant.

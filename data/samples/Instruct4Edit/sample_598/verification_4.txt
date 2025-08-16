@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the vertical spacing between the blog post title ("Using Symbols Panel in Adobe Illustrator") and the category ("TUTORIALS") which is located directly above the title.
+2. Comparing the two images, there is no visible change in the vertical spacing between the blog post title and the category.
+3. There are no ambiguities, but the instruction was not applied.
+
+Final verdict:
+❌ Not Applied

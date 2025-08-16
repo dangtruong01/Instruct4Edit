@@ -1,0 +1,1 @@
+Give all navigation items in the main menu a subtle hover effect, like a light background fill, when the mouse moves over them.

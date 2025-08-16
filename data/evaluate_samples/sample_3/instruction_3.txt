@@ -1,0 +1,1 @@
+Reduce the size of the social media icons in the header.

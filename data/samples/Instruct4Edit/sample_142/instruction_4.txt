@@ -1,0 +1,1 @@
+The shaded box at the very bottom of each blog post, containing information like the author and share buttons, looks dated. Remove its background shading and make its text slightly larger for better readability.

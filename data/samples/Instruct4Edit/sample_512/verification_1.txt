@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction states that the main heading should be made more prominent by increasing its font size and making it bolder.
+2. Visually comparing the before and after images, the main heading ("SPEEDO 競泳 ゴーグル SPEEDO FINA承認モデル ... APWORLD [ボンパレモール]") appears to be both larger in font size and bolder in the after image.
+3. There are no ambiguities or missing elements; the change is clear and directly related to the instruction.
+
+Final verdict:
+✅ Fully Applied

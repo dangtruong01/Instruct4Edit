@@ -1,0 +1,1 @@
+Style the search bar's text input field with a subtle light gray border and gently rounded corners.

@@ -1,0 +1,1 @@
+Make the search inputs in the form bigger and give them a light gray border.

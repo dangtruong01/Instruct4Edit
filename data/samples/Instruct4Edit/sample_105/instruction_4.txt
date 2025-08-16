@@ -1,0 +1,1 @@
+The navigation on the side should slide in quicker.

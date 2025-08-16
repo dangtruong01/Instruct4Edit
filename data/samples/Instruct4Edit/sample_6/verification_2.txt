@@ -1,0 +1,7 @@
+Step-by-step justification:
+1.  The intended visual change is to increase the space between the navigation items: Home, Why Us, Services, Gallery, Customize, Contact Us in the header.
+2.  Comparing the two images, the spacing appears unchanged.
+3.  There is no visible increase in spacing between the navigation items.
+
+Final verdict:
+❌ Not Applied

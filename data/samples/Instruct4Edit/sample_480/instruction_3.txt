@@ -1,0 +1,1 @@
+That shopping cart section on the right side, give it a subtle border so it stands out a little more from the background.

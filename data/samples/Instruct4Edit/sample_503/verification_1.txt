@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks to add a subtle background color to the navigation menu items on hover. The navigation menu items are "Oferta", "O nas", "Certyfikaty", "Kontakt", and "EN".
+2. I cannot hover over the items in the images, therefore, I cannot tell if the instruction was applied.
+3. It is unclear if the design change was applied.
+
+Final verdict:
+❌ Not Applied

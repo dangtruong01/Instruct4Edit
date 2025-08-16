@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to apply rounded corners to the tables in the image.
+2. Looking at both images, there are no apparent changes to the corners of any of the tables.
+3. It is possible that the tables are not visually distinctive enough, but there are table-like structures around the message board, the select box, and other elements. None of these show evidence of rounded corners.
+
+Final verdict:
+❌ Not Applied

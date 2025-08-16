@@ -1,0 +1,1 @@
+Make the text links in the top navigation bar appear as clearly defined buttons with a subtle background and a slightly rounded shape, providing a visual cue when hovered over.

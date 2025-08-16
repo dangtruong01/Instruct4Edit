@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle shadow to the navigation bar to visually lift it from the page. This will make the navigation bar appear elevated.
+2. Comparing the two images, it is difficult to detect a difference. Both images appear to have the same navigation bar without a visible shadow.
+3. I do not see a shadow in the "after" image.
+
+Final verdict:
+❌ Not Applied

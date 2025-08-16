@@ -1,0 +1,1 @@
+Increase the spacing between the product image and the product details (title, price, add to cart).

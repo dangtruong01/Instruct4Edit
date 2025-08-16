@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the background color of the footer section lighter than the background color of the body.
+2. In the 'after' image, the footer (the bottom section with the date, tags, and copyright info) has a lighter background color than the main content area. This is visually discernible.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

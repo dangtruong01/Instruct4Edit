@@ -1,0 +1,1 @@
+Change the background color of the entire page to a light, off-white instead of the current gray.

@@ -1,0 +1,1 @@
+Make the date in the "Trending" section of the sidebar a lighter shade of gray.

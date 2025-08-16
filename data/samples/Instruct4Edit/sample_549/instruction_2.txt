@@ -1,0 +1,1 @@
+Add a subtle gray background color to the sections to visually separate them.

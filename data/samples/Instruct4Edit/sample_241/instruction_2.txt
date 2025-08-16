@@ -1,0 +1,1 @@
+Add some empty space around the large image at the very top of the article before the title, so it doesn't look so edge-to-edge.

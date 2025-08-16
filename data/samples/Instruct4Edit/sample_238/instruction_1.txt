@@ -1,0 +1,1 @@
+Add more vertical breathing room between the main sections of the page, like between the header, the search results, and the footer area.

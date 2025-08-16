@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the shade of the footer to a lighter grey.
+2. Comparing the two images, the footer appears to be a lighter shade of grey in the second image.
+3. There are no ambiguities.
+
+Final verdict:
+✅ Fully Applied

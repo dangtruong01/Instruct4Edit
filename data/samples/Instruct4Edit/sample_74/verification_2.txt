@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the main navigation links bolder. The main navigation links are located at the top right corner: "Новости", "Рейтинг МФО по отзывам", "Форумы", "Сотрудничество", and "Контакты".
+2. When comparing the before and after images, the navigation links in the after image do appear to be slightly bolder than in the before image.
+3. There are no apparent ambiguities or missing elements.
+
+Final verdict:
+✅ Fully Applied

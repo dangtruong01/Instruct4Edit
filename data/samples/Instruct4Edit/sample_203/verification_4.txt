@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to add a subtle border around each ad box on the right.
+2. In the 'after' image, it's visually clear that a very thin, grey border has been added around the ad boxes in the right-hand column. This visually separates them from each other.
+3. There are no doubts or ambiguities; the borders are present and subtle, as requested.
+
+Final verdict:
+✅ Fully Applied

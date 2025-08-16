@@ -1,0 +1,1 @@
+Add a visible border around each of the linked items in the sidebar to make them appear as separate blocks.

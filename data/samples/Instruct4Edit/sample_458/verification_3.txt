@@ -1,0 +1,7 @@
+**Step-by-step justification:**
+1. The instruction states to replace the plain text in the "Sleduj nás" section with social media icons. However, in the provided images, there is no visible "Sleduj nás" section.
+2. Since there is no "Sleduj nás" section visible in either the before or after images, it is impossible to determine if the instruction was applied.
+3. The main issue is the absence of the specified section in the provided images.
+
+**Final verdict:**
+❌ Not Applied

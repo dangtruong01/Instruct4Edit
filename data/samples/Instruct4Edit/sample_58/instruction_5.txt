@@ -1,0 +1,1 @@
+Reduce the visual emphasis on the "Built with GeneratePress" text in the footer, perhaps by making it a lighter color or slightly smaller, so the main copyright stands out more.

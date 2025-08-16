@@ -1,0 +1,1 @@
+4.  Make the "Find Music" and "Forums" links in the navigation section bold.

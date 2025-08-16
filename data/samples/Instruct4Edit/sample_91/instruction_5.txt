@@ -1,0 +1,1 @@
+Ensure the various pieces of information in the footer at the very bottom of the page, such as contact details and links, are clearly separated and aligned, making them easier to scan.

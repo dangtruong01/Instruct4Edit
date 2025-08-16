@@ -1,0 +1,1 @@
+Lighten the gray background behind the secondary navigation.

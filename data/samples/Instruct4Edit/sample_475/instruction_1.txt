@@ -1,0 +1,1 @@
+Give the logo area a background color that complements the logo itself and the navigation bar below.

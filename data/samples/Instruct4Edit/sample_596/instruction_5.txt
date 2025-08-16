@@ -1,0 +1,1 @@
+Center the copyright information and the privacy/terms links in the footer, and put some space between them.

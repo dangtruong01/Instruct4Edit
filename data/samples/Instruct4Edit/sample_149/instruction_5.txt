@@ -1,0 +1,1 @@
+Replace the heavy horizontal lines separating sections with more subtle visual dividers, such as increased vertical spacing between content blocks or very faint, thin lines, to provide cleaner separation without cluttering the layout.

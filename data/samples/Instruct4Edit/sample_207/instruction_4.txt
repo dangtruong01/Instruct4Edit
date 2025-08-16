@@ -1,0 +1,1 @@
+Make the article title smaller, and increase the spacing between the title and the publication time/author information.

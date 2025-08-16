@@ -1,0 +1,1 @@
+Add a subtle background color to the comment form to visually separate it from the page.

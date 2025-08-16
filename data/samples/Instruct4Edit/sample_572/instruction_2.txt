@@ -1,0 +1,1 @@
+Change the color of the submenu text to be a bit darker for better readability.

@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to increase the font size and weight of the titles within the "Recomendados" section in the sidebar, specifically making them bolder.
+2. Comparing the images, it appears the titles in the "Recomendados" section ("¿Qué no se debe hacer en una conferencia de trabajo?", "Perfiles más deseados en trabajos de diseño gráfico", "Cómo publicar ofertas de empleo en Instagram", "Preguntas incómodas acerca del estado civil y el matrimonio", "¿Qué debes decir en la carta de presentación para impactar a tus entrevistadores?") are slightly bolder and possibly slightly larger in the "after" image.
+3. There is a subtle change, but it appears that the titles in the "Recomendados" section are slightly bolder in the second image.
+
+Final verdict:
+✅ Fully Applied

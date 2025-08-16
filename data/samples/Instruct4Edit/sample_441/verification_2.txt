@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to make the navigation bar fixed at the top of the screen as the user scrolls down the page. This means the navigation bar will always be visible regardless of the user's position on the page.
+2.  Without scrolling, it is impossible to tell if the navigation bar is fixed in the "after" image, as it looks identical to the "before" image. We cannot see if the navigation bar moves when the content below is scrolled.
+3.  Since the "after" image is static, we cannot verify if the navigation bar sticks to the top of the screen upon scrolling.
+
+Final verdict:
+❌ Not Applied

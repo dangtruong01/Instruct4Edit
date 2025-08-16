@@ -1,0 +1,1 @@
+Add a subtle visual bullet point or icon next to each item in the 'Recent Posts', 'Archives', and 'Categories' lists in the sidebar and footer.

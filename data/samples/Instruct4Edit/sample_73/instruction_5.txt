@@ -1,0 +1,1 @@
+That table at the very bottom with the "This document has been published..." text should have a subtle background color to visually group it, and the text inside should be left-aligned for better readability.

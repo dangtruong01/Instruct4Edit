@@ -1,0 +1,1 @@
+Center the navigation links in the header on larger screens.

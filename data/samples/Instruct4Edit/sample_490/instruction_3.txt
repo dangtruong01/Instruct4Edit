@@ -1,0 +1,1 @@
+Make the font size of the event details (date/time, location, cost) slightly larger and bolder.

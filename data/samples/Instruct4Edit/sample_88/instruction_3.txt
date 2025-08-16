@@ -1,0 +1,1 @@
+Center the prominent image and the text directly below it within the main content area.

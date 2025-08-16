@@ -1,0 +1,1 @@
+Change the font for the labels in the sidebar to a bolder weight.

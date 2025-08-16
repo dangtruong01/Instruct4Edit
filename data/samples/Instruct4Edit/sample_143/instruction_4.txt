@@ -1,0 +1,1 @@
+Apply a soft rounded edge to all interactive elements that resemble buttons or prominent links, such as the search button and the "蔵書検索" (Library Search) link in the header.

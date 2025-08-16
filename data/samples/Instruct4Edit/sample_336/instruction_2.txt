@@ -1,0 +1,1 @@
+Apply a consistent, softer visual style to all prominent section headers, especially those in the left sidebar, ensuring they have rounded edges on all corners and adequate internal padding.

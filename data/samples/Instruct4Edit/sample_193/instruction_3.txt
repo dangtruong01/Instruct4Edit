@@ -1,0 +1,1 @@
+Make the "Follow" buttons a bit larger and easier to tap, especially on smaller screens.

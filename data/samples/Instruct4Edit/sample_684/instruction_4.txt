@@ -1,0 +1,1 @@
+Give the elements inside the right-hand sidebar, like the search box, more internal space and perhaps a subtle border or background to visually separate them from the main article.

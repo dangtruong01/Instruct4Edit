@@ -1,0 +1,1 @@
+Make the sidebar widgets have a lighter background color.

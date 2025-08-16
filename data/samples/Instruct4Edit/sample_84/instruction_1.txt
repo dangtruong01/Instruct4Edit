@@ -1,0 +1,1 @@
+Make the primary navigation bar, which has the blue background and links like 'Fórum' and 'Seriály', stretch across the full width of the page's main content area. Also, make the logo within it significantly larger and position it clearly.

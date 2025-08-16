@@ -1,0 +1,1 @@
+Reduce the overall size of the logo image in the page header.

@@ -1,0 +1,1 @@
+Reduce the visual prominence of the bordered box containing the contact information within the main profile section, making it blend in more with the surrounding details.

@@ -1,0 +1,1 @@
+Round the corners of all buttons across the page for a softer, more modern look.

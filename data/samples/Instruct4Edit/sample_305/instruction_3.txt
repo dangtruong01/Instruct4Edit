@@ -1,0 +1,1 @@
+Reduce the width of the sidebar on larger screens so it doesn't take up so much space.

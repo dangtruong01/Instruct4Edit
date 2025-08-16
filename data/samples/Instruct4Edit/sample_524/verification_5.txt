@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction is to change the font of the body text to a more modern and readable sans-serif font. This means the text excluding the heading and navigation bar should be changed.
+2. I cannot see any difference between the two images, and therefore cannot confirm that the font has been changed.
+3. There is no visible difference.
+
+Final verdict:
+❌ Not Applied

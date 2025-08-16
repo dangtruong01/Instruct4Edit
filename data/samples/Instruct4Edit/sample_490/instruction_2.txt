@@ -1,0 +1,1 @@
+Increase the spacing between the social media sharing buttons and the social media icons in the footer, and align them to be on one line, side by side.

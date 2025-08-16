@@ -1,0 +1,22 @@
+Here's a step-by-step justification of the visual changes:
+
+**Instruction:** In the footer section, increase the vertical spacing between the different content blocks (like the alumni description, contact details, and newsletter form) to improve readability. Additionally, make the contact information, such as the phone number and email address, slightly larger.
+
+1.  **What is the intended visual change?**
+    *   **Part 1:** Increase the empty vertical space (padding/margin) separating major content areas within the footer, specifically between the Alumni description and the Contact section, and between the Contact section and the Newsletter form, and potentially the Newsletter form and the copyright notice. This aims to visually separate these distinct content blocks for better readability.
+    *   **Part 2:** Increase the font size of the specific contact details: the phone number ("0802 312 3667") and the email address ("contact@unilagalumniassociation.org").
+
+2.  **Is this change clearly visible in the after image compared to the before image?**
+    *   **Part 1 (Vertical Spacing):** Yes, this change is clearly visible.
+        *   There is significantly more vertical space between the bottom of the "UNILAG Alumni" description paragraph and the "Contact" heading.
+        *   Similarly, there is more vertical space between the last line of the contact details (the email address) and the "Newsletter" heading.
+        *   More vertical space is also visible between the newsletter form elements and the copyright line. This consistent increase in spacing between blocks significantly improves the visual separation and readability as requested.
+    *   **Part 2 (Contact Information Size):** Yes, this change is clearly visible.
+        *   The phone number "0802 312 3667" is noticeably larger in the "after" image compared to the "before" image.
+        *   The email address "contact@unilagalumniassociation.org" is also noticeably larger in the "after" image. Both elements also appear bolded, which further emphasizes them and contributes to the overall "larger" and more prominent appearance.
+
+3.  **Are there any doubts, ambiguities, or missing elements?**
+    *   No. Both aspects of the instruction were clearly and unequivocally implemented. The increased spacing is evident, and the contact information (phone and email) is distinctly larger.
+
+**Final verdict:**
+✅ Fully Applied

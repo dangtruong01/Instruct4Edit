@@ -1,0 +1,7 @@
+Step-by-step justification:
+1. The instruction asks for a subtle shadow to be added to the main page title. The main page title appears to be "Categorie: narcisme in het nieuws".
+2. Comparing the two images, I cannot discern any visual change in the title's appearance, specifically a shadow.
+3. There is no visible shadow added in the after image.
+
+Final verdict:
+❌ Not Applied

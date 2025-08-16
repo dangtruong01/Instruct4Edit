@@ -1,0 +1,1 @@
+Give the main navigation menu a light gray background to visually separate it from the header.

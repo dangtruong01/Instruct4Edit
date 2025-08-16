@@ -1,0 +1,1 @@
+Update the bullet points within the news article to be standard, modern bullet symbols instead of bold dots.

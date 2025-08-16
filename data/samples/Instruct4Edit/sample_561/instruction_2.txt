@@ -1,0 +1,1 @@
+Give the navigation menu items some breathing room by increasing the spacing between them.
