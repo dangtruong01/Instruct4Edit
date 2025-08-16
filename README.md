@@ -358,10 +358,15 @@ data/evaluate_samples/sample_N/
 
 ### Environment Variables (.env)
 ```bash
-# API Keys for LLM services
-GOOGLE_API_KEY=your_google_api_key_here
+# OpenAI API Key (for GPT evaluation)
 OPENAI_API_KEY=your_openai_api_key_here
-OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Google API Key (for Gemini evaluation)  
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Hugging Face Token (for model downloads)
+HUGGINGFACE_TOKEN=your_huggingface_token_here
+```
 
 ### Key Dependencies
 - `torch>=2.0.0` - PyTorch for model training
@@ -383,9 +388,8 @@ OPENROUTER_API_KEY=your_openrouter_api_key_here
 - **Multi-Framework Support**: Extend to React, Vue, and other frontend frameworks
 - **Interactive Editing**: Real-time collaboration between humans and AI
 - **Component-Level Editing**: Fine-grained modifications within web components
-- **Retrieval-Augmented Generation**: Incorporate web development knowledge bases
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 We welcome contributions! Please:
 
@@ -393,9 +397,9 @@ We welcome contributions! Please:
 2. Create a feature branch
 3. Make your changes
 4. Add tests if applicable
-5. Submit a pull request
+5. Submit a pull request -->
 
-## 📄 Citation
+<!-- ## 📄 Citation
 
 ```bibtex
 @inproceedings{dang2025instruct4edit,
@@ -404,7 +408,7 @@ We welcome contributions! Please:
   booktitle={ACM AIWare 2025},
   year={2025}
 }
-```
+``` -->
 
 ## 📧 Contact
 
